@@ -191,9 +191,20 @@ def main():
             cfg = monta_config(lead, nicho)
             nota = (lead["Nota"] or "").strip()
             aval = (lead["Avaliacoes"] or "").strip()
-            html = renderiza(tpl, cfg, nota, aval, meta["marca"])
 
             pasta = RAIZ / nicho / sl
+            url = f"https://{USUARIO_GH}.github.io/{REPO}/{nicho}/{sl}/"
+
+            # pagina feita a mao (arquivo .manual na pasta): nao sobrescreve, so registra no indice
+            if (pasta / ".manual").exists():
+                indice.append({
+                    "slug": sl, "nome": lead["Nome"].strip(), "cidade": lead["Cidade"].strip(),
+                    "whatsapp": cfg["whatsapp"], "telefone": cfg["telefone"],
+                    "nota": nota, "avaliacoes": aval, "url": url, "status": "manual",
+                })
+                continue
+
+            html = renderiza(tpl, cfg, nota, aval, meta["marca"])
             pasta.mkdir(parents=True, exist_ok=True)
             (pasta / "index.html").write_text(html, encoding="utf-8")
             (pasta / "dados.json").write_text(
@@ -216,7 +227,6 @@ def main():
                 encoding="utf-8",
             )
 
-            url = f"https://{USUARIO_GH}.github.io/{REPO}/{nicho}/{sl}/"
             indice.append(
                 {
                     "slug": sl,

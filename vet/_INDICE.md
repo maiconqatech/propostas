@@ -25,7 +25,7 @@
 | Planet Dog | Votorantim | 5515991165651 | 4,7 (116) | https://maiconqatech.github.io/propostas/vet/planet-dog-2127/ |  |
 | Seven Pet Group | Itu | 5511919597073 | 4,9 (54) | https://maiconqatech.github.io/propostas/vet/seven-pet-group-1711/ |  |
 | Vet Center Sorocaba 24h | Sorocaba | 551532331083 | 4,8 (703) | https://maiconqatech.github.io/propostas/vet/vet-center-sorocaba-24h-2314/ |  |
-| Clínica Veterinária Dr. Patinhas | Votorantim | 5515997106657 | 4,9 (45) | https://maiconqatech.github.io/propostas/vet/clinica-veterinaria-dr-patinhas-6491/ |  |
+| Clínica Veterinária Dr. Patinhas | Votorantim | 5515997106657 | 4,9 (45) | https://maiconqatech.github.io/propostas/vet/clinica-veterinaria-dr-patinhas-6491/ | manual |
 | Loucos por Bichos | Consultório Veterinário | Pet Shop | Votorantim | Votorantim | 5515998195872 | 5,0 (40) | https://maiconqatech.github.io/propostas/vet/loucos-por-bichos-consultorio-veterinario-pet-sh-7188/ |  |
 | Clínica Veterinária É O Bicho - São Luiz | Itu | 551127152715 | 4,9 (79) | https://maiconqatech.github.io/propostas/vet/clinica-veterinaria-e-o-bicho-sao-luiz-7560/ |  |
 | Consultório Veterinário Yara Xavier | Votorantim | 5515996127730 | 5,0 (32) | https://maiconqatech.github.io/propostas/vet/consultorio-veterinario-yara-xavier-0495/ |  |
