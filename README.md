@@ -22,23 +22,35 @@ propostas/
 
 ## Fluxo de uso
 
-1. **Gerar / regerar tudo:**
+1. **Gerar / regerar as páginas:**
    ```
    python gerar.py
    ```
    Sobrescreve todas as pastas de nicho a partir dos templates + da planilha.
    Editou um template? Roda de novo e todas as propostas daquele nicho atualizam.
+   Pastas com um arquivo `.manual` dentro NÃO são sobrescritas (ver item 4).
 
-2. **Publicar:** `git add -A && git commit -m "..." && git push`
+2. **Gerar as mensagens de primeiro contato:**
+   ```
+   python mensagens.py
+   ```
+   Escreve `<nicho>/_MENSAGENS.md` (mensagem pronta por lead, com o link colado) e
+   `_ENVIOS.csv` (lista mestre). Cada lead tem um link `wa.me`: você clica, o WhatsApp
+   abre a conversa com aquele número e a mensagem já digitada, você revisa e envia.
+
+3. **Publicar:** `git add -A && git commit -m "..." && git push`
    As páginas ficam em `https://maiconqatech.github.io/propostas/<nicho>/<slug>/`
 
-3. **Abordar:** abra `<nicho>/_INDICE.md`, pegue os links, mande no WhatsApp seguindo a
-   estratégia (arquivo `estrategia-whatsapp` na pasta Produtos). Marque o status na coluna.
+4. **Abordar:** trabalhe pelo `_ENVIOS.csv` ou pelos `<nicho>/_MENSAGENS.md`.
+   Antes de enviar, acrescente uma primeira linha pessoal (nome do dono, algo do
+   Instagram deles). 20 a 30 por dia, WhatsApp Business, número aquecido.
+   Marque o status no `<nicho>/_INDICE.md`. Cadência de follow-up: PDF de estratégia.
 
-4. **Personalizar quem respondeu:** edite o `index.html` daquele lead (trocar fotos do
-   Unsplash pelas reais, colocar avaliações reais do Google, ajustar textos).
+5. **Personalizar quem respondeu:** edite o `index.html` daquele lead (fotos reais,
+   avaliações reais, textos), e crie um arquivo vazio `.manual` na pasta dele.
+   A partir daí o `gerar.py` nunca mais sobrescreve essa página.
 
-5. **Faxina semanal:** apague as pastas de quem não respondeu em 30 dias e faça commit.
+6. **Faxina semanal:** apague as pastas de quem não respondeu em 30 dias e faça commit.
    Para recriar do zero, é só rodar `gerar.py` de novo.
 
 ## O que já vem preenchido
