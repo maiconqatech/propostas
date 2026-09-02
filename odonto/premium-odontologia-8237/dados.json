@@ -1,0 +1,19 @@
+{
+  "nome": "PREMIUM Odontologia",
+  "cidade": "Votorantim",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. Miguel Dias, 28, Votorantim - SP",
+  "telefone": "(15) 99181-0531",
+  "whatsapp": "5515991810531",
+  "nota_google": "5,0",
+  "avaliacoes_google": "176",
+  "google_maps": "https://www.google.com/maps?cid=7713605938291578237",
+  "config": {
+    "nome": "PREMIUM Odontologia",
+    "whatsapp": "5515991810531",
+    "telefone": "(15) 99181-0531",
+    "endereco": "R. Miguel Dias, 28, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

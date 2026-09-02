@@ -1,0 +1,19 @@
+{
+  "nome": "Curae Clínica - Fisioterapia, Terapia Ocupacional e Pilates - Sorocaba",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Rua Antônio Soares Leitão, 84, Sorocaba - SP",
+  "telefone": "(15) 99772-8615",
+  "whatsapp": "5515997728615",
+  "nota_google": "5,0",
+  "avaliacoes_google": "28",
+  "google_maps": "https://www.google.com/maps?cid=1067818481738185049",
+  "config": {
+    "nome": "Curae Clínica - Fisioterapia, Terapia Ocupacional e Pilates - Sorocaba",
+    "whatsapp": "5515997728615",
+    "telefone": "(15) 99772-8615",
+    "endereco": "Rua Antônio Soares Leitão, 84, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

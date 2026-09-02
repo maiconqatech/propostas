@@ -1,0 +1,19 @@
+{
+  "nome": "Dra Adriana Renata Delgado",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Clínica odontológica",
+  "endereco": "Rua Alice Proença dos Santos, 61 - Sl 02, Salto de Pirapora - SP",
+  "telefone": "(15) 99601-9272",
+  "whatsapp": "5515996019272",
+  "nota_google": "5,0",
+  "avaliacoes_google": "3",
+  "google_maps": "https://www.google.com/maps?cid=2907962404325395023",
+  "config": {
+    "nome": "Dra Adriana Renata Delgado",
+    "whatsapp": "5515996019272",
+    "telefone": "(15) 99601-9272",
+    "endereco": "Rua Alice Proença dos Santos, 61 - Sl 02, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

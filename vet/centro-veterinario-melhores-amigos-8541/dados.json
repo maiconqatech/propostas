@@ -1,0 +1,19 @@
+{
+  "nome": "Centro Veterinário Melhores Amigos",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "Rua: Paula Souza, 140, Itu - SP",
+  "telefone": "(11) 2429-7479",
+  "whatsapp": "551124297479",
+  "nota_google": "4,7",
+  "avaliacoes_google": "51",
+  "google_maps": "https://www.google.com/maps?cid=17091929152388928541",
+  "config": {
+    "nome": "Centro Veterinário Melhores Amigos",
+    "whatsapp": "551124297479",
+    "telefone": "(11) 2429-7479",
+    "endereco": "Rua: Paula Souza, 140, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica",
+  "cidade": "Votorantim",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Noé Carlos de Campos, 125, Votorantim - SP",
+  "telefone": "(15) 3018-6687",
+  "whatsapp": "551530186687",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=8177096407966226192",
+  "config": {
+    "nome": "Clínica",
+    "whatsapp": "551530186687",
+    "telefone": "(15) 3018-6687",
+    "endereco": "R. Noé Carlos de Campos, 125, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

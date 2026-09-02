@@ -1,0 +1,19 @@
+{
+  "nome": "Ortozara Odontologia | Itu - Unidade 2",
+  "cidade": "Itu",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. Floriano Peixoto, 1021, Itu - SP",
+  "telefone": "(11) 2715-8121",
+  "whatsapp": "551127158121",
+  "nota_google": "4,8",
+  "avaliacoes_google": "175",
+  "google_maps": "https://www.google.com/maps?cid=8820881654915646230",
+  "config": {
+    "nome": "Ortozara Odontologia | Itu - Unidade 2",
+    "whatsapp": "551127158121",
+    "telefone": "(11) 2715-8121",
+    "endereco": "R. Floriano Peixoto, 1021, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

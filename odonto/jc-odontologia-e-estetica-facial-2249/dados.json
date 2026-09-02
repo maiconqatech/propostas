@@ -1,0 +1,19 @@
+{
+  "nome": "JC Odontologia e Estética Facial",
+  "cidade": "Piedade",
+  "categoria": "Dentista",
+  "endereco": "R. Comendador Parada, 95 - 1 andar, Piedade - SP",
+  "telefone": "(15) 98108-2600",
+  "whatsapp": "5515981082600",
+  "nota_google": "5,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=9128311610019242249",
+  "config": {
+    "nome": "JC Odontologia e Estética Facial",
+    "whatsapp": "5515981082600",
+    "telefone": "(15) 98108-2600",
+    "endereco": "R. Comendador Parada, 95 - 1 andar, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

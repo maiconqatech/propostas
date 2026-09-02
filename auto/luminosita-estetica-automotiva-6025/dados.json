@@ -1,0 +1,19 @@
+{
+  "nome": "Luminosita Estética Automotiva",
+  "cidade": "Piedade",
+  "categoria": "Martelinho de ouro",
+  "endereco": "R. Vinte de Maio, 280, Piedade - SP",
+  "telefone": "(15) 99800-9517",
+  "whatsapp": "5515998009517",
+  "nota_google": "5,0",
+  "avaliacoes_google": "5",
+  "google_maps": "https://www.google.com/maps?cid=14222331093364166025",
+  "config": {
+    "nome": "Luminosita Estética Automotiva",
+    "whatsapp": "5515998009517",
+    "telefone": "(15) 99800-9517",
+    "endereco": "R. Vinte de Maio, 280, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

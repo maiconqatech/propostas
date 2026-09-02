@@ -1,0 +1,19 @@
+{
+  "nome": "Centro Odontológico Dra. Mariane Isabela",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Clínica odontológica",
+  "endereco": "Av. Pedro Pires de Mello, 390, Salto de Pirapora - SP",
+  "telefone": "(15) 99679-1507",
+  "whatsapp": "5515996791507",
+  "nota_google": "5,0",
+  "avaliacoes_google": "12",
+  "google_maps": "https://www.google.com/maps?cid=18192428266532424251",
+  "config": {
+    "nome": "Centro Odontológico Dra. Mariane Isabela",
+    "whatsapp": "5515996791507",
+    "telefone": "(15) 99679-1507",
+    "endereco": "Av. Pedro Pires de Mello, 390, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

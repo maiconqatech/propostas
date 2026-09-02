@@ -1,0 +1,19 @@
+{
+  "nome": "Laboratório Cesar Elpidio",
+  "cidade": "Sorocaba",
+  "categoria": "Laboratório de odontologia",
+  "endereco": "R. Condé Deu, 136, Sorocaba - SP",
+  "telefone": "(15) 3234-0766",
+  "whatsapp": "551532340766",
+  "nota_google": "5,0",
+  "avaliacoes_google": "5",
+  "google_maps": "https://www.google.com/maps?cid=2541303303775913918",
+  "config": {
+    "nome": "Laboratório Cesar Elpidio",
+    "whatsapp": "551532340766",
+    "telefone": "(15) 3234-0766",
+    "endereco": "R. Condé Deu, 136, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

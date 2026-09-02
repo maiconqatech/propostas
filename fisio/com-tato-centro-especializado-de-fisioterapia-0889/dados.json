@@ -1,0 +1,19 @@
+{
+  "nome": "COM TATO-Centro Especializado de Fisioterapia",
+  "cidade": "Votorantim",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Leônidas de Góes Vieira, 98, Votorantim - SP",
+  "telefone": "(15) 3343-6900",
+  "whatsapp": "551533436900",
+  "nota_google": "3,8",
+  "avaliacoes_google": "21",
+  "google_maps": "https://www.google.com/maps?cid=898579504588770889",
+  "config": {
+    "nome": "COM TATO-Centro Especializado de Fisioterapia",
+    "whatsapp": "551533436900",
+    "telefone": "(15) 3343-6900",
+    "endereco": "R. Leônidas de Góes Vieira, 98, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

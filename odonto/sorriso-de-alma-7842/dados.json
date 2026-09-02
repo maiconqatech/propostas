@@ -1,0 +1,19 @@
+{
+  "nome": "Sorriso de Alma",
+  "cidade": "Piedade",
+  "categoria": "Clínica odontológica",
+  "endereco": "Av. Coração de Jesus, 257, Piedade - SP",
+  "telefone": "(15) 3344-1731",
+  "whatsapp": "551533441731",
+  "nota_google": "5,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=14034579717097927842",
+  "config": {
+    "nome": "Sorriso de Alma",
+    "whatsapp": "551533441731",
+    "telefone": "(15) 3344-1731",
+    "endereco": "Av. Coração de Jesus, 257, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

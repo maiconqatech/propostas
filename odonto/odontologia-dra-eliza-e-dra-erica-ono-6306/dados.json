@@ -1,0 +1,19 @@
+{
+  "nome": "Odontologia Dra. Eliza e Dra. Erica Ono",
+  "cidade": "Piedade",
+  "categoria": "Dentista",
+  "endereco": "R. Vicente García, 65, Piedade - SP",
+  "telefone": "(15) 3244-2729",
+  "whatsapp": "551532442729",
+  "nota_google": "5,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=6863164693408736306",
+  "config": {
+    "nome": "Odontologia Dra. Eliza e Dra. Erica Ono",
+    "whatsapp": "551532442729",
+    "telefone": "(15) 3244-2729",
+    "endereco": "R. Vicente García, 65, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

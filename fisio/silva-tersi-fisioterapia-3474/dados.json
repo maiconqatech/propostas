@@ -1,0 +1,19 @@
+{
+  "nome": "Silva Tersi Fisioterapia",
+  "cidade": "Votorantim",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Leônidas de Góes Vieira, 98, Votorantim - SP",
+  "telefone": "(15) 3343-6900",
+  "whatsapp": "551533436900",
+  "nota_google": "2,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=3617479915089953474",
+  "config": {
+    "nome": "Silva Tersi Fisioterapia",
+    "whatsapp": "551533436900",
+    "telefone": "(15) 3343-6900",
+    "endereco": "R. Leônidas de Góes Vieira, 98, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Brenda Rodrigues Fisioterapia vestibular",
+  "cidade": "Piedade",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Av. Coração de Jesus, 178, Piedade - SP",
+  "telefone": "(15) 99607-6260",
+  "whatsapp": "5515996076260",
+  "nota_google": "5,0",
+  "avaliacoes_google": "4",
+  "google_maps": "https://www.google.com/maps?cid=2814318355208977673",
+  "config": {
+    "nome": "Brenda Rodrigues Fisioterapia vestibular",
+    "whatsapp": "5515996076260",
+    "telefone": "(15) 99607-6260",
+    "endereco": "Av. Coração de Jesus, 178, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

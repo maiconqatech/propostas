@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Bem-te-vi",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Leonardo Piunti, Itu - SP",
+  "telefone": "(11) 98737-7528",
+  "whatsapp": "5511987377528",
+  "nota_google": "5,0",
+  "avaliacoes_google": "6",
+  "google_maps": "https://www.google.com/maps?cid=4909779433603897990",
+  "config": {
+    "nome": "Clínica Bem-te-vi",
+    "whatsapp": "5511987377528",
+    "telefone": "(11) 98737-7528",
+    "endereco": "R. Leonardo Piunti, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

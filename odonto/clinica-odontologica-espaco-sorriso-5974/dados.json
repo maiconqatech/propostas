@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Odontológica Espaço Sorriso",
+  "cidade": "Piedade",
+  "categoria": "Dentista",
+  "endereco": "R. Araújo Leite, 201, Piedade - SP",
+  "telefone": "(15) 99756-8003",
+  "whatsapp": "5515997568003",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=14187054262619455974",
+  "config": {
+    "nome": "Clínica Odontológica Espaço Sorriso",
+    "whatsapp": "5515997568003",
+    "telefone": "(15) 99756-8003",
+    "endereco": "R. Araújo Leite, 201, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

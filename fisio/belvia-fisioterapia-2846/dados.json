@@ -1,0 +1,19 @@
+{
+  "nome": "Belvia Fisioterapia",
+  "cidade": "Votorantim",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Angelino Pardini, 109, Votorantim - SP",
+  "telefone": "(15) 99732-9014",
+  "whatsapp": "5515997329014",
+  "nota_google": "5,0",
+  "avaliacoes_google": "242",
+  "google_maps": "https://www.google.com/maps?cid=8165393671319012846",
+  "config": {
+    "nome": "Belvia Fisioterapia",
+    "whatsapp": "5515997329014",
+    "telefone": "(15) 99732-9014",
+    "endereco": "R. Angelino Pardini, 109, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

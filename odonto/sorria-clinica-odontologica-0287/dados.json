@@ -1,0 +1,19 @@
+{
+  "nome": "Sorria + | Clínica Odontológica",
+  "cidade": "Votorantim",
+  "categoria": "Clínica odontológica",
+  "endereco": "R: Sebastião Lopes, 149, Votorantim - SP",
+  "telefone": "(15) 99774-6285",
+  "whatsapp": "5515997746285",
+  "nota_google": "5,0",
+  "avaliacoes_google": "26",
+  "google_maps": "https://www.google.com/maps?cid=10683818247725890287",
+  "config": {
+    "nome": "Sorria + | Clínica Odontológica",
+    "whatsapp": "5515997746285",
+    "telefone": "(15) 99774-6285",
+    "endereco": "R: Sebastião Lopes, 149, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

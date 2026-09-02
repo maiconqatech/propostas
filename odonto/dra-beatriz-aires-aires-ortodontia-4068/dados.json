@@ -1,0 +1,19 @@
+{
+  "nome": "Dra Beatriz Aires - Aires Ortodontia",
+  "cidade": "Itu",
+  "categoria": "Dentista",
+  "endereco": "Av. Adolfo Augusto Pinto, 110 - Sl 14, Itu - SP",
+  "telefone": "(11) 98787-6386",
+  "whatsapp": "5511987876386",
+  "nota_google": "4,9",
+  "avaliacoes_google": "35",
+  "google_maps": "https://www.google.com/maps?cid=16481462596976664068",
+  "config": {
+    "nome": "Dra Beatriz Aires - Aires Ortodontia",
+    "whatsapp": "5511987876386",
+    "telefone": "(11) 98787-6386",
+    "endereco": "Av. Adolfo Augusto Pinto, 110 - Sl 14, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

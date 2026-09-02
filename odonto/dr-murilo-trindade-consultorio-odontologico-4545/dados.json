@@ -1,0 +1,19 @@
+{
+  "nome": "Dr. Murilo Trindade - Consultório Odontológico",
+  "cidade": "Votorantim",
+  "categoria": "Dentista",
+  "endereco": "R. José Belini, 28, Votorantim - SP",
+  "telefone": "(15) 98138-7626",
+  "whatsapp": "5515981387626",
+  "nota_google": "5,0",
+  "avaliacoes_google": "83",
+  "google_maps": "https://www.google.com/maps?cid=17720771012561444545",
+  "config": {
+    "nome": "Dr. Murilo Trindade - Consultório Odontológico",
+    "whatsapp": "5515981387626",
+    "telefone": "(15) 98138-7626",
+    "endereco": "R. José Belini, 28, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

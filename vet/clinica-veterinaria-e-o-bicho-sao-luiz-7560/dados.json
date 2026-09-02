@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Veterinária É O Bicho - São Luiz",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "R. Arlíndo Nóbrega de Almeida, 467, Itu - SP",
+  "telefone": "(11) 2715-2715",
+  "whatsapp": "551127152715",
+  "nota_google": "4,9",
+  "avaliacoes_google": "79",
+  "google_maps": "https://www.google.com/maps?cid=13038548083078827560",
+  "config": {
+    "nome": "Clínica Veterinária É O Bicho - São Luiz",
+    "whatsapp": "551127152715",
+    "telefone": "(11) 2715-2715",
+    "endereco": "R. Arlíndo Nóbrega de Almeida, 467, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

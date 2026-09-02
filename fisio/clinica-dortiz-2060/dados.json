@@ -1,0 +1,19 @@
+{
+  "nome": "Clinica Dortiz",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Benedito Vieira Moraes, 80, Salto de Pirapora - SP",
+  "telefone": "(15) 99695-0918",
+  "whatsapp": "5515996950918",
+  "nota_google": "2,3",
+  "avaliacoes_google": "3",
+  "google_maps": "https://www.google.com/maps?cid=12245959118338572060",
+  "config": {
+    "nome": "Clinica Dortiz",
+    "whatsapp": "5515996950918",
+    "telefone": "(15) 99695-0918",
+    "endereco": "R. Benedito Vieira Moraes, 80, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

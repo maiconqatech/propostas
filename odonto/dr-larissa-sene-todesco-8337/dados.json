@@ -1,0 +1,19 @@
+{
+  "nome": "Dr. Larissa Sene Todesco",
+  "cidade": "Piedade",
+  "categoria": "Dentista",
+  "endereco": "R. Sebastião Pereira, 35, Piedade - SP",
+  "telefone": "(15) 3244-4619",
+  "whatsapp": "551532444619",
+  "nota_google": "5,0",
+  "avaliacoes_google": "8",
+  "google_maps": "https://www.google.com/maps?cid=3073606725534968337",
+  "config": {
+    "nome": "Dr. Larissa Sene Todesco",
+    "whatsapp": "551532444619",
+    "telefone": "(15) 3244-4619",
+    "endereco": "R. Sebastião Pereira, 35, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

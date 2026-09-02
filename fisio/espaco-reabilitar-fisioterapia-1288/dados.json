@@ -1,0 +1,19 @@
+{
+  "nome": "Espaço Reabilitar Fisioterapia",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Av. Caetano Ruggieri, 2935, Itu - SP",
+  "telefone": "(11) 97286-3309",
+  "whatsapp": "5511972863309",
+  "nota_google": "5,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=15184377530979111288",
+  "config": {
+    "nome": "Espaço Reabilitar Fisioterapia",
+    "whatsapp": "5511972863309",
+    "telefone": "(11) 97286-3309",
+    "endereco": "Av. Caetano Ruggieri, 2935, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

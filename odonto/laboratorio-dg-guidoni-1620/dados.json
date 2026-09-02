@@ -1,0 +1,19 @@
+{
+  "nome": "Laboratório DG Guidoni",
+  "cidade": "Sorocaba",
+  "categoria": "Laboratório de odontologia",
+  "endereco": "R. Manoel Lourenço Rodrigues, 777, Sorocaba - SP",
+  "telefone": "(15) 3321-4199",
+  "whatsapp": "551533214199",
+  "nota_google": "5,0",
+  "avaliacoes_google": "27",
+  "google_maps": "https://www.google.com/maps?cid=2945701996861821620",
+  "config": {
+    "nome": "Laboratório DG Guidoni",
+    "whatsapp": "551533214199",
+    "telefone": "(15) 3321-4199",
+    "endereco": "R. Manoel Lourenço Rodrigues, 777, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

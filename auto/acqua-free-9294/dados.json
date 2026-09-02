@@ -1,0 +1,19 @@
+{
+  "nome": "Acqua Free",
+  "cidade": "Piedade",
+  "categoria": "Lava-rápido",
+  "endereco": "Rua Capitão Moraes., 1298, Piedade - SP",
+  "telefone": "(15) 99830-9437",
+  "whatsapp": "5515998309437",
+  "nota_google": "4,6",
+  "avaliacoes_google": "5",
+  "google_maps": "https://www.google.com/maps?cid=18054684112126289294",
+  "config": {
+    "nome": "Acqua Free",
+    "whatsapp": "5515998309437",
+    "telefone": "(15) 99830-9437",
+    "endereco": "Rua Capitão Moraes., 1298, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

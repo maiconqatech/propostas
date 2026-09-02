@@ -1,0 +1,19 @@
+{
+  "nome": "Espaço Selvagem",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "R. Macapá, n° 27, Itu - SP",
+  "telefone": "(11) 93220-9125",
+  "whatsapp": "5511932209125",
+  "nota_google": "5,0",
+  "avaliacoes_google": "13",
+  "google_maps": "https://www.google.com/maps?cid=13914788112061911925",
+  "config": {
+    "nome": "Espaço Selvagem",
+    "whatsapp": "5511932209125",
+    "telefone": "(11) 93220-9125",
+    "endereco": "R. Macapá, n° 27, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

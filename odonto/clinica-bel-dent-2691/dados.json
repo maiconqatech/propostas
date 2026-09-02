@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Bel Dent",
+  "cidade": "Votorantim",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. Manoel Ramos, 54, Votorantim - SP",
+  "telefone": "(15) 98183-3795",
+  "whatsapp": "5515981833795",
+  "nota_google": "5,0",
+  "avaliacoes_google": "105",
+  "google_maps": "https://www.google.com/maps?cid=18286975821588722691",
+  "config": {
+    "nome": "Clínica Bel Dent",
+    "whatsapp": "5515981833795",
+    "telefone": "(15) 98183-3795",
+    "endereco": "R. Manoel Ramos, 54, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

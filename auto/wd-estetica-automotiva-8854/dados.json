@@ -1,0 +1,19 @@
+{
+  "nome": "WD ESTETICA AUTOMOTIVA",
+  "cidade": "Piedade",
+  "categoria": "Lava-rápido",
+  "endereco": "R. José Batista, 1067B, Piedade - SP",
+  "telefone": "(15) 99847-3990",
+  "whatsapp": "5515998473990",
+  "nota_google": "5,0",
+  "avaliacoes_google": "5",
+  "google_maps": "https://www.google.com/maps?cid=3258010239483538854",
+  "config": {
+    "nome": "Wd Estetica Automotiva",
+    "whatsapp": "5515998473990",
+    "telefone": "(15) 99847-3990",
+    "endereco": "R. José Batista, 1067B, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

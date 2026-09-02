@@ -1,0 +1,19 @@
+{
+  "nome": "Dra Ellen Silva Moura - Piedade",
+  "cidade": "Piedade",
+  "categoria": "Cirurgião dentista",
+  "endereco": "R. Eugênio de Oliveira Leite, 60, Piedade - SP",
+  "telefone": "(15) 99789-3090",
+  "whatsapp": "5515997893090",
+  "nota_google": "5,0",
+  "avaliacoes_google": "8",
+  "google_maps": "https://www.google.com/maps?cid=5945066178371766244",
+  "config": {
+    "nome": "Dra Ellen Silva Moura - Piedade",
+    "whatsapp": "5515997893090",
+    "telefone": "(15) 99789-3090",
+    "endereco": "R. Eugênio de Oliveira Leite, 60, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

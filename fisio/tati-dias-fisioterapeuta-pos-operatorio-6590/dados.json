@@ -1,0 +1,19 @@
+{
+  "nome": "Tati Dias Fisioterapeuta Pós Operatório",
+  "cidade": "Votorantim",
+  "categoria": "Fisioterapeuta",
+  "endereco": "Rua Davino Nogueira dos Santos, 81, Votorantim - SP",
+  "telefone": "(15) 99658-4958",
+  "whatsapp": "5515996584958",
+  "nota_google": "5,0",
+  "avaliacoes_google": "37",
+  "google_maps": "https://www.google.com/maps?cid=6962245995269146590",
+  "config": {
+    "nome": "Tati Dias Fisioterapeuta Pós Operatório",
+    "whatsapp": "5515996584958",
+    "telefone": "(15) 99658-4958",
+    "endereco": "Rua Davino Nogueira dos Santos, 81, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Fisiotrat",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Av. Itavuvu, 818, Sorocaba - SP",
+  "telefone": "(15) 3234-5527",
+  "whatsapp": "551532345527",
+  "nota_google": "4,8",
+  "avaliacoes_google": "31",
+  "google_maps": "https://www.google.com/maps?cid=548449389842940105",
+  "config": {
+    "nome": "Clínica Fisiotrat",
+    "whatsapp": "551532345527",
+    "telefone": "(15) 3234-5527",
+    "endereco": "Av. Itavuvu, 818, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

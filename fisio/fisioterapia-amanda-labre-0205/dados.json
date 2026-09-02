@@ -1,0 +1,19 @@
+{
+  "nome": "Fisioterapia Amanda Labre",
+  "cidade": "Piedade",
+  "categoria": "Fisioterapeuta",
+  "endereco": "R. Mal. Floriano Peixoto, 44 - Sl 12, Piedade - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=15009867576681570205",
+  "config": {
+    "nome": "Fisioterapia Amanda Labre",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "R. Mal. Floriano Peixoto, 44 - Sl 12, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

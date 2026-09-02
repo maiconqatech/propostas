@@ -1,0 +1,19 @@
+{
+  "nome": "Resiliency Clínica de Fisioterapia",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Av. Prof. Arthur Fonseca, 153, Sorocaba - SP",
+  "telefone": "(15) 99685-1912",
+  "whatsapp": "5515996851912",
+  "nota_google": "5,0",
+  "avaliacoes_google": "37",
+  "google_maps": "https://www.google.com/maps?cid=7703549681596594016",
+  "config": {
+    "nome": "Resiliency Clínica de Fisioterapia",
+    "whatsapp": "5515996851912",
+    "telefone": "(15) 99685-1912",
+    "endereco": "Av. Prof. Arthur Fonseca, 153, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

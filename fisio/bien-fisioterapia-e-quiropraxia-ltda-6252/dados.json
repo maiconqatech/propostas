@@ -1,0 +1,19 @@
+{
+  "nome": "Bien Fisioterapia e Quiropraxia Ltda",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Arthur Gomes, 552 - Sl 6, Sorocaba - SP",
+  "telefone": "(15) 99787-0897",
+  "whatsapp": "5515997870897",
+  "nota_google": "5,0",
+  "avaliacoes_google": "22",
+  "google_maps": "https://www.google.com/maps?cid=4011050040835776252",
+  "config": {
+    "nome": "Bien Fisioterapia e Quiropraxia Ltda",
+    "whatsapp": "5515997870897",
+    "telefone": "(15) 99787-0897",
+    "endereco": "R. Arthur Gomes, 552 - Sl 6, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

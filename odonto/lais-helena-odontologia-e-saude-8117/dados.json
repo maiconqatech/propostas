@@ -1,0 +1,19 @@
+{
+  "nome": "Laís Helena Odontologia e Saúde",
+  "cidade": "Piedade",
+  "categoria": "Centro de saúde e beleza",
+  "endereco": "R. Bartolomeu Godinho Silva, 45, Piedade - SP",
+  "telefone": "(15) 99824-5887",
+  "whatsapp": "5515998245887",
+  "nota_google": "3,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=16827878859096898117",
+  "config": {
+    "nome": "Laís Helena Odontologia e Saúde",
+    "whatsapp": "5515998245887",
+    "telefone": "(15) 99824-5887",
+    "endereco": "R. Bartolomeu Godinho Silva, 45, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

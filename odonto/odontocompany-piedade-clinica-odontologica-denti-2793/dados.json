@@ -1,0 +1,19 @@
+{
+  "nome": "OdontoCompany Piedade | Clínica Odontológica | Dentista",
+  "cidade": "Piedade",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. Cap. Antônio Parada, 86, Piedade - SP",
+  "telefone": "(15) 99612-3114",
+  "whatsapp": "5515996123114",
+  "nota_google": "5,0",
+  "avaliacoes_google": "100",
+  "google_maps": "https://www.google.com/maps?cid=1925514794941972793",
+  "config": {
+    "nome": "OdontoCompany Piedade | Clínica Odontológica | Dentista",
+    "whatsapp": "5515996123114",
+    "telefone": "(15) 99612-3114",
+    "endereco": "R. Cap. Antônio Parada, 86, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

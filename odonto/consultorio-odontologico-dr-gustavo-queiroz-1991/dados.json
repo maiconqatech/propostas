@@ -1,0 +1,19 @@
+{
+  "nome": "Consultório Odontológico Dr. Gustavo Queiroz",
+  "cidade": "Itu",
+  "categoria": "Dentista",
+  "endereco": "R. Santa Rita, 717, Itu - SP",
+  "telefone": "(11) 97426-8421",
+  "whatsapp": "5511974268421",
+  "nota_google": "5,0",
+  "avaliacoes_google": "351",
+  "google_maps": "https://www.google.com/maps?cid=7092868929904961991",
+  "config": {
+    "nome": "Consultório Odontológico Dr. Gustavo Queiroz",
+    "whatsapp": "5511974268421",
+    "telefone": "(11) 97426-8421",
+    "endereco": "R. Santa Rita, 717, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

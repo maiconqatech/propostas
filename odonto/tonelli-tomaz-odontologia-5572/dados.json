@@ -1,0 +1,19 @@
+{
+  "nome": "Tonelli Tomaz Odontologia",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Dentista",
+  "endereco": "R. Edézio Guimarães, 121, Salto de Pirapora - SP",
+  "telefone": "(15) 99834-9852",
+  "whatsapp": "5515998349852",
+  "nota_google": "5,0",
+  "avaliacoes_google": "62",
+  "google_maps": "https://www.google.com/maps?cid=10384263862013275572",
+  "config": {
+    "nome": "Tonelli Tomaz Odontologia",
+    "whatsapp": "5515998349852",
+    "telefone": "(15) 99834-9852",
+    "endereco": "R. Edézio Guimarães, 121, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

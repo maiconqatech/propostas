@@ -1,0 +1,19 @@
+{
+  "nome": "Dentista Douglas Camargo",
+  "cidade": "Piedade",
+  "categoria": "Dentista",
+  "endereco": "R. Cap. Almeida Lima, 30, Piedade - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=2130811240927109492",
+  "config": {
+    "nome": "Dentista Douglas Camargo",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "R. Cap. Almeida Lima, 30, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

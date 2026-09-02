@@ -1,0 +1,19 @@
+{
+  "nome": "Robertinho Reparações Automotivas (funilaria e pintura)",
+  "cidade": "Votorantim",
+  "categoria": "Pintura automotiva",
+  "endereco": "Rua Nilce Maria do Nascimento, 10, Votorantim - SP",
+  "telefone": "(15) 99764-8360",
+  "whatsapp": "5515997648360",
+  "nota_google": "4,5",
+  "avaliacoes_google": "8",
+  "google_maps": "https://www.google.com/maps?cid=3156127923776619587",
+  "config": {
+    "nome": "Robertinho Reparações Automotivas (funilaria e pintura)",
+    "whatsapp": "5515997648360",
+    "telefone": "(15) 99764-8360",
+    "endereco": "Rua Nilce Maria do Nascimento, 10, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

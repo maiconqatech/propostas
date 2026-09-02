@@ -1,0 +1,19 @@
+{
+  "nome": "MV Fisioterapia e Pilates",
+  "cidade": "Votorantim",
+  "categoria": "Estúdio de pilates",
+  "endereco": "R. Bernardo Tescaro, 63, Votorantim - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "5,0",
+  "avaliacoes_google": "23",
+  "google_maps": "https://www.google.com/maps?cid=157123564399926520",
+  "config": {
+    "nome": "MV Fisioterapia e Pilates",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "R. Bernardo Tescaro, 63, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma aula experimental de pilates."
+  }
+}

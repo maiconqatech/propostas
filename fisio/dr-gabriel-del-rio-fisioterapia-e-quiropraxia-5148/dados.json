@@ -1,0 +1,19 @@
+{
+  "nome": "Dr. Gabriel Del Rio - Fisioterapia e Quiropraxia",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Rua Felipe Betti, 145, Sorocaba - SP",
+  "telefone": "(15) 99720-7787",
+  "whatsapp": "5515997207787",
+  "nota_google": "5,0",
+  "avaliacoes_google": "19",
+  "google_maps": "https://www.google.com/maps?cid=12789537733121635148",
+  "config": {
+    "nome": "Dr. Gabriel Del Rio - Fisioterapia e Quiropraxia",
+    "whatsapp": "5515997207787",
+    "telefone": "(15) 99720-7787",
+    "endereco": "Rua Felipe Betti, 145, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

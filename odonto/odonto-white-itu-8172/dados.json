@@ -1,0 +1,19 @@
+{
+  "nome": "Odonto White Itu",
+  "cidade": "Itu",
+  "categoria": "Dentista",
+  "endereco": "R. Francisco Benedito da Silveira, 54, Itu - SP",
+  "telefone": "(11) 4022-6536",
+  "whatsapp": "551140226536",
+  "nota_google": "4,2",
+  "avaliacoes_google": "5",
+  "google_maps": "https://www.google.com/maps?cid=10676242859195778172",
+  "config": {
+    "nome": "Odonto White Itu",
+    "whatsapp": "551140226536",
+    "telefone": "(11) 4022-6536",
+    "endereco": "R. Francisco Benedito da Silveira, 54, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

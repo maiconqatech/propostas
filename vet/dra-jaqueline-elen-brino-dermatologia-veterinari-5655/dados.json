@@ -1,0 +1,19 @@
+{
+  "nome": "Dra Jaqueline Elen Brino Dermatologia Veterinária",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "Av. Matheus Conegero, 408, Votorantim - SP",
+  "telefone": "(15) 98157-4615",
+  "whatsapp": "5515981574615",
+  "nota_google": "4,9",
+  "avaliacoes_google": "75",
+  "google_maps": "https://www.google.com/maps?cid=1992472607978205655",
+  "config": {
+    "nome": "Dra Jaqueline Elen Brino Dermatologia Veterinária",
+    "whatsapp": "5515981574615",
+    "telefone": "(15) 98157-4615",
+    "endereco": "Av. Matheus Conegero, 408, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

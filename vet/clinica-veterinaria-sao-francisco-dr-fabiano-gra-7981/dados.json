@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Veterinária São Francisco Dr. Fabiano Grassi",
+  "cidade": "Sorocaba",
+  "categoria": "Veterinário",
+  "endereco": "R. Inglaterra, 95, Sorocaba - SP",
+  "telefone": "(15) 3222-5470",
+  "whatsapp": "551532225470",
+  "nota_google": "4,8",
+  "avaliacoes_google": "213",
+  "google_maps": "https://www.google.com/maps?cid=793382206978767981",
+  "config": {
+    "nome": "Clínica Veterinária São Francisco Dr. Fabiano Grassi",
+    "whatsapp": "551532225470",
+    "telefone": "(15) 3222-5470",
+    "endereco": "R. Inglaterra, 95, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

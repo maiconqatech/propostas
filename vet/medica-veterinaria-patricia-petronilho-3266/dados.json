@@ -1,0 +1,19 @@
+{
+  "nome": "Médica Veterinária Patrícia Petronilho",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "Av. Galileu Bicudo, 02, Itu - SP",
+  "telefone": "(11) 97524-3656",
+  "whatsapp": "5511975243656",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=6964185602892923266",
+  "config": {
+    "nome": "Médica Veterinária Patrícia Petronilho",
+    "whatsapp": "5511975243656",
+    "telefone": "(11) 97524-3656",
+    "endereco": "Av. Galileu Bicudo, 02, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

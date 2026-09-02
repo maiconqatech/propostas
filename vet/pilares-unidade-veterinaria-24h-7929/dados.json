@@ -1,0 +1,19 @@
+{
+  "nome": "Pilares - Unidade Veterinária 24h",
+  "cidade": "Sorocaba",
+  "categoria": "Veterinário",
+  "endereco": "Av. Washington Luiz, 1887, Sorocaba - SP",
+  "telefone": "(15) 99800-9874",
+  "whatsapp": "5515998009874",
+  "nota_google": "4,6",
+  "avaliacoes_google": "116",
+  "google_maps": "https://www.google.com/maps?cid=11122823504873807929",
+  "config": {
+    "nome": "Pilares - Unidade Veterinária 24h",
+    "whatsapp": "5515998009874",
+    "telefone": "(15) 99800-9874",
+    "endereco": "Av. Washington Luiz, 1887, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Studio Dental | Clinica Odontológica de Sorocaba",
+  "cidade": "Sorocaba",
+  "categoria": "Dentista",
+  "endereco": "R. Pará, 102, Sorocaba - SP",
+  "telefone": "(15) 3042-1999",
+  "whatsapp": "551530421999",
+  "nota_google": "5,0",
+  "avaliacoes_google": "133",
+  "google_maps": "https://www.google.com/maps?cid=7533302040706869331",
+  "config": {
+    "nome": "Studio Dental | Clinica Odontológica de Sorocaba",
+    "whatsapp": "551530421999",
+    "telefone": "(15) 3042-1999",
+    "endereco": "R. Pará, 102, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Dra.Gisele Ribeiro",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Francisco Benedito da Silveira, 46, Itu - SP",
+  "telefone": "(11) 2429-3883",
+  "whatsapp": "551124293883",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=12998690737116849053",
+  "config": {
+    "nome": "Dra.Gisele Ribeiro",
+    "whatsapp": "551124293883",
+    "telefone": "(11) 2429-3883",
+    "endereco": "R. Francisco Benedito da Silveira, 46, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

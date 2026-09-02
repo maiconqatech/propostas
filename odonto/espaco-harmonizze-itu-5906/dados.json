@@ -1,0 +1,19 @@
+{
+  "nome": "Espaço Harmonizze Itu",
+  "cidade": "Itu",
+  "categoria": "Dentista cosmético",
+  "endereco": "R. Profa. Abgail Alves Píres, 97, Itu - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=13768004247461975906",
+  "config": {
+    "nome": "Espaço Harmonizze Itu",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "R. Profa. Abgail Alves Píres, 97, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

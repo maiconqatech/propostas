@@ -1,0 +1,19 @@
+{
+  "nome": "NS Estética Automotiva",
+  "cidade": "Piedade",
+  "categoria": "Serviço de reparo e manutenção de veículos recreativos",
+  "endereco": "R. Júlio Scheneider, 43, Piedade - SP",
+  "telefone": "(15) 99685-5396",
+  "whatsapp": "5515996855396",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=5168639990988143282",
+  "config": {
+    "nome": "NS Estética Automotiva",
+    "whatsapp": "5515996855396",
+    "telefone": "(15) 99685-5396",
+    "endereco": "R. Júlio Scheneider, 43, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

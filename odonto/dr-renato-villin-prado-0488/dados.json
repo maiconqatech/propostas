@@ -1,0 +1,19 @@
+{
+  "nome": "Dr. Renato Villin Prado",
+  "cidade": "Itu",
+  "categoria": "Dentista",
+  "endereco": "R. Piauí, 167 - sala 2, Itu - SP",
+  "telefone": "(11) 98231-8213",
+  "whatsapp": "5511982318213",
+  "nota_google": "5,0",
+  "avaliacoes_google": "10",
+  "google_maps": "https://www.google.com/maps?cid=8722078369212660488",
+  "config": {
+    "nome": "Dr. Renato Villin Prado",
+    "whatsapp": "5511982318213",
+    "telefone": "(11) 98231-8213",
+    "endereco": "R. Piauí, 167 - sala 2, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

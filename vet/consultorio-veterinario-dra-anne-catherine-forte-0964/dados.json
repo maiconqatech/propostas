@@ -1,0 +1,19 @@
+{
+  "nome": "Consultório Veterinário Dra Anne Catherine Forte",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "Av. Eugênio Bernardi, 452, Votorantim - SP",
+  "telefone": "(15) 99722-1270",
+  "whatsapp": "5515997221270",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=18426722243379670964",
+  "config": {
+    "nome": "Consultório Veterinário Dra Anne Catherine Forte",
+    "whatsapp": "5515997221270",
+    "telefone": "(15) 99722-1270",
+    "endereco": "Av. Eugênio Bernardi, 452, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Espaço Trati | Fisioterapia | Pilates em Itu",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. José Bruni, 708, Itu - SP",
+  "telefone": "(11) 99545-6743",
+  "whatsapp": "5511995456743",
+  "nota_google": "5,0",
+  "avaliacoes_google": "33",
+  "google_maps": "https://www.google.com/maps?cid=9054185453504066427",
+  "config": {
+    "nome": "Espaço Trati | Fisioterapia | Pilates em Itu",
+    "whatsapp": "5511995456743",
+    "telefone": "(11) 99545-6743",
+    "endereco": "R. José Bruni, 708, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

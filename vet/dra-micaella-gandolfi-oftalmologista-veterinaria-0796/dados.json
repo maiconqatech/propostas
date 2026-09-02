@@ -1,0 +1,19 @@
+{
+  "nome": "Dra Micaella Gandolfi oftalmologista veterinária",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "R. Madalena de Oliveira Moraes, 195, Itu - SP",
+  "telefone": "(11) 98218-8837",
+  "whatsapp": "5511982188837",
+  "nota_google": "5,0",
+  "avaliacoes_google": "4",
+  "google_maps": "https://www.google.com/maps?cid=14863053535470760796",
+  "config": {
+    "nome": "Dra Micaella Gandolfi oftalmologista veterinária",
+    "whatsapp": "5511982188837",
+    "telefone": "(11) 98218-8837",
+    "endereco": "R. Madalena de Oliveira Moraes, 195, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

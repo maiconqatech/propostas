@@ -1,0 +1,19 @@
+{
+  "nome": "Espaço Vital Fisioterapia Especializada",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Visc. do Rio Branco, 601, Sorocaba - SP",
+  "telefone": "(15) 3342-0125",
+  "whatsapp": "551533420125",
+  "nota_google": "4,5",
+  "avaliacoes_google": "88",
+  "google_maps": "https://www.google.com/maps?cid=13307783775564484145",
+  "config": {
+    "nome": "Espaço Vital Fisioterapia Especializada",
+    "whatsapp": "551533420125",
+    "telefone": "(15) 3342-0125",
+    "endereco": "R. Visc. do Rio Branco, 601, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

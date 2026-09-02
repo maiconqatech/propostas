@@ -1,0 +1,19 @@
+{
+  "nome": "Na Selva Pet Center",
+  "cidade": "Piedade",
+  "categoria": "Veterinário",
+  "endereco": "R. Mal. Floriano Peixoto, Piedade - SP",
+  "telefone": "(15) 99672-2042",
+  "whatsapp": "5515996722042",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=6162380776774402881",
+  "config": {
+    "nome": "Na Selva Pet Center",
+    "whatsapp": "5515996722042",
+    "telefone": "(15) 99672-2042",
+    "endereco": "R. Mal. Floriano Peixoto, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

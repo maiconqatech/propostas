@@ -1,0 +1,19 @@
+{
+  "nome": "VetLab de Itu - Clínica Veterinária",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": ", Itu - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "4,2",
+  "avaliacoes_google": "13",
+  "google_maps": "https://www.google.com/maps?cid=4143323416018451652",
+  "config": {
+    "nome": "VetLab de Itu - Clínica Veterinária",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": ", Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

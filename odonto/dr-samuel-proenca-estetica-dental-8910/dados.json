@@ -1,0 +1,19 @@
+{
+  "nome": "Dr Samuel Proenca - Estética Dental",
+  "cidade": "Piedade",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. Benjamin Constant, 187, Piedade - SP",
+  "telefone": "(15) 99110-1326",
+  "whatsapp": "5515991101326",
+  "nota_google": "5,0",
+  "avaliacoes_google": "52",
+  "google_maps": "https://www.google.com/maps?cid=7645634436692948910",
+  "config": {
+    "nome": "Dr Samuel Proenca - Estética Dental",
+    "whatsapp": "5515991101326",
+    "telefone": "(15) 99110-1326",
+    "endereco": "R. Benjamin Constant, 187, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

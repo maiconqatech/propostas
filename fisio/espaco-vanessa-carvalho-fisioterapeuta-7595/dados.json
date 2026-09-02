@@ -1,0 +1,19 @@
+{
+  "nome": "Espaço Vanessa Carvalho Fisioterapeuta",
+  "cidade": "Votorantim",
+  "categoria": "Fisioterapeuta",
+  "endereco": "Av. Luiz do Patrocínio Fernandes, 1059, Votorantim - SP",
+  "telefone": "(15) 99657-7579",
+  "whatsapp": "5515996577579",
+  "nota_google": "5,0",
+  "avaliacoes_google": "7",
+  "google_maps": "https://www.google.com/maps?cid=4210240505003967595",
+  "config": {
+    "nome": "Espaço Vanessa Carvalho Fisioterapeuta",
+    "whatsapp": "5515996577579",
+    "telefone": "(15) 99657-7579",
+    "endereco": "Av. Luiz do Patrocínio Fernandes, 1059, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

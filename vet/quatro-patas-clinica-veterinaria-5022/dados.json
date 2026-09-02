@@ -1,0 +1,19 @@
+{
+  "nome": "Quatro Patas Clínica Veterinária",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "R. João Feliciani, 175, Votorantim - SP",
+  "telefone": "(15) 99707-1611",
+  "whatsapp": "5515997071611",
+  "nota_google": "4,9",
+  "avaliacoes_google": "139",
+  "google_maps": "https://www.google.com/maps?cid=10458243715603585022",
+  "config": {
+    "nome": "Quatro Patas Clínica Veterinária",
+    "whatsapp": "5515997071611",
+    "telefone": "(15) 99707-1611",
+    "endereco": "R. João Feliciani, 175, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

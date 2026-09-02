@@ -1,0 +1,19 @@
+{
+  "nome": "Panda Estética Automotiva",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Serviço de limpeza completa de automóveis",
+  "endereco": "R. Moacir Moreira, 200 - Casa 01, Salto de Pirapora - SP",
+  "telefone": "(15) 99750-1992",
+  "whatsapp": "5515997501992",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=2521850785327148881",
+  "config": {
+    "nome": "Panda Estética Automotiva",
+    "whatsapp": "5515997501992",
+    "telefone": "(15) 99750-1992",
+    "endereco": "R. Moacir Moreira, 200 - Casa 01, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

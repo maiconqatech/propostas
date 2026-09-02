@@ -1,0 +1,19 @@
+{
+  "nome": "Consultório Odontológico Correa",
+  "cidade": "Votorantim",
+  "categoria": "Clínica odontológica",
+  "endereco": "Av. 31 de Março, 865, Votorantim - SP",
+  "telefone": "(15) 3243-6417",
+  "whatsapp": "551532436417",
+  "nota_google": "5,0",
+  "avaliacoes_google": "28",
+  "google_maps": "https://www.google.com/maps?cid=5562496099862871306",
+  "config": {
+    "nome": "Consultório Odontológico Correa",
+    "whatsapp": "551532436417",
+    "telefone": "(15) 3243-6417",
+    "endereco": "Av. 31 de Março, 865, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

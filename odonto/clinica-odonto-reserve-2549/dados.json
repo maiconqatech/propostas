@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Odonto Reserve",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Dentista",
+  "endereco": "Rua Francisco de Barros Leite, 243, Salto de Pirapora - SP",
+  "telefone": "(15) 3292-2633",
+  "whatsapp": "551532922633",
+  "nota_google": "5,0",
+  "avaliacoes_google": "3",
+  "google_maps": "https://www.google.com/maps?cid=18054208808758902549",
+  "config": {
+    "nome": "Clínica Odonto Reserve",
+    "whatsapp": "551532922633",
+    "telefone": "(15) 3292-2633",
+    "endereco": "Rua Francisco de Barros Leite, 243, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

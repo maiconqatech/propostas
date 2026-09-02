@@ -1,0 +1,19 @@
+{
+  "nome": "Fisiomed Estética e Saúde",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Cap. Silvio Fleming, 423, Itu - SP",
+  "telefone": "(11) 4025-1996",
+  "whatsapp": "551140251996",
+  "nota_google": "3,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=8096764053091608205",
+  "config": {
+    "nome": "Fisiomed Estética e Saúde",
+    "whatsapp": "551140251996",
+    "telefone": "(11) 4025-1996",
+    "endereco": "R. Cap. Silvio Fleming, 423, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

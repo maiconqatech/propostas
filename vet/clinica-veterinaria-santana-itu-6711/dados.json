@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Veterinária Santana Itu",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "Praca Padre Antônio Ferreira, 22, Itu - SP",
+  "telefone": "(11) 99884-5277",
+  "whatsapp": "5511998845277",
+  "nota_google": "4,8",
+  "avaliacoes_google": "176",
+  "google_maps": "https://www.google.com/maps?cid=10627654952653276711",
+  "config": {
+    "nome": "Clínica Veterinária Santana Itu",
+    "whatsapp": "5511998845277",
+    "telefone": "(11) 99884-5277",
+    "endereco": "Praca Padre Antônio Ferreira, 22, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

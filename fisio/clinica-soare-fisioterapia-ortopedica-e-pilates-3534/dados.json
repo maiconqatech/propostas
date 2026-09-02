@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Soare | Fisioterapia Ortopédica e Pilates em Itu",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Santa Rita, 619, Itu - SP",
+  "telefone": "(11) 99674-6076",
+  "whatsapp": "5511996746076",
+  "nota_google": "5,0",
+  "avaliacoes_google": "62",
+  "google_maps": "https://www.google.com/maps?cid=15980851089198933534",
+  "config": {
+    "nome": "Clínica Soare | Fisioterapia Ortopédica e Pilates em Itu",
+    "whatsapp": "5511996746076",
+    "telefone": "(11) 99674-6076",
+    "endereco": "R. Santa Rita, 619, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

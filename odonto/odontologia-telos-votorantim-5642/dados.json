@@ -1,0 +1,19 @@
+{
+  "nome": "Odontologia Telos Votorantim",
+  "cidade": "Votorantim",
+  "categoria": "Dentista",
+  "endereco": "R. Monte Alegre, 169, Votorantim - SP",
+  "telefone": "(15) 3234-7708",
+  "whatsapp": "551532347708",
+  "nota_google": "4,9",
+  "avaliacoes_google": "422",
+  "google_maps": "https://www.google.com/maps?cid=12824106304626805642",
+  "config": {
+    "nome": "Odontologia Telos Votorantim",
+    "whatsapp": "551532347708",
+    "telefone": "(15) 3234-7708",
+    "endereco": "R. Monte Alegre, 169, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

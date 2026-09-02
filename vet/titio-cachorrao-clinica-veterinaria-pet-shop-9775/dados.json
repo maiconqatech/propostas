@@ -1,0 +1,19 @@
+{
+  "nome": "Titio Cachorrão Clinica Veterinária & Pet Shop",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "R. Joaquim Bernardes Borges, 794, Itu - SP",
+  "telefone": "(11) 4024-0420",
+  "whatsapp": "551140240420",
+  "nota_google": "4,8",
+  "avaliacoes_google": "107",
+  "google_maps": "https://www.google.com/maps?cid=3985449594750999775",
+  "config": {
+    "nome": "Titio Cachorrão Clinica Veterinária & Pet Shop",
+    "whatsapp": "551140240420",
+    "telefone": "(11) 4024-0420",
+    "endereco": "R. Joaquim Bernardes Borges, 794, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

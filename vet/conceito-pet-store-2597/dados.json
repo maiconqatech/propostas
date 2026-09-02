@@ -1,0 +1,19 @@
+{
+  "nome": "Conceito Pet Store",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "Av. Gisele Constantino, 1224, Votorantim - SP",
+  "telefone": "(15) 3024-0044",
+  "whatsapp": "551530240044",
+  "nota_google": "4,5",
+  "avaliacoes_google": "58",
+  "google_maps": "https://www.google.com/maps?cid=10964174378311012597",
+  "config": {
+    "nome": "Conceito Pet Store",
+    "whatsapp": "551530240044",
+    "telefone": "(15) 3024-0044",
+    "endereco": "Av. Gisele Constantino, 1224, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

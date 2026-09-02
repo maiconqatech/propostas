@@ -1,0 +1,19 @@
+{
+  "nome": "Clinica Veterinária Animal Inc",
+  "cidade": "Sorocaba",
+  "categoria": "Veterinário",
+  "endereco": "R. Rodrigues Pacheco, 341, Sorocaba - SP",
+  "telefone": "(15) 99850-7950",
+  "whatsapp": "5515998507950",
+  "nota_google": "4,8",
+  "avaliacoes_google": "253",
+  "google_maps": "https://www.google.com/maps?cid=9916407149729014472",
+  "config": {
+    "nome": "Clinica Veterinária Animal Inc",
+    "whatsapp": "5515998507950",
+    "telefone": "(15) 99850-7950",
+    "endereco": "R. Rodrigues Pacheco, 341, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

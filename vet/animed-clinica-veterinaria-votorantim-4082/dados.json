@@ -1,0 +1,19 @@
+{
+  "nome": "Animed Clínica Veterinária Votorantim",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "Av. Luiz do Patrocínio Fernandes, 566, Votorantim - SP",
+  "telefone": "(15) 99787-5848",
+  "whatsapp": "5515997875848",
+  "nota_google": "4,6",
+  "avaliacoes_google": "204",
+  "google_maps": "https://www.google.com/maps?cid=9840105003201484082",
+  "config": {
+    "nome": "Animed Clínica Veterinária Votorantim",
+    "whatsapp": "5515997875848",
+    "telefone": "(15) 99787-5848",
+    "endereco": "Av. Luiz do Patrocínio Fernandes, 566, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

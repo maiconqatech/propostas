@@ -1,0 +1,19 @@
+{
+  "nome": "Dra Barbara Prestes Del Cistia",
+  "cidade": "Sorocaba",
+  "categoria": "Dentista",
+  "endereco": "R. Belarmino Moraes Arruda, 174, Sorocaba - SP",
+  "telefone": "(15) 4141-0150",
+  "whatsapp": "551541410150",
+  "nota_google": "5,0",
+  "avaliacoes_google": "108",
+  "google_maps": "https://www.google.com/maps?cid=13864552586523755940",
+  "config": {
+    "nome": "Dra Barbara Prestes Del Cistia",
+    "whatsapp": "551541410150",
+    "telefone": "(15) 4141-0150",
+    "endereco": "R. Belarmino Moraes Arruda, 174, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

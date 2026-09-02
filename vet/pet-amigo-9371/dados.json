@@ -1,0 +1,19 @@
+{
+  "nome": "Pet Amigo",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "Av. Matheus Conegero, 408, Votorantim - SP",
+  "telefone": "(15) 3247-1393",
+  "whatsapp": "551532471393",
+  "nota_google": "4,9",
+  "avaliacoes_google": "43",
+  "google_maps": "https://www.google.com/maps?cid=9106175041173409371",
+  "config": {
+    "nome": "Pet Amigo",
+    "whatsapp": "551532471393",
+    "telefone": "(15) 3247-1393",
+    "endereco": "Av. Matheus Conegero, 408, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

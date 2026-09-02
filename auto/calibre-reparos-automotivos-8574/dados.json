@@ -1,0 +1,19 @@
+{
+  "nome": "Calibre Reparos Automotivos",
+  "cidade": "Sorocaba",
+  "categoria": "Pintura automotiva",
+  "endereco": "Alameda das Violetas, 538, Sorocaba - SP",
+  "telefone": "(15) 99773-2115",
+  "whatsapp": "5515997732115",
+  "nota_google": "5,0",
+  "avaliacoes_google": "91",
+  "google_maps": "https://www.google.com/maps?cid=8285795049006898574",
+  "config": {
+    "nome": "Calibre Reparos Automotivos",
+    "whatsapp": "5515997732115",
+    "telefone": "(15) 99773-2115",
+    "endereco": "Alameda das Violetas, 538, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

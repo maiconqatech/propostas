@@ -1,0 +1,19 @@
+{
+  "nome": "Japa Auto funilaria",
+  "cidade": "Itu",
+  "categoria": "Pintura automotiva",
+  "endereco": "R. Adélio Pazinatto, 105, Itu - SP",
+  "telefone": "(11) 99897-4636",
+  "whatsapp": "5511998974636",
+  "nota_google": "4,8",
+  "avaliacoes_google": "24",
+  "google_maps": "https://www.google.com/maps?cid=11838791945680482462",
+  "config": {
+    "nome": "Japa Auto funilaria",
+    "whatsapp": "5511998974636",
+    "telefone": "(11) 99897-4636",
+    "endereco": "R. Adélio Pazinatto, 105, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

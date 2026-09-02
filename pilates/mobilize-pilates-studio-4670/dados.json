@@ -1,0 +1,19 @@
+{
+  "nome": "Mobilize Pilates Studio",
+  "cidade": "Piedade",
+  "categoria": "Estúdio de pilates",
+  "endereco": "R. Eugênio de Oliveira Leite, 138 - TÉRREO, Piedade - SP",
+  "telefone": "(15) 99605-1469",
+  "whatsapp": "5515996051469",
+  "nota_google": "5,0",
+  "avaliacoes_google": "11",
+  "google_maps": "https://www.google.com/maps?cid=1576531136849474670",
+  "config": {
+    "nome": "Mobilize Pilates Studio",
+    "whatsapp": "5515996051469",
+    "telefone": "(15) 99605-1469",
+    "endereco": "R. Eugênio de Oliveira Leite, 138 - TÉRREO, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma aula experimental de pilates."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Instituto Camila Moraes",
+  "cidade": "Votorantim",
+  "categoria": "Fisioterapeuta",
+  "endereco": "Av. Ireno da Silva Venâncio, 199, Votorantim - SP",
+  "telefone": "(15) 98827-3923",
+  "whatsapp": "5515988273923",
+  "nota_google": "4,9",
+  "avaliacoes_google": "28",
+  "google_maps": "https://www.google.com/maps?cid=15681991029338637193",
+  "config": {
+    "nome": "Instituto Camila Moraes",
+    "whatsapp": "5515988273923",
+    "telefone": "(15) 98827-3923",
+    "endereco": "Av. Ireno da Silva Venâncio, 199, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

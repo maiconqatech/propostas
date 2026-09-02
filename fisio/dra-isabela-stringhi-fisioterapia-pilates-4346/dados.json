@@ -1,0 +1,19 @@
+{
+  "nome": "Dra. Isabela Stringhi - Fisioterapia & Pilates",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Maria de Lourdes de Arruda Costa, 10, Itu - SP",
+  "telefone": "(11) 94171-0636",
+  "whatsapp": "5511941710636",
+  "nota_google": "5,0",
+  "avaliacoes_google": "24",
+  "google_maps": "https://www.google.com/maps?cid=12733103022104424346",
+  "config": {
+    "nome": "Dra. Isabela Stringhi - Fisioterapia & Pilates",
+    "whatsapp": "5511941710636",
+    "telefone": "(11) 94171-0636",
+    "endereco": "R. Maria de Lourdes de Arruda Costa, 10, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

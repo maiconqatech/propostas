@@ -1,0 +1,19 @@
+{
+  "nome": "OdontoCompany Votorantim",
+  "cidade": "Votorantim",
+  "categoria": "Dentista",
+  "endereco": "R. Albertina Nascimento, 151, Votorantim - SP",
+  "telefone": "(15) 3024-0204",
+  "whatsapp": "551530240204",
+  "nota_google": "4,7",
+  "avaliacoes_google": "103",
+  "google_maps": "https://www.google.com/maps?cid=397952141958688594",
+  "config": {
+    "nome": "OdontoCompany Votorantim",
+    "whatsapp": "551530240204",
+    "telefone": "(15) 3024-0204",
+    "endereco": "R. Albertina Nascimento, 151, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

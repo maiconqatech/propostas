@@ -1,0 +1,19 @@
+{
+  "nome": "Veterinária Itu | Dra Ivaneide Prata",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "Alameda Basalto, Itu - SP",
+  "telefone": "(11) 99955-6240",
+  "whatsapp": "5511999556240",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=11335664316670880296",
+  "config": {
+    "nome": "Veterinária Itu | Dra Ivaneide Prata",
+    "whatsapp": "5511999556240",
+    "telefone": "(11) 99955-6240",
+    "endereco": "Alameda Basalto, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

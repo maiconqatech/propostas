@@ -1,0 +1,19 @@
+{
+  "nome": "Dra. Tatiane Malaquias | Dentista Itu",
+  "cidade": "Itu",
+  "categoria": "Dentista",
+  "endereco": "R. Santa Rita, 1277, Itu - SP",
+  "telefone": "(11) 91271-9765",
+  "whatsapp": "5511912719765",
+  "nota_google": "4,9",
+  "avaliacoes_google": "138",
+  "google_maps": "https://www.google.com/maps?cid=5831676237937362270",
+  "config": {
+    "nome": "Dra. Tatiane Malaquias | Dentista Itu",
+    "whatsapp": "5511912719765",
+    "telefone": "(11) 91271-9765",
+    "endereco": "R. Santa Rita, 1277, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "DRA. ARIANE CAROLINA",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Dentista",
+  "endereco": "R. Honório de Almeida Barros, 935 - clinica, Salto de Pirapora - SP",
+  "telefone": "(15) 99714-0404",
+  "whatsapp": "5515997140404",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=14372152313258189320",
+  "config": {
+    "nome": "Dra. Ariane Carolina",
+    "whatsapp": "5515997140404",
+    "telefone": "(15) 99714-0404",
+    "endereco": "R. Honório de Almeida Barros, 935 - clinica, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

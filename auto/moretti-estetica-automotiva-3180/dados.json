@@ -1,0 +1,19 @@
+{
+  "nome": "Moretti Estética Automotiva",
+  "cidade": "Piedade",
+  "categoria": "Martelinho de ouro",
+  "endereco": "Rua: José Leite de Oliveira, N° 110, Piedade - SP",
+  "telefone": "(15) 99631-9724",
+  "whatsapp": "5515996319724",
+  "nota_google": "5,0",
+  "avaliacoes_google": "7",
+  "google_maps": "https://www.google.com/maps?cid=18177085660072243180",
+  "config": {
+    "nome": "Moretti Estética Automotiva",
+    "whatsapp": "5515996319724",
+    "telefone": "(15) 99631-9724",
+    "endereco": "Rua: José Leite de Oliveira, N° 110, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

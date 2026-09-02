@@ -1,0 +1,19 @@
+{
+  "nome": "Consultório Veterinário Yara Xavier",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "R. Monte Alegre, 297, Votorantim - SP",
+  "telefone": "(15) 99612-7730",
+  "whatsapp": "5515996127730",
+  "nota_google": "5,0",
+  "avaliacoes_google": "32",
+  "google_maps": "https://www.google.com/maps?cid=16449717219367340495",
+  "config": {
+    "nome": "Consultório Veterinário Yara Xavier",
+    "whatsapp": "5515996127730",
+    "telefone": "(15) 99612-7730",
+    "endereco": "R. Monte Alegre, 297, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

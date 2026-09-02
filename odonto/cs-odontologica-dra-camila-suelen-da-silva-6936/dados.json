@@ -1,0 +1,19 @@
+{
+  "nome": "CS Odontológica Dra. Camila Suelen Da Silva",
+  "cidade": "Piedade",
+  "categoria": "Dentista",
+  "endereco": "R. Padre Palma, 46, Piedade - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "1,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=17322672613118426936",
+  "config": {
+    "nome": "CS Odontológica Dra. Camila Suelen Da Silva",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "R. Padre Palma, 46, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Núcleo Carolina Hess",
+  "cidade": "Piedade",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. Mal. Floriano Peixoto, 352, Piedade - SP",
+  "telefone": "(15) 3344-2461",
+  "whatsapp": "551533442461",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=16813452625177225221",
+  "config": {
+    "nome": "Núcleo Carolina Hess",
+    "whatsapp": "551533442461",
+    "telefone": "(15) 3344-2461",
+    "endereco": "R. Mal. Floriano Peixoto, 352, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

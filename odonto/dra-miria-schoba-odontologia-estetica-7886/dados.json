@@ -1,0 +1,19 @@
+{
+  "nome": "Dra. Miriã Schoba Odontologia Estética",
+  "cidade": "Itu",
+  "categoria": "Dentista",
+  "endereco": "Av. Antônio Gazola, 1001 - 6 andar, Itu - SP",
+  "telefone": "(11) 97516-6886",
+  "whatsapp": "5511975166886",
+  "nota_google": "5,0",
+  "avaliacoes_google": "47",
+  "google_maps": "https://www.google.com/maps?cid=9366873733134407886",
+  "config": {
+    "nome": "Dra. Miriã Schoba Odontologia Estética",
+    "whatsapp": "5511975166886",
+    "telefone": "(11) 97516-6886",
+    "endereco": "Av. Antônio Gazola, 1001 - 6 andar, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

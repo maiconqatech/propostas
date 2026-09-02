@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Veterinária Ivan Viana Fernandes",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "Av. Matheus Conegero, 408, Votorantim - SP",
+  "telefone": "(15) 3243-1735",
+  "whatsapp": "551532431735",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=489654877639414591",
+  "config": {
+    "nome": "Clínica Veterinária Ivan Viana Fernandes",
+    "whatsapp": "551532431735",
+    "telefone": "(15) 3243-1735",
+    "endereco": "Av. Matheus Conegero, 408, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

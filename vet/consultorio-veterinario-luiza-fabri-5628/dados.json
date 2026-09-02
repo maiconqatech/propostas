@@ -1,0 +1,19 @@
+{
+  "nome": "Consultório Veterinário Luiza Fabri",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "Av. São João, 1295, Votorantim - SP",
+  "telefone": "(15) 98827-5270",
+  "whatsapp": "5515988275270",
+  "nota_google": "5,0",
+  "avaliacoes_google": "3",
+  "google_maps": "https://www.google.com/maps?cid=12268090497251505628",
+  "config": {
+    "nome": "Consultório Veterinário Luiza Fabri",
+    "whatsapp": "5515988275270",
+    "telefone": "(15) 98827-5270",
+    "endereco": "Av. São João, 1295, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

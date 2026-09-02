@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Veterinária Cães e Gatos",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "R. Me. Maria Basília, 324, Itu - SP",
+  "telefone": "(11) 4024-0473",
+  "whatsapp": "551140240473",
+  "nota_google": "4,8",
+  "avaliacoes_google": "41",
+  "google_maps": "https://www.google.com/maps?cid=2557558292922381496",
+  "config": {
+    "nome": "Clínica Veterinária Cães e Gatos",
+    "whatsapp": "551140240473",
+    "telefone": "(11) 4024-0473",
+    "endereco": "R. Me. Maria Basília, 324, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

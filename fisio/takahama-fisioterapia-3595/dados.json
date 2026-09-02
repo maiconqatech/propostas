@@ -1,0 +1,19 @@
+{
+  "nome": "TAKAHAMA FISIOTERAPIA",
+  "cidade": "Piedade",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Dirceu Aires de Araújo, Piedade - SP",
+  "telefone": "(15) 99750-8686",
+  "whatsapp": "5515997508686",
+  "nota_google": "5,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=1180403959975883595",
+  "config": {
+    "nome": "Takahama Fisioterapia",
+    "whatsapp": "5515997508686",
+    "telefone": "(15) 99750-8686",
+    "endereco": "R. Dirceu Aires de Araújo, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

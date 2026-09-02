@@ -1,0 +1,19 @@
+{
+  "nome": "Dentista Dra. Mislaine Ribeiro",
+  "cidade": "Votorantim",
+  "categoria": "Dentista",
+  "endereco": "Av. Luiz do Patrocínio Fernandes, 1536, Votorantim - SP",
+  "telefone": "(15) 99637-7120",
+  "whatsapp": "5515996377120",
+  "nota_google": "5,0",
+  "avaliacoes_google": "51",
+  "google_maps": "https://www.google.com/maps?cid=3056560985046907541",
+  "config": {
+    "nome": "Dentista Dra. Mislaine Ribeiro",
+    "whatsapp": "5515996377120",
+    "telefone": "(15) 99637-7120",
+    "endereco": "Av. Luiz do Patrocínio Fernandes, 1536, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

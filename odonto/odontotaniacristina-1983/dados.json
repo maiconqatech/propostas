@@ -1,0 +1,19 @@
+{
+  "nome": "odontotaniacristina",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Dentista",
+  "endereco": "Rua Vicente Ferreira dos Santos, 33, Salto de Pirapora - SP",
+  "telefone": "(15) 3492-2318",
+  "whatsapp": "551534922318",
+  "nota_google": "1,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=15692649763047441983",
+  "config": {
+    "nome": "odontotaniacristina",
+    "whatsapp": "551534922318",
+    "telefone": "(15) 3492-2318",
+    "endereco": "Rua Vicente Ferreira dos Santos, 33, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

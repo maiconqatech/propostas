@@ -1,0 +1,19 @@
+{
+  "nome": "Policlinica Veterinária",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Veterinário",
+  "endereco": "R. Cap. Jesuíno Cerqueira César, 27, Salto de Pirapora - SP",
+  "telefone": "(15) 99704-2408",
+  "whatsapp": "5515997042408",
+  "nota_google": "4,9",
+  "avaliacoes_google": "8",
+  "google_maps": "https://www.google.com/maps?cid=1756314209408597308",
+  "config": {
+    "nome": "Policlinica Veterinária",
+    "whatsapp": "5515997042408",
+    "telefone": "(15) 99704-2408",
+    "endereco": "R. Cap. Jesuíno Cerqueira César, 27, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

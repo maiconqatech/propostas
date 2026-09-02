@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Veterinária Ituana",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "R. do Patrocínio, 595, Itu - SP",
+  "telefone": "(11) 4022-6161",
+  "whatsapp": "551140226161",
+  "nota_google": "4,8",
+  "avaliacoes_google": "148",
+  "google_maps": "https://www.google.com/maps?cid=18198313205994021817",
+  "config": {
+    "nome": "Clínica Veterinária Ituana",
+    "whatsapp": "551140226161",
+    "telefone": "(11) 4022-6161",
+    "endereco": "R. do Patrocínio, 595, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

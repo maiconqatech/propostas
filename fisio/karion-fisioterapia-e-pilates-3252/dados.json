@@ -1,0 +1,19 @@
+{
+  "nome": "Karion Fisioterapia e Pilates",
+  "cidade": "Piedade",
+  "categoria": "Fisioterapeuta",
+  "endereco": "R. Vicente García, 237, Piedade - SP",
+  "telefone": "(15) 98821-1604",
+  "whatsapp": "5515988211604",
+  "nota_google": "5,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=12461626876039703252",
+  "config": {
+    "nome": "Karion Fisioterapia e Pilates",
+    "whatsapp": "5515988211604",
+    "telefone": "(15) 98821-1604",
+    "endereco": "R. Vicente García, 237, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

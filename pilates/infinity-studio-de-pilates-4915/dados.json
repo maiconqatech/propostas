@@ -1,0 +1,19 @@
+{
+  "nome": "Infinity Studio de pilates",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Estúdio de pilates",
+  "endereco": "R. Luiz Canalle, 50, Salto de Pirapora - SP",
+  "telefone": "(15) 99814-4977",
+  "whatsapp": "5515998144977",
+  "nota_google": "5,0",
+  "avaliacoes_google": "13",
+  "google_maps": "https://www.google.com/maps?cid=1147219585622074915",
+  "config": {
+    "nome": "Infinity Studio de pilates",
+    "whatsapp": "5515998144977",
+    "telefone": "(15) 99814-4977",
+    "endereco": "R. Luiz Canalle, 50, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma aula experimental de pilates."
+  }
+}

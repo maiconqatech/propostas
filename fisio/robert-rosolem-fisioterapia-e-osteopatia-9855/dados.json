@@ -1,0 +1,19 @@
+{
+  "nome": "Robert Rosolem - Fisioterapia e Osteopatia",
+  "cidade": "Sorocaba",
+  "categoria": "Fisioterapeuta",
+  "endereco": "R. Saldanha Marinho, 38, Sorocaba - SP",
+  "telefone": "(15) 99698-8497",
+  "whatsapp": "5515996988497",
+  "nota_google": "5,0",
+  "avaliacoes_google": "102",
+  "google_maps": "https://www.google.com/maps?cid=1751015480145039855",
+  "config": {
+    "nome": "Robert Rosolem - Fisioterapia e Osteopatia",
+    "whatsapp": "5515996988497",
+    "telefone": "(15) 99698-8497",
+    "endereco": "R. Saldanha Marinho, 38, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

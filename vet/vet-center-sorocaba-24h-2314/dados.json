@@ -1,0 +1,19 @@
+{
+  "nome": "Vet Center Sorocaba 24h",
+  "cidade": "Sorocaba",
+  "categoria": "Veterinário",
+  "endereco": "R. Mascarenhas Camelo, 15, Sorocaba - SP",
+  "telefone": "(15) 3233-1083",
+  "whatsapp": "551532331083",
+  "nota_google": "4,8",
+  "avaliacoes_google": "703",
+  "google_maps": "https://www.google.com/maps?cid=17022712434208202314",
+  "config": {
+    "nome": "Vet Center Sorocaba 24h",
+    "whatsapp": "551532331083",
+    "telefone": "(15) 3233-1083",
+    "endereco": "R. Mascarenhas Camelo, 15, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

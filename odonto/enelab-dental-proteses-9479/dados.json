@@ -1,0 +1,19 @@
+{
+  "nome": "eNeLab Dental Proteses",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Laboratório de odontologia",
+  "endereco": "R. Noely Francisco Farrapo, 191, Salto de Pirapora - SP",
+  "telefone": "(15) 99672-9623",
+  "whatsapp": "5515996729623",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=1234190995208329479",
+  "config": {
+    "nome": "eNeLab Dental Proteses",
+    "whatsapp": "5515996729623",
+    "telefone": "(15) 99672-9623",
+    "endereco": "R. Noely Francisco Farrapo, 191, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

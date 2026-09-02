@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Aptus Pilates e Fisioterapia",
+  "cidade": "Votorantim",
+  "categoria": "Estúdio de pilates",
+  "endereco": "R. Thomaz Massa, 31, Votorantim - SP",
+  "telefone": "(15) 99797-9886",
+  "whatsapp": "5515997979886",
+  "nota_google": "5,0",
+  "avaliacoes_google": "38",
+  "google_maps": "https://www.google.com/maps?cid=12528039378265707990",
+  "config": {
+    "nome": "Clínica Aptus Pilates e Fisioterapia",
+    "whatsapp": "5515997979886",
+    "telefone": "(15) 99797-9886",
+    "endereco": "R. Thomaz Massa, 31, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma aula experimental de pilates."
+  }
+}

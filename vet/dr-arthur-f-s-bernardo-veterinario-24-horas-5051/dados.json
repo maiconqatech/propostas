@@ -1,0 +1,19 @@
+{
+  "nome": "Dr. Arthur F. S. Bernardo - Veterinário 24 Horas",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": ", Itu - SP",
+  "telefone": "(11) 99293-0667",
+  "whatsapp": "5511992930667",
+  "nota_google": "4,2",
+  "avaliacoes_google": "5",
+  "google_maps": "https://www.google.com/maps?cid=16208577082346715051",
+  "config": {
+    "nome": "Dr. Arthur F. S. Bernardo - Veterinário 24 Horas",
+    "whatsapp": "5511992930667",
+    "telefone": "(11) 99293-0667",
+    "endereco": ", Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Rogério Brito Atendimento Veterinário Domiciliar",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "Rua Darwin Sbrana, 177, Votorantim - SP",
+  "telefone": "(15) 98130-2052",
+  "whatsapp": "5515981302052",
+  "nota_google": "5,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=1157829944144002926",
+  "config": {
+    "nome": "Rogério Brito Atendimento Veterinário Domiciliar",
+    "whatsapp": "5515981302052",
+    "telefone": "(15) 98130-2052",
+    "endereco": "Rua Darwin Sbrana, 177, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

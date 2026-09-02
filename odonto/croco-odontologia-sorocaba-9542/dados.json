@@ -1,0 +1,19 @@
+{
+  "nome": "CROCO Odontologia Sorocaba",
+  "cidade": "Sorocaba",
+  "categoria": "Dentista",
+  "endereco": "R. Antônio Marquês Flôres, 299, Sorocaba - SP",
+  "telefone": "(15) 98155-9770",
+  "whatsapp": "5515981559770",
+  "nota_google": "5,0",
+  "avaliacoes_google": "638",
+  "google_maps": "https://www.google.com/maps?cid=15830399988397569542",
+  "config": {
+    "nome": "CROCO Odontologia Sorocaba",
+    "whatsapp": "5515981559770",
+    "telefone": "(15) 98155-9770",
+    "endereco": "R. Antônio Marquês Flôres, 299, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

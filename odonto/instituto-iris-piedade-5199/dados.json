@@ -1,0 +1,19 @@
+{
+  "nome": "Instituto Iris - Piedade",
+  "cidade": "Piedade",
+  "categoria": "Radiologia odontológica",
+  "endereco": "R. Ten. Demétrio Machado, 17, Piedade - SP",
+  "telefone": "(15) 3244-4708",
+  "whatsapp": "551532444708",
+  "nota_google": "4,9",
+  "avaliacoes_google": "42",
+  "google_maps": "https://www.google.com/maps?cid=10280649978821375199",
+  "config": {
+    "nome": "Instituto Iris - Piedade",
+    "whatsapp": "551532444708",
+    "telefone": "(15) 3244-4708",
+    "endereco": "R. Ten. Demétrio Machado, 17, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

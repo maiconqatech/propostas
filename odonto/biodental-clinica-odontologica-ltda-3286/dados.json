@@ -1,0 +1,19 @@
+{
+  "nome": "Biodental Clínica Odontológica Ltda",
+  "cidade": "Votorantim",
+  "categoria": "Dentista",
+  "endereco": "R. João Walter, 279 - Sl 16, Votorantim - SP",
+  "telefone": "(15) 3243-7673",
+  "whatsapp": "551532437673",
+  "nota_google": "4,9",
+  "avaliacoes_google": "49",
+  "google_maps": "https://www.google.com/maps?cid=9149565632927593286",
+  "config": {
+    "nome": "Biodental Clínica Odontológica Ltda",
+    "whatsapp": "551532437673",
+    "telefone": "(15) 3243-7673",
+    "endereco": "R. João Walter, 279 - Sl 16, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "FISIOTERAPIA",
+  "cidade": "Piedade",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Benjamin da Silveira Baldy, 231, Piedade - SP",
+  "telefone": "(15) 99761-6704",
+  "whatsapp": "5515997616704",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=3788857132539351847",
+  "config": {
+    "nome": "Fisioterapia",
+    "whatsapp": "5515997616704",
+    "telefone": "(15) 99761-6704",
+    "endereco": "R. Benjamin da Silveira Baldy, 231, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

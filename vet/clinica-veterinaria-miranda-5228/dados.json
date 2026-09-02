@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Veterinária Miranda",
+  "cidade": "Sorocaba",
+  "categoria": "Veterinário",
+  "endereco": "Alameda Augusto Severo, 166, Sorocaba - SP",
+  "telefone": "(15) 99813-6732",
+  "whatsapp": "5515998136732",
+  "nota_google": "4,8",
+  "avaliacoes_google": "151",
+  "google_maps": "https://www.google.com/maps?cid=13652999804372045228",
+  "config": {
+    "nome": "Clínica Veterinária Miranda",
+    "whatsapp": "5515998136732",
+    "telefone": "(15) 99813-6732",
+    "endereco": "Alameda Augusto Severo, 166, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

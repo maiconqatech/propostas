@@ -1,0 +1,19 @@
+{
+  "nome": "Ambrósio odontologia",
+  "cidade": "Piedade",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. Ten. Demétrio Machado, 140, Piedade - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=7794407640912514322",
+  "config": {
+    "nome": "Ambrósio odontologia",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "R. Ten. Demétrio Machado, 140, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

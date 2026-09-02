@@ -1,0 +1,19 @@
+{
+  "nome": "Dr. Flávio Rocha",
+  "cidade": "Itu",
+  "categoria": "Dentista",
+  "endereco": "R. Leonardo Piunti, 200, Itu - SP",
+  "telefone": "(11) 95324-8812",
+  "whatsapp": "5511953248812",
+  "nota_google": "5,0",
+  "avaliacoes_google": "50",
+  "google_maps": "https://www.google.com/maps?cid=3244298643443490846",
+  "config": {
+    "nome": "Dr. Flávio Rocha",
+    "whatsapp": "5511953248812",
+    "telefone": "(11) 95324-8812",
+    "endereco": "R. Leonardo Piunti, 200, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

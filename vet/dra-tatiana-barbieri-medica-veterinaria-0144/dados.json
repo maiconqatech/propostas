@@ -1,0 +1,19 @@
+{
+  "nome": "Dra Tatiana Barbieri - Médica Veterinária",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "Rua Maria Rosa d'Elboux Bortoloti, n° 21, Itu - SP",
+  "telefone": "(11) 95240-3224",
+  "whatsapp": "5511952403224",
+  "nota_google": "5,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=1174575835164920144",
+  "config": {
+    "nome": "Dra Tatiana Barbieri - Médica Veterinária",
+    "whatsapp": "5511952403224",
+    "telefone": "(11) 95240-3224",
+    "endereco": "Rua Maria Rosa d'Elboux Bortoloti, n° 21, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

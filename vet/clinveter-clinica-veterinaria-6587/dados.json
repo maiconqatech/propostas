@@ -1,0 +1,19 @@
+{
+  "nome": "Clinveter Clínica Veterinária",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Veterinário",
+  "endereco": "R. Maria Clara dos Santos, 30, Salto de Pirapora - SP",
+  "telefone": "(15) 3292-1389",
+  "whatsapp": "551532921389",
+  "nota_google": "4,6",
+  "avaliacoes_google": "43",
+  "google_maps": "https://www.google.com/maps?cid=2822291999822656587",
+  "config": {
+    "nome": "Clinveter Clínica Veterinária",
+    "whatsapp": "551532921389",
+    "telefone": "(15) 3292-1389",
+    "endereco": "R. Maria Clara dos Santos, 30, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

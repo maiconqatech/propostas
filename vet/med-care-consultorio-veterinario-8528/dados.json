@@ -1,0 +1,19 @@
+{
+  "nome": "Med Care - Consultório Veterinário",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Veterinário",
+  "endereco": "Rua Ovídio Leme dos Santos, 72, Salto de Pirapora - SP",
+  "telefone": "(15) 99735-4345",
+  "whatsapp": "5515997354345",
+  "nota_google": "5,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=18411510480918478528",
+  "config": {
+    "nome": "Med Care - Consultório Veterinário",
+    "whatsapp": "5515997354345",
+    "telefone": "(15) 99735-4345",
+    "endereco": "Rua Ovídio Leme dos Santos, 72, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

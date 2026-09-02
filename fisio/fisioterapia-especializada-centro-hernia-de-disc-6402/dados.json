@@ -1,0 +1,19 @@
+{
+  "nome": "Fisioterapia especializada - Centro hérnia de disco",
+  "cidade": "Piedade",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Rosa de Almeida Duarte, 10, Piedade - SP",
+  "telefone": "(15) 99769-1431",
+  "whatsapp": "5515997691431",
+  "nota_google": "5,0",
+  "avaliacoes_google": "10",
+  "google_maps": "https://www.google.com/maps?cid=5156040764301026402",
+  "config": {
+    "nome": "Fisioterapia especializada - Centro hérnia de disco",
+    "whatsapp": "5515997691431",
+    "telefone": "(15) 99769-1431",
+    "endereco": "R. Rosa de Almeida Duarte, 10, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

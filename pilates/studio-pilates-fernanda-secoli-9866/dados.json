@@ -1,0 +1,19 @@
+{
+  "nome": "Studio Pilates Fernanda Secoli",
+  "cidade": "Piedade",
+  "categoria": "Estúdio de pilates",
+  "endereco": "R. Benjamin da Silveira Baldy, 111, Piedade - SP",
+  "telefone": "(15) 99628-6653",
+  "whatsapp": "5515996286653",
+  "nota_google": "5,0",
+  "avaliacoes_google": "4",
+  "google_maps": "https://www.google.com/maps?cid=17236216769381829866",
+  "config": {
+    "nome": "Studio Pilates Fernanda Secoli",
+    "whatsapp": "5515996286653",
+    "telefone": "(15) 99628-6653",
+    "endereco": "R. Benjamin da Silveira Baldy, 111, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma aula experimental de pilates."
+  }
+}

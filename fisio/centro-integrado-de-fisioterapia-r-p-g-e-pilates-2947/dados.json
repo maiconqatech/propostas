@@ -1,0 +1,19 @@
+{
+  "nome": "Centro Integrado de Fisioterapia, R.P.G e Pilates",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Santa Rita, 296, Itu - SP",
+  "telefone": "(11) 2429-1787",
+  "whatsapp": "551124291787",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=5437991541956352947",
+  "config": {
+    "nome": "Centro Integrado de Fisioterapia, R.P.G e Pilates",
+    "whatsapp": "551124291787",
+    "telefone": "(11) 2429-1787",
+    "endereco": "R. Santa Rita, 296, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

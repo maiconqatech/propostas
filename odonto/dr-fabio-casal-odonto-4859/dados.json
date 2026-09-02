@@ -1,0 +1,19 @@
+{
+  "nome": "Dr Fabio Casal Odonto",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Dentista",
+  "endereco": "Rua Silvino Dias Batista, 203, Salto de Pirapora - SP",
+  "telefone": "(15) 3292-2939",
+  "whatsapp": "551532922939",
+  "nota_google": "3,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=3491824434789874859",
+  "config": {
+    "nome": "Dr Fabio Casal Odonto",
+    "whatsapp": "551532922939",
+    "telefone": "(15) 3292-2939",
+    "endereco": "Rua Silvino Dias Batista, 203, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

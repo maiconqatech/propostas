@@ -1,0 +1,19 @@
+{
+  "nome": "NOI Odontologia -Clínica Especializada",
+  "cidade": "Itu",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. Santa Rita, 966, Itu - SP",
+  "telefone": "(11) 4023-2340",
+  "whatsapp": "551140232340",
+  "nota_google": "4,4",
+  "avaliacoes_google": "7",
+  "google_maps": "https://www.google.com/maps?cid=8660541661011283257",
+  "config": {
+    "nome": "NOI Odontologia -Clínica Especializada",
+    "whatsapp": "551140232340",
+    "telefone": "(11) 4023-2340",
+    "endereco": "R. Santa Rita, 966, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

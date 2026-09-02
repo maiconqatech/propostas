@@ -1,0 +1,19 @@
+{
+  "nome": "Dentista 24h Sorocaba | Urgência e Emergência Odontológica Particular",
+  "cidade": "Sorocaba",
+  "categoria": "Dentista",
+  "endereco": "Av. Antônio Carlos Comitre, 540 - Sl 96, Sorocaba - SP",
+  "telefone": "(15) 99745-8272",
+  "whatsapp": "5515997458272",
+  "nota_google": "4,9",
+  "avaliacoes_google": "65",
+  "google_maps": "https://www.google.com/maps?cid=9827294596074130595",
+  "config": {
+    "nome": "Dentista 24h Sorocaba | Urgência e Emergência Odontológica Particular",
+    "whatsapp": "5515997458272",
+    "telefone": "(15) 99745-8272",
+    "endereco": "Av. Antônio Carlos Comitre, 540 - Sl 96, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

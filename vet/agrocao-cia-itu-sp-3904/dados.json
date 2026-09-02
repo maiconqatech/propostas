@@ -1,0 +1,19 @@
+{
+  "nome": "Agrocão & Cia - Itu/SP",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "Av. das Rosas, 2034, Itu - SP",
+  "telefone": "(11) 91866-0131",
+  "whatsapp": "5511918660131",
+  "nota_google": "4,8",
+  "avaliacoes_google": "45",
+  "google_maps": "https://www.google.com/maps?cid=1941752348474263904",
+  "config": {
+    "nome": "Agrocão & Cia - Itu/SP",
+    "whatsapp": "5511918660131",
+    "telefone": "(11) 91866-0131",
+    "endereco": "Av. das Rosas, 2034, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

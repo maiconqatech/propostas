@@ -1,0 +1,19 @@
+{
+  "nome": "Fisioterapia Manchester",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Av. Dr. Eugênio Salerno, 297, Sorocaba - SP",
+  "telefone": "(15) 3222-3272",
+  "whatsapp": "551532223272",
+  "nota_google": "4,5",
+  "avaliacoes_google": "26",
+  "google_maps": "https://www.google.com/maps?cid=15010742049210039494",
+  "config": {
+    "nome": "Fisioterapia Manchester",
+    "whatsapp": "551532223272",
+    "telefone": "(15) 3222-3272",
+    "endereco": "Av. Dr. Eugênio Salerno, 297, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

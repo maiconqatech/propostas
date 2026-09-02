@@ -1,0 +1,19 @@
+{
+  "nome": "RP PRIME ODONTOLOGIA",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica odontológica",
+  "endereco": "Av. Pereira da Silva, 56, Sorocaba - SP",
+  "telefone": "(15) 3011-1204",
+  "whatsapp": "551530111204",
+  "nota_google": "4,6",
+  "avaliacoes_google": "193",
+  "google_maps": "https://www.google.com/maps?cid=943873670968247827",
+  "config": {
+    "nome": "Rp Prime Odontologia",
+    "whatsapp": "551530111204",
+    "telefone": "(15) 3011-1204",
+    "endereco": "Av. Pereira da Silva, 56, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

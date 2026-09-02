@@ -1,0 +1,19 @@
+{
+  "nome": "Fisioterapia Pélvica Dra. Marianna Casanova",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Clínica Casanova - R. João Wagner Wey, 1210, Sorocaba - SP",
+  "telefone": "(15) 98147-5125",
+  "whatsapp": "5515981475125",
+  "nota_google": "5,0",
+  "avaliacoes_google": "61",
+  "google_maps": "https://www.google.com/maps?cid=12039385058465479779",
+  "config": {
+    "nome": "Fisioterapia Pélvica Dra. Marianna Casanova",
+    "whatsapp": "5515981475125",
+    "telefone": "(15) 98147-5125",
+    "endereco": "Clínica Casanova - R. João Wagner Wey, 1210, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

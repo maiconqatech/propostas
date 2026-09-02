@@ -1,0 +1,19 @@
+{
+  "nome": "SUNT | Pilates, Fisioterapia e Massagem",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Juvenal Wey, 23 - Sl 06, Sorocaba - SP",
+  "telefone": "(15) 99652-2426",
+  "whatsapp": "5515996522426",
+  "nota_google": "5,0",
+  "avaliacoes_google": "34",
+  "google_maps": "https://www.google.com/maps?cid=6823443140746344897",
+  "config": {
+    "nome": "SUNT | Pilates, Fisioterapia e Massagem",
+    "whatsapp": "5515996522426",
+    "telefone": "(15) 99652-2426",
+    "endereco": "R. Juvenal Wey, 23 - Sl 06, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

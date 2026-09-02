@@ -1,0 +1,19 @@
+{
+  "nome": "Sendy Motta Odontologia",
+  "cidade": "Piedade",
+  "categoria": "Dentista",
+  "endereco": "R. Prof. Vieira Pinto, 13, Piedade - SP",
+  "telefone": "(15) 99783-4094",
+  "whatsapp": "5515997834094",
+  "nota_google": "5,0",
+  "avaliacoes_google": "12",
+  "google_maps": "https://www.google.com/maps?cid=305054737738960315",
+  "config": {
+    "nome": "Sendy Motta Odontologia",
+    "whatsapp": "5515997834094",
+    "telefone": "(15) 99783-4094",
+    "endereco": "R. Prof. Vieira Pinto, 13, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

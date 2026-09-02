@@ -1,0 +1,19 @@
+{
+  "nome": "DENTISTAS PGO",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Dentista",
+  "endereco": "Rua Silvino Dias Batista, 109, Salto de Pirapora - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "1,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=6655278140474404930",
+  "config": {
+    "nome": "Dentistas Pgo",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "Rua Silvino Dias Batista, 109, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

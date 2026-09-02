@@ -1,0 +1,19 @@
+{
+  "nome": "Melia Clinica de fisioterapia e reabilitação ltda",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Bernardo Guimarães, 210, Sorocaba - SP",
+  "telefone": "(15) 3233-2233",
+  "whatsapp": "551532332233",
+  "nota_google": "3,8",
+  "avaliacoes_google": "30",
+  "google_maps": "https://www.google.com/maps?cid=14090333959018386852",
+  "config": {
+    "nome": "Melia Clinica de fisioterapia e reabilitação ltda",
+    "whatsapp": "551532332233",
+    "telefone": "(15) 3233-2233",
+    "endereco": "R. Bernardo Guimarães, 210, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

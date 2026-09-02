@@ -1,0 +1,19 @@
+{
+  "nome": "Clinica Veterinária",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "Av. Gisele Constantino, 1538, Votorantim - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "4,7",
+  "avaliacoes_google": "14",
+  "google_maps": "https://www.google.com/maps?cid=11956777711119053836",
+  "config": {
+    "nome": "Clinica Veterinária",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "Av. Gisele Constantino, 1538, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

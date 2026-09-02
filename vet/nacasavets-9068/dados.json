@@ -1,0 +1,19 @@
+{
+  "nome": "NaCasaVets",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "Av. Moacir Oséias Guiti, 40, Votorantim - SP",
+  "telefone": "(15) 99640-1894",
+  "whatsapp": "5515996401894",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=13643995051356919068",
+  "config": {
+    "nome": "NaCasaVets",
+    "whatsapp": "5515996401894",
+    "telefone": "(15) 99640-1894",
+    "endereco": "Av. Moacir Oséias Guiti, 40, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

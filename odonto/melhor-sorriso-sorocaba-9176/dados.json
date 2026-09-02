@@ -1,0 +1,19 @@
+{
+  "nome": "Melhor Sorriso Sorocaba",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. da Penha, 413, Sorocaba - SP",
+  "telefone": "(15) 3342-3694",
+  "whatsapp": "551533423694",
+  "nota_google": "4,6",
+  "avaliacoes_google": "47",
+  "google_maps": "https://www.google.com/maps?cid=10289732612262309176",
+  "config": {
+    "nome": "Melhor Sorriso Sorocaba",
+    "whatsapp": "551533423694",
+    "telefone": "(15) 3342-3694",
+    "endereco": "R. da Penha, 413, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

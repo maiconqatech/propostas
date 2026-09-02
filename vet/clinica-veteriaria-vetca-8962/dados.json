@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Veteriária VetCa",
+  "cidade": "Piedade",
+  "categoria": "Veterinário",
+  "endereco": "Av. Raymundo Nonato Leite, 95, Piedade - SP",
+  "telefone": "(15) 99843-2531",
+  "whatsapp": "5515998432531",
+  "nota_google": "5,0",
+  "avaliacoes_google": "23",
+  "google_maps": "https://www.google.com/maps?cid=11969255351016468962",
+  "config": {
+    "nome": "Clínica Veteriária VetCa",
+    "whatsapp": "5515998432531",
+    "telefone": "(15) 99843-2531",
+    "endereco": "Av. Raymundo Nonato Leite, 95, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

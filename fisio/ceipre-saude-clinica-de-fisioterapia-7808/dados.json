@@ -1,0 +1,19 @@
+{
+  "nome": "CeiPre Saúde - Clínica de Fisioterapia",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. João dos Santos, 600, Sorocaba - SP",
+  "telefone": "(15) 99201-5008",
+  "whatsapp": "5515992015008",
+  "nota_google": "4,9",
+  "avaliacoes_google": "217",
+  "google_maps": "https://www.google.com/maps?cid=3222048802022637808",
+  "config": {
+    "nome": "CeiPre Saúde - Clínica de Fisioterapia",
+    "whatsapp": "5515992015008",
+    "telefone": "(15) 99201-5008",
+    "endereco": "R. João dos Santos, 600, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

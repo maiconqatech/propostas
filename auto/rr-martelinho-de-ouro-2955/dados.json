@@ -1,0 +1,19 @@
+{
+  "nome": "RR Martelinho de Ouro",
+  "cidade": "Piedade",
+  "categoria": "Martelinho de ouro",
+  "endereco": "R. João Viera Ribeiro, Piedade - SP",
+  "telefone": "(15) 99619-8961",
+  "whatsapp": "5515996198961",
+  "nota_google": "5,0",
+  "avaliacoes_google": "30",
+  "google_maps": "https://www.google.com/maps?cid=15326907619799502955",
+  "config": {
+    "nome": "RR Martelinho de Ouro",
+    "whatsapp": "5515996198961",
+    "telefone": "(15) 99619-8961",
+    "endereco": "R. João Viera Ribeiro, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

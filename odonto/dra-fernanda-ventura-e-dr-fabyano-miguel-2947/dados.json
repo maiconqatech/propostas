@@ -1,0 +1,19 @@
+{
+  "nome": "Dra Fernanda Ventura e Dr Fabyano Miguel",
+  "cidade": "Itu",
+  "categoria": "Cirurgião dentista",
+  "endereco": "Rua Convenção, 396- Vila Nova, Itu - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "5,0",
+  "avaliacoes_google": "51",
+  "google_maps": "https://www.google.com/maps?cid=2314105269638962947",
+  "config": {
+    "nome": "Dra Fernanda Ventura e Dr Fabyano Miguel",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "Rua Convenção, 396- Vila Nova, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

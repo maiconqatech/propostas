@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Equilíbrio",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. José Bruni, 600 - Sl 17, Itu - SP",
+  "telefone": "(11) 4024-0346",
+  "whatsapp": "551140240346",
+  "nota_google": "3,7",
+  "avaliacoes_google": "3",
+  "google_maps": "https://www.google.com/maps?cid=11751899898676187595",
+  "config": {
+    "nome": "Clínica Equilíbrio",
+    "whatsapp": "551140240346",
+    "telefone": "(11) 4024-0346",
+    "endereco": "R. José Bruni, 600 - Sl 17, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

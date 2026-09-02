@@ -1,0 +1,19 @@
+{
+  "nome": "Vivacitá Odontologia - Votorantim",
+  "cidade": "Votorantim",
+  "categoria": "Clínica odontológica",
+  "endereco": "Av. 31 de Março, 709, Votorantim - SP",
+  "telefone": "(15) 99885-2493",
+  "whatsapp": "5515998852493",
+  "nota_google": "5,0",
+  "avaliacoes_google": "16",
+  "google_maps": "https://www.google.com/maps?cid=5654822712360084462",
+  "config": {
+    "nome": "Vivacitá Odontologia - Votorantim",
+    "whatsapp": "5515998852493",
+    "telefone": "(15) 99885-2493",
+    "endereco": "Av. 31 de Março, 709, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

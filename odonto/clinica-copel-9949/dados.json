@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Copel",
+  "cidade": "Piedade",
+  "categoria": "Dentista",
+  "endereco": "R. José Batista, 289, Piedade - SP",
+  "telefone": "(15) 3244-1443",
+  "whatsapp": "551532441443",
+  "nota_google": "5,0",
+  "avaliacoes_google": "5",
+  "google_maps": "https://www.google.com/maps?cid=1623397920230099949",
+  "config": {
+    "nome": "Clínica Copel",
+    "whatsapp": "551532441443",
+    "telefone": "(15) 3244-1443",
+    "endereco": "R. José Batista, 289, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Odontologia Especializada Dr. Marcos Furlan",
+  "cidade": "Itu",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. Santa Rita, 1691, Itu - SP",
+  "telefone": "(11) 4022-1142",
+  "whatsapp": "551140221142",
+  "nota_google": "4,7",
+  "avaliacoes_google": "27",
+  "google_maps": "https://www.google.com/maps?cid=16948729829720099840",
+  "config": {
+    "nome": "Odontologia Especializada Dr. Marcos Furlan",
+    "whatsapp": "551140221142",
+    "telefone": "(11) 4022-1142",
+    "endereco": "R. Santa Rita, 1691, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

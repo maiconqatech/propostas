@@ -1,0 +1,19 @@
+{
+  "nome": "Fisio Kelly Mendes Zaboti",
+  "cidade": "Piedade",
+  "categoria": "Fisioterapeuta",
+  "endereco": "R. Saladino de Araújo Leite, 230, Piedade - SP",
+  "telefone": "(15) 99644-4326",
+  "whatsapp": "5515996444326",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=12172301349457717344",
+  "config": {
+    "nome": "Fisio Kelly Mendes Zaboti",
+    "whatsapp": "5515996444326",
+    "telefone": "(15) 99644-4326",
+    "endereco": "R. Saladino de Araújo Leite, 230, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Sinov | Fisioterapia Ortopédica Especializada e Pilates",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Av. Dr. Armando Sales de Oliveira, 420, Sorocaba - SP",
+  "telefone": "(15) 99145-8900",
+  "whatsapp": "5515991458900",
+  "nota_google": "5,0",
+  "avaliacoes_google": "25",
+  "google_maps": "https://www.google.com/maps?cid=583720014095175245",
+  "config": {
+    "nome": "Clínica Sinov | Fisioterapia Ortopédica Especializada e Pilates",
+    "whatsapp": "5515991458900",
+    "telefone": "(15) 99145-8900",
+    "endereco": "Av. Dr. Armando Sales de Oliveira, 420, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

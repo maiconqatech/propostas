@@ -1,0 +1,19 @@
+{
+  "nome": "Unidade de Fisioterapia \"Kindu\"",
+  "cidade": "Itu",
+  "categoria": "Fisioterapeuta",
+  "endereco": "R. Floriano Peixoto, 457, Itu - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "4,7",
+  "avaliacoes_google": "11",
+  "google_maps": "https://www.google.com/maps?cid=12084927510576816250",
+  "config": {
+    "nome": "Unidade de Fisioterapia \"Kindu\"",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "R. Floriano Peixoto, 457, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

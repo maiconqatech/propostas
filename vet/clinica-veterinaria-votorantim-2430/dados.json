@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Veterinária Votorantim",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "Av. Célso Miguel dos Santos, 246, Votorantim - SP",
+  "telefone": "(15) 3014-0967",
+  "whatsapp": "551530140967",
+  "nota_google": "2,5",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=8643296097306912430",
+  "config": {
+    "nome": "Clínica Veterinária Votorantim",
+    "whatsapp": "551530140967",
+    "telefone": "(15) 3014-0967",
+    "endereco": "Av. Célso Miguel dos Santos, 246, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

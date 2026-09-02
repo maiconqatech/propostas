@@ -1,0 +1,19 @@
+{
+  "nome": "Igor Raatz Fisioterapia",
+  "cidade": "Piedade",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Benjamin Constant, 187, Piedade - SP",
+  "telefone": "(15) 99710-5919",
+  "whatsapp": "5515997105919",
+  "nota_google": "5,0",
+  "avaliacoes_google": "6",
+  "google_maps": "https://www.google.com/maps?cid=5365508573999044251",
+  "config": {
+    "nome": "Igor Raatz Fisioterapia",
+    "whatsapp": "5515997105919",
+    "telefone": "(15) 99710-5919",
+    "endereco": "R. Benjamin Constant, 187, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

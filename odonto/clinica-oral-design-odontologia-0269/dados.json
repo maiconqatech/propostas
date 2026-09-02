@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Oral Design Odontologia",
+  "cidade": "Votorantim",
+  "categoria": "Dentista",
+  "endereco": "R. Júlia Martins Domingues, 1012, Votorantim - SP",
+  "telefone": "(15) 3247-1643",
+  "whatsapp": "551532471643",
+  "nota_google": "5,0",
+  "avaliacoes_google": "28",
+  "google_maps": "https://www.google.com/maps?cid=4973613891601360269",
+  "config": {
+    "nome": "Clínica Oral Design Odontologia",
+    "whatsapp": "551532471643",
+    "telefone": "(15) 3247-1643",
+    "endereco": "R. Júlia Martins Domingues, 1012, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

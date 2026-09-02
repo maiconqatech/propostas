@@ -1,0 +1,19 @@
+{
+  "nome": "Dr. André Martinis | Fisioterapia Integrativa e Regenerativa",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Rua Nicolau Pereira Campos Vergueiro, 133, Sorocaba - SP CEP:, Sorocaba - SP",
+  "telefone": "(15) 98101-9996",
+  "whatsapp": "5515981019996",
+  "nota_google": "5,0",
+  "avaliacoes_google": "43",
+  "google_maps": "https://www.google.com/maps?cid=14195404065409186270",
+  "config": {
+    "nome": "Dr. André Martinis | Fisioterapia Integrativa e Regenerativa",
+    "whatsapp": "5515981019996",
+    "telefone": "(15) 98101-9996",
+    "endereco": "Rua Nicolau Pereira Campos Vergueiro, 133, Sorocaba - SP CEP:, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

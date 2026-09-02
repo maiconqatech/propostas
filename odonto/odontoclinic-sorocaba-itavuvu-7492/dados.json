@@ -1,0 +1,19 @@
+{
+  "nome": "Odontoclinic - Sorocaba Itavuvu",
+  "cidade": "Sorocaba",
+  "categoria": "Dentista",
+  "endereco": "Av. Itavuvu, 1476, Sorocaba - SP",
+  "telefone": "(15) 97401-1288",
+  "whatsapp": "5515974011288",
+  "nota_google": "4,8",
+  "avaliacoes_google": "311",
+  "google_maps": "https://www.google.com/maps?cid=7231676454154797492",
+  "config": {
+    "nome": "Odontoclinic - Sorocaba Itavuvu",
+    "whatsapp": "5515974011288",
+    "telefone": "(15) 97401-1288",
+    "endereco": "Av. Itavuvu, 1476, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

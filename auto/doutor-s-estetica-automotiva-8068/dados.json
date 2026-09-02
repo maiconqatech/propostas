@@ -1,0 +1,19 @@
+{
+  "nome": "Doutor's estética automotiva",
+  "cidade": "Piedade",
+  "categoria": "Serviço de detalhamento de veículos recreativos",
+  "endereco": "R. Saladino de Araújo Leite, 407, Piedade - SP",
+  "telefone": "(15) 99676-4506",
+  "whatsapp": "5515996764506",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=4885435582214528068",
+  "config": {
+    "nome": "Doutor's estética automotiva",
+    "whatsapp": "5515996764506",
+    "telefone": "(15) 99676-4506",
+    "endereco": "R. Saladino de Araújo Leite, 407, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

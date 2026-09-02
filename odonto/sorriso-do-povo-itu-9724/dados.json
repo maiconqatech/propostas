@@ -1,0 +1,19 @@
+{
+  "nome": "Sorriso do Povo Itu",
+  "cidade": "Itu",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. Floriano Peixoto, 572, Itu - SP",
+  "telefone": "(11) 4013-2171",
+  "whatsapp": "551140132171",
+  "nota_google": "2,3",
+  "avaliacoes_google": "10",
+  "google_maps": "https://www.google.com/maps?cid=15757165896352169724",
+  "config": {
+    "nome": "Sorriso do Povo Itu",
+    "whatsapp": "551140132171",
+    "telefone": "(11) 4013-2171",
+    "endereco": "R. Floriano Peixoto, 572, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

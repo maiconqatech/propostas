@@ -1,0 +1,19 @@
+{
+  "nome": "AUTO BRITE | Estética Automotiva",
+  "cidade": "Sorocaba",
+  "categoria": "Funilaria",
+  "endereco": "Av. Américo de Carvalho, 692, Sorocaba - SP",
+  "telefone": "(15) 3222-3425",
+  "whatsapp": "551532223425",
+  "nota_google": "4,0",
+  "avaliacoes_google": "233",
+  "google_maps": "https://www.google.com/maps?cid=18340735009508384540",
+  "config": {
+    "nome": "AUTO BRITE | Estética Automotiva",
+    "whatsapp": "551532223425",
+    "telefone": "(15) 3222-3425",
+    "endereco": "Av. Américo de Carvalho, 692, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

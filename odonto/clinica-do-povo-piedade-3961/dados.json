@@ -1,0 +1,19 @@
+{
+  "nome": "CLINICA DO POVO PIEDADE",
+  "cidade": "Piedade",
+  "categoria": "Dentista",
+  "endereco": "R. Araújo Leite, n° 215, Piedade - SP",
+  "telefone": "(15) 99856-7110",
+  "whatsapp": "5515998567110",
+  "nota_google": "4,1",
+  "avaliacoes_google": "9",
+  "google_maps": "https://www.google.com/maps?cid=12795687554486993961",
+  "config": {
+    "nome": "Clinica do Povo Piedade",
+    "whatsapp": "5515998567110",
+    "telefone": "(15) 99856-7110",
+    "endereco": "R. Araújo Leite, n° 215, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

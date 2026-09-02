@@ -1,0 +1,19 @@
+{
+  "nome": "Clinica Bem Mais Odontologia - Dentista Sorocaba",
+  "cidade": "Sorocaba",
+  "categoria": "Dentista",
+  "endereco": "R. Comendador Hermelino Matarazzo, 986, Sorocaba - SP",
+  "telefone": "(15) 3232-6146",
+  "whatsapp": "551532326146",
+  "nota_google": "5,0",
+  "avaliacoes_google": "140",
+  "google_maps": "https://www.google.com/maps?cid=2469368175516137873",
+  "config": {
+    "nome": "Clinica Bem Mais Odontologia - Dentista Sorocaba",
+    "whatsapp": "551532326146",
+    "telefone": "(15) 3232-6146",
+    "endereco": "R. Comendador Hermelino Matarazzo, 986, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "TF Polimento e Higienização",
+  "cidade": "Piedade",
+  "categoria": "Lava-rápido",
+  "endereco": "R. Prof. Carlos Augusto de Camargo, 36, Piedade - SP",
+  "telefone": "(15) 99106-6630",
+  "whatsapp": "5515991066630",
+  "nota_google": "4,8",
+  "avaliacoes_google": "4",
+  "google_maps": "https://www.google.com/maps?cid=7000267817115321567",
+  "config": {
+    "nome": "TF Polimento e Higienização",
+    "whatsapp": "5515991066630",
+    "telefone": "(15) 99106-6630",
+    "endereco": "R. Prof. Carlos Augusto de Camargo, 36, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

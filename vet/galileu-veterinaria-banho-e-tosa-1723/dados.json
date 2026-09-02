@@ -1,0 +1,19 @@
+{
+  "nome": "Galileu Veterinária, Banho e Tosa",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "R. Ana Eufrosina de Almeida Prado, 51 - Cs 2, Itu - SP",
+  "telefone": "(11) 97524-3656",
+  "whatsapp": "5511975243656",
+  "nota_google": "5,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=12602150641486671723",
+  "config": {
+    "nome": "Galileu Veterinária, Banho e Tosa",
+    "whatsapp": "5511975243656",
+    "telefone": "(11) 97524-3656",
+    "endereco": "R. Ana Eufrosina de Almeida Prado, 51 - Cs 2, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

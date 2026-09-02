@@ -1,0 +1,19 @@
+{
+  "nome": "BranDente Odontologia Integrada",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Dentista",
+  "endereco": "B, Av. Pedro Pires de Mello, 880, Salto de Pirapora - SP",
+  "telefone": "(15) 99713-8003",
+  "whatsapp": "5515997138003",
+  "nota_google": "5,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=1839626614075348757",
+  "config": {
+    "nome": "BranDente Odontologia Integrada",
+    "whatsapp": "5515997138003",
+    "telefone": "(15) 99713-8003",
+    "endereco": "B, Av. Pedro Pires de Mello, 880, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

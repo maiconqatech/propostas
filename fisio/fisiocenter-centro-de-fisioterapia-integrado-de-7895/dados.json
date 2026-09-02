@@ -1,0 +1,19 @@
+{
+  "nome": "Fisiocenter - Centro de Fisioterapia Integrado de Itu",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Mal. Deodoro, 135, Itu - SP",
+  "telefone": "(11) 4013-2098",
+  "whatsapp": "551140132098",
+  "nota_google": "4,7",
+  "avaliacoes_google": "10",
+  "google_maps": "https://www.google.com/maps?cid=9670295392615317895",
+  "config": {
+    "nome": "Fisiocenter - Centro de Fisioterapia Integrado de Itu",
+    "whatsapp": "551140132098",
+    "telefone": "(11) 4013-2098",
+    "endereco": "R. Mal. Deodoro, 135, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

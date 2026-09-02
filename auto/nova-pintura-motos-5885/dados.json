@@ -1,0 +1,19 @@
+{
+  "nome": "Nova Pintura Motos",
+  "cidade": "Votorantim",
+  "categoria": "Pintura automotiva",
+  "endereco": "R. Antônio Rocha Camargo, 88, Votorantim - SP",
+  "telefone": "(15) 99856-2034",
+  "whatsapp": "5515998562034",
+  "nota_google": "5,0",
+  "avaliacoes_google": "22",
+  "google_maps": "https://www.google.com/maps?cid=11723768578728685885",
+  "config": {
+    "nome": "Nova Pintura Motos",
+    "whatsapp": "5515998562034",
+    "telefone": "(15) 99856-2034",
+    "endereco": "R. Antônio Rocha Camargo, 88, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

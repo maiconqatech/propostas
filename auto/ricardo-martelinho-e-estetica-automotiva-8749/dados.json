@@ -1,0 +1,19 @@
+{
+  "nome": "Ricardo Martelinho e Estética Automotiva",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Lava-rápido",
+  "endereco": "R. Olegário Guilherme da Rocha, 151, Salto de Pirapora - SP",
+  "telefone": "(15) 97404-8976",
+  "whatsapp": "5515974048976",
+  "nota_google": "4,9",
+  "avaliacoes_google": "13",
+  "google_maps": "https://www.google.com/maps?cid=7444792246687688749",
+  "config": {
+    "nome": "Ricardo Martelinho e Estética Automotiva",
+    "whatsapp": "5515974048976",
+    "telefone": "(15) 97404-8976",
+    "endereco": "R. Olegário Guilherme da Rocha, 151, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

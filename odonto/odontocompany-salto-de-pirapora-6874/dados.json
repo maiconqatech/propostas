@@ -1,0 +1,19 @@
+{
+  "nome": "OdontoCompany Salto de Pirapora",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Clínica odontológica",
+  "endereco": "Souza - R. Graciliano Albuquerque Souza, 10, Salto de Pirapora - SP",
+  "telefone": "(15) 99155-8937",
+  "whatsapp": "5515991558937",
+  "nota_google": "4,8",
+  "avaliacoes_google": "52",
+  "google_maps": "https://www.google.com/maps?cid=13596176230764936874",
+  "config": {
+    "nome": "OdontoCompany Salto de Pirapora",
+    "whatsapp": "5515991558937",
+    "telefone": "(15) 99155-8937",
+    "endereco": "Souza - R. Graciliano Albuquerque Souza, 10, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

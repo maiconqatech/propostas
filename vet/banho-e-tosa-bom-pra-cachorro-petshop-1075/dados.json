@@ -1,0 +1,19 @@
+{
+  "nome": "Banho e Tosa Bom Pra Cachorro PETSHOP",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "Av. Luiz do Patrocínio Fernandes, 280, Votorantim - SP",
+  "telefone": "(15) 98833-1156",
+  "whatsapp": "5515988331156",
+  "nota_google": "4,6",
+  "avaliacoes_google": "58",
+  "google_maps": "https://www.google.com/maps?cid=14945413055831711075",
+  "config": {
+    "nome": "Banho e Tosa Bom Pra Cachorro PETSHOP",
+    "whatsapp": "5515988331156",
+    "telefone": "(15) 98833-1156",
+    "endereco": "Av. Luiz do Patrocínio Fernandes, 280, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

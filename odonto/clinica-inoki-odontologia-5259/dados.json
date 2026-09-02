@@ -1,0 +1,19 @@
+{
+  "nome": "CLÍNICA INOKI ODONTOLOGIA",
+  "cidade": "Itu",
+  "categoria": "Dentista",
+  "endereco": "R. dos Andradas, 472, Itu - SP",
+  "telefone": "(11) 97578-9943",
+  "whatsapp": "5511975789943",
+  "nota_google": "4,8",
+  "avaliacoes_google": "9",
+  "google_maps": "https://www.google.com/maps?cid=6258487441104205259",
+  "config": {
+    "nome": "Clínica Inoki Odontologia",
+    "whatsapp": "5511975789943",
+    "telefone": "(11) 97578-9943",
+    "endereco": "R. dos Andradas, 472, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

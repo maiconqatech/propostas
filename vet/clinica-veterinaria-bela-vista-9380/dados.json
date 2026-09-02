@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Veterinária Bela Vista",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Veterinário",
+  "endereco": "R. Estanislau de Almeida Barros, 251, Salto de Pirapora - SP",
+  "telefone": "(15) 3292-3465",
+  "whatsapp": "551532923465",
+  "nota_google": "4,7",
+  "avaliacoes_google": "219",
+  "google_maps": "https://www.google.com/maps?cid=6271130074909089380",
+  "config": {
+    "nome": "Clínica Veterinária Bela Vista",
+    "whatsapp": "551532923465",
+    "telefone": "(15) 3292-3465",
+    "endereco": "R. Estanislau de Almeida Barros, 251, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

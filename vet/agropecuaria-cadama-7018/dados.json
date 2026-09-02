@@ -1,0 +1,19 @@
+{
+  "nome": "Agropecuaria CADAMA",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Veterinário",
+  "endereco": "Av. Pedro Pires de Mello, 473, Salto de Pirapora - SP",
+  "telefone": "(15) 99731-1991",
+  "whatsapp": "5515997311991",
+  "nota_google": "4,3",
+  "avaliacoes_google": "6",
+  "google_maps": "https://www.google.com/maps?cid=9836776723711437018",
+  "config": {
+    "nome": "Agropecuaria CADAMA",
+    "whatsapp": "5515997311991",
+    "telefone": "(15) 99731-1991",
+    "endereco": "Av. Pedro Pires de Mello, 473, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Oral Clin Saúde",
+  "cidade": "Votorantim",
+  "categoria": "Cirurgião dentista",
+  "endereco": "Av. Ver. Newton Vieira Soares, 45 - sala 5 e 2, Votorantim - SP",
+  "telefone": "(15) 3247-1963",
+  "whatsapp": "551532471963",
+  "nota_google": "4,9",
+  "avaliacoes_google": "73",
+  "google_maps": "https://www.google.com/maps?cid=5945716852293801126",
+  "config": {
+    "nome": "Oral Clin Saúde",
+    "whatsapp": "551532471963",
+    "telefone": "(15) 3247-1963",
+    "endereco": "Av. Ver. Newton Vieira Soares, 45 - sala 5 e 2, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

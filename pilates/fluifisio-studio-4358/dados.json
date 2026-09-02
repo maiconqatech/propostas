@@ -1,0 +1,19 @@
+{
+  "nome": "Fluifisio Studio",
+  "cidade": "Votorantim",
+  "categoria": "Estúdio de pilates",
+  "endereco": "R. Carlos Machado, 91, Votorantim - SP",
+  "telefone": "(15) 99662-6206",
+  "whatsapp": "5515996626206",
+  "nota_google": "5,0",
+  "avaliacoes_google": "23",
+  "google_maps": "https://www.google.com/maps?cid=1962394443917094358",
+  "config": {
+    "nome": "Fluifisio Studio",
+    "whatsapp": "5515996626206",
+    "telefone": "(15) 99662-6206",
+    "endereco": "R. Carlos Machado, 91, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma aula experimental de pilates."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Odontomed",
+  "cidade": "Piedade",
+  "categoria": "Serviço de saúde ocupacional",
+  "endereco": "R. Mal. Floriano Peixoto, 297, Piedade - SP",
+  "telefone": "(15) 99668-8613",
+  "whatsapp": "5515996688613",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=8586786751448436810",
+  "config": {
+    "nome": "Clínica Odontomed",
+    "whatsapp": "5515996688613",
+    "telefone": "(15) 99668-8613",
+    "endereco": "R. Mal. Floriano Peixoto, 297, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Odontologia Tavares",
+  "cidade": "Itu",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. São Paulo, 328, Itu - SP",
+  "telefone": "(11) 97390-0787",
+  "whatsapp": "5511973900787",
+  "nota_google": "5,0",
+  "avaliacoes_google": "55",
+  "google_maps": "https://www.google.com/maps?cid=9870603291798727577",
+  "config": {
+    "nome": "Odontologia Tavares",
+    "whatsapp": "5511973900787",
+    "telefone": "(11) 97390-0787",
+    "endereco": "R. São Paulo, 328, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

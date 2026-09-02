@@ -1,0 +1,19 @@
+{
+  "nome": "Villa Vet Consultório Veterinário",
+  "cidade": "Votorantim",
+  "categoria": "Veterinário",
+  "endereco": "R. Júlia Martins Domingues, 459, Votorantim - SP",
+  "telefone": "(15) 3023-6563",
+  "whatsapp": "551530236563",
+  "nota_google": "4,8",
+  "avaliacoes_google": "5",
+  "google_maps": "https://www.google.com/maps?cid=4166897136400701823",
+  "config": {
+    "nome": "Villa Vet Consultório Veterinário",
+    "whatsapp": "551530236563",
+    "telefone": "(15) 3023-6563",
+    "endereco": "R. Júlia Martins Domingues, 459, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

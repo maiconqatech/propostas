@@ -1,0 +1,19 @@
+{
+  "nome": "Reabilitar",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Maria Clara dos Santos, 140, Salto de Pirapora - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "2,3",
+  "avaliacoes_google": "3",
+  "google_maps": "https://www.google.com/maps?cid=6547778750076873276",
+  "config": {
+    "nome": "Reabilitar",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "R. Maria Clara dos Santos, 140, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

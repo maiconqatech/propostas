@@ -1,0 +1,19 @@
+{
+  "nome": "Dr. Alex Veterinário - Atendimento Domiciliar",
+  "cidade": "Sorocaba",
+  "categoria": "Veterinário",
+  "endereco": "R. Aparecida, 298, Sorocaba - SP",
+  "telefone": "(15) 98109-3489",
+  "whatsapp": "5515981093489",
+  "nota_google": "4,7",
+  "avaliacoes_google": "623",
+  "google_maps": "https://www.google.com/maps?cid=16579557543580993085",
+  "config": {
+    "nome": "Dr. Alex Veterinário - Atendimento Domiciliar",
+    "whatsapp": "5515981093489",
+    "telefone": "(15) 98109-3489",
+    "endereco": "R. Aparecida, 298, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

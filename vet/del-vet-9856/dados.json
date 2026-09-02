@@ -1,0 +1,19 @@
+{
+  "nome": "Del Vet",
+  "cidade": "Sorocaba",
+  "categoria": "Veterinário",
+  "endereco": "Av. Percito de Sousa Queiroz, 245, Sorocaba - SP",
+  "telefone": "(15) 3346-9536",
+  "whatsapp": "551533469536",
+  "nota_google": "4,7",
+  "avaliacoes_google": "290",
+  "google_maps": "https://www.google.com/maps?cid=14574746557217209856",
+  "config": {
+    "nome": "Del Vet",
+    "whatsapp": "551533469536",
+    "telefone": "(15) 3346-9536",
+    "endereco": "Av. Percito de Sousa Queiroz, 245, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

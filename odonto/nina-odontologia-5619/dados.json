@@ -1,0 +1,19 @@
+{
+  "nome": "Nina Odontologia",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Dentista",
+  "endereco": "R. João de Góes, 80, Salto de Pirapora - SP",
+  "telefone": "(15) 99834-5508",
+  "whatsapp": "5515998345508",
+  "nota_google": "5,0",
+  "avaliacoes_google": "23",
+  "google_maps": "https://www.google.com/maps?cid=9756884678682195619",
+  "config": {
+    "nome": "Nina Odontologia",
+    "whatsapp": "5515998345508",
+    "telefone": "(15) 99834-5508",
+    "endereco": "R. João de Góes, 80, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

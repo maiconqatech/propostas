@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Dr Dolirol",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "R. Paulo Eduardo Xavier de Tolêdo, 353, Itu - SP",
+  "telefone": "(11) 99760-6830",
+  "whatsapp": "5511997606830",
+  "nota_google": "5,0",
+  "avaliacoes_google": "10",
+  "google_maps": "https://www.google.com/maps?cid=4231727500169054248",
+  "config": {
+    "nome": "Clínica Dr Dolirol",
+    "whatsapp": "5511997606830",
+    "telefone": "(11) 99760-6830",
+    "endereco": "R. Paulo Eduardo Xavier de Tolêdo, 353, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

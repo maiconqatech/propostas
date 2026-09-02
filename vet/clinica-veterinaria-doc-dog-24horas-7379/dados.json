@@ -1,0 +1,19 @@
+{
+  "nome": "Clinica Veterinária Doc & Dog - 24Horas",
+  "cidade": "Sorocaba",
+  "categoria": "Veterinário",
+  "endereco": "R. Cel. Nogueira Padilha, 834, Sorocaba - SP",
+  "telefone": "(15) 3035-5006",
+  "whatsapp": "551530355006",
+  "nota_google": "4,8",
+  "avaliacoes_google": "447",
+  "google_maps": "https://www.google.com/maps?cid=15797395323064907379",
+  "config": {
+    "nome": "Clinica Veterinária Doc & Dog - 24Horas",
+    "whatsapp": "551530355006",
+    "telefone": "(15) 3035-5006",
+    "endereco": "R. Cel. Nogueira Padilha, 834, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

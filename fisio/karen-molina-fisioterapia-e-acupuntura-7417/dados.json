@@ -1,0 +1,19 @@
+{
+  "nome": "Karen Molina - Fisioterapia e Acupuntura",
+  "cidade": "Votorantim",
+  "categoria": "Fisioterapeuta",
+  "endereco": "João Maciel, 187, Votorantim - SP",
+  "telefone": "(15) 98189-4499",
+  "whatsapp": "5515981894499",
+  "nota_google": "5,0",
+  "avaliacoes_google": "4",
+  "google_maps": "https://www.google.com/maps?cid=5142077964472547417",
+  "config": {
+    "nome": "Karen Molina - Fisioterapia e Acupuntura",
+    "whatsapp": "5515981894499",
+    "telefone": "(15) 98189-4499",
+    "endereco": "João Maciel, 187, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

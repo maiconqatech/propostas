@@ -1,0 +1,19 @@
+{
+  "nome": "Odontologia Robson Caserta Farias",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Dentista",
+  "endereco": "Rua Francisco de Barros Leite, 663, Salto de Pirapora - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=1074376928583774812",
+  "config": {
+    "nome": "Odontologia Robson Caserta Farias",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "Rua Francisco de Barros Leite, 663, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

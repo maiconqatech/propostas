@@ -1,0 +1,19 @@
+{
+  "nome": "Fisiotrad Sc Ltda",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Roraima, 138, Itu - SP",
+  "telefone": "(11) 4023-5005",
+  "whatsapp": "551140235005",
+  "nota_google": "4,8",
+  "avaliacoes_google": "53",
+  "google_maps": "https://www.google.com/maps?cid=657445361106394475",
+  "config": {
+    "nome": "Fisiotrad Sc Ltda",
+    "whatsapp": "551140235005",
+    "telefone": "(11) 4023-5005",
+    "endereco": "R. Roraima, 138, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

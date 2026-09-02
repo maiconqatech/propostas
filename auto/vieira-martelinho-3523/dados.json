@@ -1,0 +1,19 @@
+{
+  "nome": "Vieira Martelinho",
+  "cidade": "Itu",
+  "categoria": "Martelinho de ouro",
+  "endereco": "Av. Caetano Ruggieri, Itu - SP",
+  "telefone": "(11) 2429-2129",
+  "whatsapp": "551124292129",
+  "nota_google": "4,9",
+  "avaliacoes_google": "50",
+  "google_maps": "https://www.google.com/maps?cid=13599814626597913523",
+  "config": {
+    "nome": "Vieira Martelinho",
+    "whatsapp": "551124292129",
+    "telefone": "(11) 2429-2129",
+    "endereco": "Av. Caetano Ruggieri, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Studio Fision",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Av. Agenor Correa Leite de Campos, 529, Itu - SP",
+  "telefone": "(11) 96470-0266",
+  "whatsapp": "5511964700266",
+  "nota_google": "5,0",
+  "avaliacoes_google": "3",
+  "google_maps": "https://www.google.com/maps?cid=14627924560373809033",
+  "config": {
+    "nome": "Studio Fision",
+    "whatsapp": "5511964700266",
+    "telefone": "(11) 96470-0266",
+    "endereco": "Av. Agenor Correa Leite de Campos, 529, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

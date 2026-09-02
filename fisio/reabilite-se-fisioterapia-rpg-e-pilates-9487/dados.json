@@ -1,0 +1,19 @@
+{
+  "nome": "Reabilite-se (Fisioterapia, RPG e Pilates)",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Av. Adolfo Augusto Pinto, 82, Itu - SP",
+  "telefone": "(11) 98599-0494",
+  "whatsapp": "5511985990494",
+  "nota_google": "5,0",
+  "avaliacoes_google": "110",
+  "google_maps": "https://www.google.com/maps?cid=13580796338926909487",
+  "config": {
+    "nome": "Reabilite-se (Fisioterapia, RPG e Pilates)",
+    "whatsapp": "5511985990494",
+    "telefone": "(11) 98599-0494",
+    "endereco": "Av. Adolfo Augusto Pinto, 82, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

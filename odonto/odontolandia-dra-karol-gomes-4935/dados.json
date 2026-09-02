@@ -1,0 +1,19 @@
+{
+  "nome": "Odontolandia / Dra Karol Gomes",
+  "cidade": "Votorantim",
+  "categoria": "Clínica odontológica",
+  "endereco": "Rua Júlia Martins Domingues, 795 Odontolandia, Votorantim - SP",
+  "telefone": "(15) 3243-3586",
+  "whatsapp": "551532433586",
+  "nota_google": "5,0",
+  "avaliacoes_google": "33",
+  "google_maps": "https://www.google.com/maps?cid=13680180928055964935",
+  "config": {
+    "nome": "Odontolandia / Dra Karol Gomes",
+    "whatsapp": "551532433586",
+    "telefone": "(15) 3243-3586",
+    "endereco": "Rua Júlia Martins Domingues, 795 Odontolandia, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "AnimalDoc",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "Av. Adolfo Augusto Pinto, 183, Itu - SP",
+  "telefone": "(11) 4024-1523",
+  "whatsapp": "551140241523",
+  "nota_google": "5,0",
+  "avaliacoes_google": "13",
+  "google_maps": "https://www.google.com/maps?cid=3639860186446561517",
+  "config": {
+    "nome": "AnimalDoc",
+    "whatsapp": "551140241523",
+    "telefone": "(11) 4024-1523",
+    "endereco": "Av. Adolfo Augusto Pinto, 183, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Dr. Daniel Mariano da Silva Filho",
+  "cidade": "Votorantim",
+  "categoria": "Dentista",
+  "endereco": "R. Sorocaba, 621, Votorantim - SP",
+  "telefone": "(15) 99639-2261",
+  "whatsapp": "5515996392261",
+  "nota_google": "5,0",
+  "avaliacoes_google": "35",
+  "google_maps": "https://www.google.com/maps?cid=11684998218253719651",
+  "config": {
+    "nome": "Dr. Daniel Mariano da Silva Filho",
+    "whatsapp": "5515996392261",
+    "telefone": "(15) 99639-2261",
+    "endereco": "R. Sorocaba, 621, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

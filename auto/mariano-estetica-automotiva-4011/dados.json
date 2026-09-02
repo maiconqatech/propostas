@@ -1,0 +1,19 @@
+{
+  "nome": "Mariano estética automotiva",
+  "cidade": "Piedade",
+  "categoria": "Serviço de limpeza completa de automóveis",
+  "endereco": "Rua um, Piedade - SP",
+  "telefone": "(15) 99644-9034",
+  "whatsapp": "5515996449034",
+  "nota_google": "5,0",
+  "avaliacoes_google": "10",
+  "google_maps": "https://www.google.com/maps?cid=288509889809534011",
+  "config": {
+    "nome": "Mariano estética automotiva",
+    "whatsapp": "5515996449034",
+    "telefone": "(15) 99644-9034",
+    "endereco": "Rua um, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

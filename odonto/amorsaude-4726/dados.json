@@ -1,0 +1,19 @@
+{
+  "nome": "amorsaude",
+  "cidade": "Itu",
+  "categoria": "Laboratório de odontologia",
+  "endereco": "R. Santa Rita, Itu - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=1990708728110294726",
+  "config": {
+    "nome": "amorsaude",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "R. Santa Rita, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

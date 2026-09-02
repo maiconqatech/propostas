@@ -1,0 +1,19 @@
+{
+  "nome": "Wellington Martelinho de ouro",
+  "cidade": "Votorantim",
+  "categoria": "Martelinho de ouro",
+  "endereco": "R. Rafael Alves da Silva, 82, Votorantim - SP",
+  "telefone": "(15) 99631-4521",
+  "whatsapp": "5515996314521",
+  "nota_google": "5,0",
+  "avaliacoes_google": "16",
+  "google_maps": "https://www.google.com/maps?cid=11919887702304096562",
+  "config": {
+    "nome": "Wellington Martelinho de ouro",
+    "whatsapp": "5515996314521",
+    "telefone": "(15) 99631-4521",
+    "endereco": "R. Rafael Alves da Silva, 82, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

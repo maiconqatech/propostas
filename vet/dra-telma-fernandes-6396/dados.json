@@ -1,0 +1,19 @@
+{
+  "nome": "Dra. Telma Fernandes",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "R. Dr. Emílio Chierighini, Itu - SP",
+  "telefone": "(11) 98631-7232",
+  "whatsapp": "5511986317232",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=11888671038395916396",
+  "config": {
+    "nome": "Dra. Telma Fernandes",
+    "whatsapp": "5511986317232",
+    "telefone": "(11) 98631-7232",
+    "endereco": "R. Dr. Emílio Chierighini, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

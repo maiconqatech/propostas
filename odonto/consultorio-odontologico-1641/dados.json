@@ -1,0 +1,19 @@
+{
+  "nome": "CONSULTORIO ODONTOLOGICO",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Dentista",
+  "endereco": "R. Padre Boaventura Manara, 79, Salto de Pirapora - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "",
+  "avaliacoes_google": "0",
+  "google_maps": "https://www.google.com/maps?cid=18247148502212841641",
+  "config": {
+    "nome": "Consultorio Odontologico",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "R. Padre Boaventura Manara, 79, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

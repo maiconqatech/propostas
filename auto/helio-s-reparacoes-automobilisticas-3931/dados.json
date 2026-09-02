@@ -1,0 +1,19 @@
+{
+  "nome": "Helio's Reparações Automobilisticas",
+  "cidade": "Itu",
+  "categoria": "Pintura automotiva",
+  "endereco": "Av. Luiz Volpato, 62, Itu - SP",
+  "telefone": "(11) 95304-1693",
+  "whatsapp": "5511953041693",
+  "nota_google": "4,9",
+  "avaliacoes_google": "17",
+  "google_maps": "https://www.google.com/maps?cid=4237279622950583931",
+  "config": {
+    "nome": "Helio's Reparações Automobilisticas",
+    "whatsapp": "5511953041693",
+    "telefone": "(11) 95304-1693",
+    "endereco": "Av. Luiz Volpato, 62, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

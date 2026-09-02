@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica de Fisioterapia Pereira",
+  "cidade": "Piedade",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Mal. Floriano Peixoto, 538, Piedade - SP",
+  "telefone": "(15) 3244-1330",
+  "whatsapp": "551532441330",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=2739640438988930484",
+  "config": {
+    "nome": "Clínica de Fisioterapia Pereira",
+    "whatsapp": "551532441330",
+    "telefone": "(15) 3244-1330",
+    "endereco": "R. Mal. Floriano Peixoto, 538, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

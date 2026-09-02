@@ -1,0 +1,19 @@
+{
+  "nome": "Uau Pet Center - Piedade - SP.",
+  "cidade": "Piedade",
+  "categoria": "Veterinário",
+  "endereco": "Av. Raymundo Nonato Leite, 303, Piedade - SP",
+  "telefone": "(15) 3244-2970",
+  "whatsapp": "551532442970",
+  "nota_google": "4,6",
+  "avaliacoes_google": "19",
+  "google_maps": "https://www.google.com/maps?cid=15590251641450869392",
+  "config": {
+    "nome": "Uau Pet Center - Piedade - SP.",
+    "whatsapp": "551532442970",
+    "telefone": "(15) 3244-2970",
+    "endereco": "Av. Raymundo Nonato Leite, 303, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

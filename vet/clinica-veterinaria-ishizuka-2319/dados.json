@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Veterinária Ishizuka",
+  "cidade": "Sorocaba",
+  "categoria": "Veterinário",
+  "endereco": "Av. Washington Luiz, 920, Sorocaba - SP",
+  "telefone": "(15) 3233-3242",
+  "whatsapp": "551532333242",
+  "nota_google": "4,9",
+  "avaliacoes_google": "179",
+  "google_maps": "https://www.google.com/maps?cid=17063556488694752319",
+  "config": {
+    "nome": "Clínica Veterinária Ishizuka",
+    "whatsapp": "551532333242",
+    "telefone": "(15) 3233-3242",
+    "endereco": "Av. Washington Luiz, 920, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

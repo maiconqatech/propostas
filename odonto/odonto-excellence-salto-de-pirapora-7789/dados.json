@@ -1,0 +1,19 @@
+{
+  "nome": "Odonto Excellence - Salto de Pirapora",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Clínica odontológica",
+  "endereco": "Rua Honório de Almeida Barros, Jardim, n° 331, Salto de Pirapora - SP",
+  "telefone": "(15) 99792-9237",
+  "whatsapp": "5515997929237",
+  "nota_google": "4,5",
+  "avaliacoes_google": "42",
+  "google_maps": "https://www.google.com/maps?cid=13745380362262267789",
+  "config": {
+    "nome": "Odonto Excellence - Salto de Pirapora",
+    "whatsapp": "5515997929237",
+    "telefone": "(15) 99792-9237",
+    "endereco": "Rua Honório de Almeida Barros, Jardim, n° 331, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

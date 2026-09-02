@@ -1,0 +1,19 @@
+{
+  "nome": "Gandia Odontologia",
+  "cidade": "Itu",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. Joaquim Bernardes Borges, 595, Itu - SP",
+  "telefone": "(11) 4025-5526",
+  "whatsapp": "551140255526",
+  "nota_google": "4,8",
+  "avaliacoes_google": "23",
+  "google_maps": "https://www.google.com/maps?cid=12648561301630883388",
+  "config": {
+    "nome": "Gandia Odontologia",
+    "whatsapp": "551140255526",
+    "telefone": "(11) 4025-5526",
+    "endereco": "R. Joaquim Bernardes Borges, 595, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

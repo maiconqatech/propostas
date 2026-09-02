@@ -1,0 +1,19 @@
+{
+  "nome": "Lava rápido e Estética Vencedor",
+  "cidade": "Itu",
+  "categoria": "Lava-rápido",
+  "endereco": "Av. Eugen Wissmann, 1970 - São Luiz, Itu - SP, 13304-270, Itu - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "4,1",
+  "avaliacoes_google": "13",
+  "google_maps": "https://www.google.com/maps?cid=4749940425786122424",
+  "config": {
+    "nome": "Lava rápido e Estética Vencedor",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "Av. Eugen Wissmann, 1970 - São Luiz, Itu - SP, 13304-270, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

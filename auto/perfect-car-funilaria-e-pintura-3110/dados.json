@@ -1,0 +1,19 @@
+{
+  "nome": "Perfect Car - Funilaria e Pintura",
+  "cidade": "Votorantim",
+  "categoria": "Pintura automotiva",
+  "endereco": "Rua Sebastião Benedito Reis, 119, Votorantim - SP",
+  "telefone": "(15) 3542-2019",
+  "whatsapp": "551535422019",
+  "nota_google": "4,5",
+  "avaliacoes_google": "10",
+  "google_maps": "https://www.google.com/maps?cid=175648457290813110",
+  "config": {
+    "nome": "Perfect Car - Funilaria e Pintura",
+    "whatsapp": "551535422019",
+    "telefone": "(15) 3542-2019",
+    "endereco": "Rua Sebastião Benedito Reis, 119, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

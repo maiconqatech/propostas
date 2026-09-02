@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica De Fisioterapia Cazzo",
+  "cidade": "Sorocaba",
+  "categoria": "Fisioterapeuta",
+  "endereco": "Alameda Laurindo de Brito, 125, Sorocaba - SP",
+  "telefone": "(15) 3302-1808",
+  "whatsapp": "551533021808",
+  "nota_google": "3,9",
+  "avaliacoes_google": "26",
+  "google_maps": "https://www.google.com/maps?cid=7597669473951462757",
+  "config": {
+    "nome": "Clínica De Fisioterapia Cazzo",
+    "whatsapp": "551533021808",
+    "telefone": "(15) 3302-1808",
+    "endereco": "Alameda Laurindo de Brito, 125, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

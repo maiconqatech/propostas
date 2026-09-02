@@ -1,0 +1,19 @@
+{
+  "nome": "Centro Veterinário",
+  "cidade": "Piedade",
+  "categoria": "Veterinário",
+  "endereco": "R. Mal. Deodoro da Fonseca, 269, Piedade - SP",
+  "telefone": "(00) 00000-0000",
+  "whatsapp": "",
+  "nota_google": "3,0",
+  "avaliacoes_google": "2",
+  "google_maps": "https://www.google.com/maps?cid=13068825148996999876",
+  "config": {
+    "nome": "Centro Veterinário",
+    "whatsapp": "",
+    "telefone": "(00) 00000-0000",
+    "endereco": "R. Mal. Deodoro da Fonseca, 269, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

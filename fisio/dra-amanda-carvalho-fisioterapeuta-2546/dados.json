@@ -1,0 +1,19 @@
+{
+  "nome": "Dra. Amanda Carvalho - Fisioterapeuta",
+  "cidade": "Sorocaba",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Joaquim Murtinho, 80, Sorocaba - SP",
+  "telefone": "(15) 98110-4060",
+  "whatsapp": "5515981104060",
+  "nota_google": "5,0",
+  "avaliacoes_google": "60",
+  "google_maps": "https://www.google.com/maps?cid=9272551556444222546",
+  "config": {
+    "nome": "Dra. Amanda Carvalho - Fisioterapeuta",
+    "whatsapp": "5515981104060",
+    "telefone": "(15) 98110-4060",
+    "endereco": "R. Joaquim Murtinho, 80, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

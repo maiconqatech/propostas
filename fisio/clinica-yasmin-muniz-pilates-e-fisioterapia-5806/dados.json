@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Yasmin Muniz - Pilates e Fisioterapia",
+  "cidade": "Votorantim",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Av. Tiradentes, 435, Votorantim - SP",
+  "telefone": "(15) 99124-1567",
+  "whatsapp": "5515991241567",
+  "nota_google": "5,0",
+  "avaliacoes_google": "24",
+  "google_maps": "https://www.google.com/maps?cid=13314687253097415806",
+  "config": {
+    "nome": "Clínica Yasmin Muniz - Pilates e Fisioterapia",
+    "whatsapp": "5515991241567",
+    "telefone": "(15) 99124-1567",
+    "endereco": "Av. Tiradentes, 435, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

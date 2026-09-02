@@ -1,0 +1,19 @@
+{
+  "nome": "Gama ODONTOLOGIA",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Dentista",
+  "endereco": "R. Maria Clara dos Santos, 126, Salto de Pirapora - SP",
+  "telefone": "(15) 99776-8774",
+  "whatsapp": "5515997768774",
+  "nota_google": "4,5",
+  "avaliacoes_google": "37",
+  "google_maps": "https://www.google.com/maps?cid=11668632053486119799",
+  "config": {
+    "nome": "Gama ODONTOLOGIA",
+    "whatsapp": "5515997768774",
+    "telefone": "(15) 99776-8774",
+    "endereco": "R. Maria Clara dos Santos, 126, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

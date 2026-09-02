@@ -1,0 +1,19 @@
+{
+  "nome": "OdontoDias",
+  "cidade": "Itu",
+  "categoria": "Dentista",
+  "endereco": "R. Floriano Peixoto, 925 - Sl 02, Itu - SP",
+  "telefone": "(11) 2715-9407",
+  "whatsapp": "551127159407",
+  "nota_google": "4,4",
+  "avaliacoes_google": "43",
+  "google_maps": "https://www.google.com/maps?cid=8416340224627858156",
+  "config": {
+    "nome": "OdontoDias",
+    "whatsapp": "551127159407",
+    "telefone": "(11) 2715-9407",
+    "endereco": "R. Floriano Peixoto, 925 - Sl 02, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

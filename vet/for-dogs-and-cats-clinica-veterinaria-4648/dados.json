@@ -1,0 +1,19 @@
+{
+  "nome": "For Dogs and Cats Clínica Veterinária",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "Av. Eugen Wissmann, 2341, Itu - SP",
+  "telefone": "(11) 94985-0013",
+  "whatsapp": "5511949850013",
+  "nota_google": "4,8",
+  "avaliacoes_google": "139",
+  "google_maps": "https://www.google.com/maps?cid=1995899996462074648",
+  "config": {
+    "nome": "For Dogs and Cats Clínica Veterinária",
+    "whatsapp": "5511949850013",
+    "telefone": "(11) 94985-0013",
+    "endereco": "Av. Eugen Wissmann, 2341, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

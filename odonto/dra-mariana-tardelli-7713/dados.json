@@ -1,0 +1,19 @@
+{
+  "nome": "Dra. Mariana Tardelli",
+  "cidade": "Piedade",
+  "categoria": "Dentista",
+  "endereco": "R. Araújo Leite, 38 - sala 03, Piedade - SP",
+  "telefone": "(15) 98152-0303",
+  "whatsapp": "5515981520303",
+  "nota_google": "5,0",
+  "avaliacoes_google": "6",
+  "google_maps": "https://www.google.com/maps?cid=3237677805623687713",
+  "config": {
+    "nome": "Dra. Mariana Tardelli",
+    "whatsapp": "5515981520303",
+    "telefone": "(15) 98152-0303",
+    "endereco": "R. Araújo Leite, 38 - sala 03, Piedade - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

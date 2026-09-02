@@ -1,0 +1,19 @@
+{
+  "nome": "Seven Pet Group",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "R. Jerônimo Gonçalves Meira, 288, Itu - SP",
+  "telefone": "(11) 91959-7073",
+  "whatsapp": "5511919597073",
+  "nota_google": "4,9",
+  "avaliacoes_google": "54",
+  "google_maps": "https://www.google.com/maps?cid=6531673306174931711",
+  "config": {
+    "nome": "Seven Pet Group",
+    "whatsapp": "5511919597073",
+    "telefone": "(11) 91959-7073",
+    "endereco": "R. Jerônimo Gonçalves Meira, 288, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "REABILITARE - Clinica de Fisioterapia e Pilates",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Pedro de Paula Leite, 479, Itu - SP",
+  "telefone": "(11) 2715-7750",
+  "whatsapp": "551127157750",
+  "nota_google": "5,0",
+  "avaliacoes_google": "71",
+  "google_maps": "https://www.google.com/maps?cid=4549180944777737049",
+  "config": {
+    "nome": "REABILITARE - Clinica de Fisioterapia e Pilates",
+    "whatsapp": "551127157750",
+    "telefone": "(11) 2715-7750",
+    "endereco": "R. Pedro de Paula Leite, 479, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

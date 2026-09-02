@@ -1,0 +1,19 @@
+{
+  "nome": "Lima Barros Odontologia Familiar",
+  "cidade": "Salto de Pirapora",
+  "categoria": "Clínica odontológica",
+  "endereco": "Rua Ovídio Leme dos Santos, 208, Salto de Pirapora - SP",
+  "telefone": "(15) 3292-3563",
+  "whatsapp": "551532923563",
+  "nota_google": "5,0",
+  "avaliacoes_google": "7",
+  "google_maps": "https://www.google.com/maps?cid=2281604922113091447",
+  "config": {
+    "nome": "Lima Barros Odontologia Familiar",
+    "whatsapp": "551532923563",
+    "telefone": "(15) 3292-3563",
+    "endereco": "Rua Ovídio Leme dos Santos, 208, Salto de Pirapora - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

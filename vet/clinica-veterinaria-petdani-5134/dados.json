@@ -1,0 +1,19 @@
+{
+  "nome": "Clínica Veterinária PetDani",
+  "cidade": "Itu",
+  "categoria": "Veterinário",
+  "endereco": "Av. José Augusto Pickardt, 139, Itu - SP",
+  "telefone": "(11) 91959-5858",
+  "whatsapp": "5511919595858",
+  "nota_google": "5,0",
+  "avaliacoes_google": "11",
+  "google_maps": "https://www.google.com/maps?cid=818181581266805134",
+  "config": {
+    "nome": "Clínica Veterinária PetDani",
+    "whatsapp": "5511919595858",
+    "telefone": "(11) 91959-5858",
+    "endereco": "Av. José Augusto Pickardt, 139, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar um horário para o meu pet."
+  }
+}

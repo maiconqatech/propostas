@@ -1,0 +1,19 @@
+{
+  "nome": "Browbox Funilaria Artesanal",
+  "cidade": "Sorocaba",
+  "categoria": "Pintura automotiva",
+  "endereco": "R. Epitácio Pessoa, n° 109, Sorocaba - SP",
+  "telefone": "(15) 99658-3947",
+  "whatsapp": "5515996583947",
+  "nota_google": "5,0",
+  "avaliacoes_google": "31",
+  "google_maps": "https://www.google.com/maps?cid=12220306615260679570",
+  "config": {
+    "nome": "Browbox Funilaria Artesanal",
+    "whatsapp": "5515996583947",
+    "telefone": "(15) 99658-3947",
+    "endereco": "R. Epitácio Pessoa, n° 109, Sorocaba - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de um orçamento de estética automotiva."
+  }
+}

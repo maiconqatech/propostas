@@ -1,0 +1,19 @@
+{
+  "nome": "Qualy Fisio",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Francisco Benedito da Silveira, 46, Itu - SP",
+  "telefone": "(11) 99531-2793",
+  "whatsapp": "5511995312793",
+  "nota_google": "4,8",
+  "avaliacoes_google": "50",
+  "google_maps": "https://www.google.com/maps?cid=14959625494222989344",
+  "config": {
+    "nome": "Qualy Fisio",
+    "whatsapp": "5511995312793",
+    "telefone": "(11) 99531-2793",
+    "endereco": "R. Francisco Benedito da Silveira, 46, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

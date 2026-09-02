@@ -1,0 +1,19 @@
+{
+  "nome": "Instituto FisioMotion",
+  "cidade": "Itu",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "R. Dr. Silva Castro, 311, Itu - SP",
+  "telefone": "(11) 94489-3047",
+  "whatsapp": "5511944893047",
+  "nota_google": "5,0",
+  "avaliacoes_google": "8",
+  "google_maps": "https://www.google.com/maps?cid=17347930867246432921",
+  "config": {
+    "nome": "Instituto FisioMotion",
+    "whatsapp": "5511944893047",
+    "telefone": "(11) 94489-3047",
+    "endereco": "R. Dr. Silva Castro, 311, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

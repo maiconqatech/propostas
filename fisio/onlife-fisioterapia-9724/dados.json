@@ -1,0 +1,19 @@
+{
+  "nome": "OnLife Fisioterapia",
+  "cidade": "Votorantim",
+  "categoria": "Clínica de Fisioterapia",
+  "endereco": "Avenida Professora Marques Peres, 288 - sala 81, Votorantim - SP",
+  "telefone": "(15) 99156-4664",
+  "whatsapp": "5515991564664",
+  "nota_google": "5,0",
+  "avaliacoes_google": "28",
+  "google_maps": "https://www.google.com/maps?cid=15176500149633879724",
+  "config": {
+    "nome": "OnLife Fisioterapia",
+    "whatsapp": "5515991564664",
+    "telefone": "(15) 99156-4664",
+    "endereco": "Avenida Professora Marques Peres, 288 - sala 81, Votorantim - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

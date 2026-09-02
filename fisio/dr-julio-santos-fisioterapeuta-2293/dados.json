@@ -1,0 +1,19 @@
+{
+  "nome": "Dr. Júlio Santos Fisioterapeuta",
+  "cidade": "Itu",
+  "categoria": "Fisioterapeuta",
+  "endereco": "Av. Eugen Wissmann, 37, Itu - SP",
+  "telefone": "(11) 93957-1355",
+  "whatsapp": "5511939571355",
+  "nota_google": "5,0",
+  "avaliacoes_google": "1",
+  "google_maps": "https://www.google.com/maps?cid=8724086612951222293",
+  "config": {
+    "nome": "Dr. Júlio Santos Fisioterapeuta",
+    "whatsapp": "5511939571355",
+    "telefone": "(11) 93957-1355",
+    "endereco": "Av. Eugen Wissmann, 37, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia."
+  }
+}

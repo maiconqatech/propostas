@@ -1,0 +1,19 @@
+{
+  "nome": "Dra. Carolina Medeiros | Dentista em Itu",
+  "cidade": "Itu",
+  "categoria": "Dentista",
+  "endereco": "R. Celso Gonçalves Dias, 72, Itu - SP",
+  "telefone": "(11) 99890-2148",
+  "whatsapp": "5511998902148",
+  "nota_google": "5,0",
+  "avaliacoes_google": "6",
+  "google_maps": "https://www.google.com/maps?cid=6670167041743620049",
+  "config": {
+    "nome": "Dra. Carolina Medeiros | Dentista em Itu",
+    "whatsapp": "5511998902148",
+    "telefone": "(11) 99890-2148",
+    "endereco": "R. Celso Gonçalves Dias, 72, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}

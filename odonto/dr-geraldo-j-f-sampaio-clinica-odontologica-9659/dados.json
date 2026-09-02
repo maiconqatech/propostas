@@ -1,0 +1,19 @@
+{
+  "nome": "Dr. Geraldo J. F. Sampaio Clínica Odontológica",
+  "cidade": "Itu",
+  "categoria": "Clínica odontológica",
+  "endereco": "R. Maria Spineli Bruni, 16 - Sl 02, Itu - SP",
+  "telefone": "(11) 97471-0203",
+  "whatsapp": "5511974710203",
+  "nota_google": "5,0",
+  "avaliacoes_google": "423",
+  "google_maps": "https://www.google.com/maps?cid=5496220204310519659",
+  "config": {
+    "nome": "Dr. Geraldo J. F. Sampaio Clínica Odontológica",
+    "whatsapp": "5511974710203",
+    "telefone": "(11) 97471-0203",
+    "endereco": "R. Maria Spineli Bruni, 16 - Sl 02, Itu - SP",
+    "instagram": "",
+    "msgPadrao": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+  }
+}
