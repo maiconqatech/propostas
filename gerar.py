@@ -127,10 +127,11 @@ def monta_config(lead: dict, nicho: str) -> dict:
 RE_CONFIG = re.compile(r"const CONFIG = \{.*?\};", re.S)
 
 
-def renderiza(tpl: str, cfg: dict, nota: str, aval: str, marca: str) -> str:
+def renderiza(tpl: str, cfg: dict, nota: str, aval: str, marca: str, url: str = "") -> str:
     nome = cfg["nome"]
     # troca a marca generica do template pelo nome do lead (logo, title, textos, rodape)
     html = tpl.replace(marca, nome).replace(marca.replace(" ", "&nbsp;"), nome)
+    html = html.replace("__OG_URL__", url)
 
     novo_cfg = "const CONFIG = " + json.dumps(cfg, ensure_ascii=False, indent=2) + ";"
     html = RE_CONFIG.sub(lambda _: novo_cfg, html, count=1)
@@ -209,7 +210,7 @@ def main():
                 })
                 continue
 
-            html = renderiza(tpl, cfg, nota, aval, meta["marca"])
+            html = renderiza(tpl, cfg, nota, aval, meta["marca"], url)
             pasta.mkdir(parents=True, exist_ok=True)
             (pasta / "index.html").write_text(html, encoding="utf-8")
             (pasta / "dados.json").write_text(

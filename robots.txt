@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /odonto/
+Disallow: /vet/
+Disallow: /fisio/
+Disallow: /pilates/
+Disallow: /auto/
+Allow: /$
