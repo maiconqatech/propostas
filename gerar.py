@@ -25,6 +25,11 @@ CSV_MESTRE = RAIZ / "leads" / "leads-sem-site.csv"
 USUARIO_GH = "maiconqatech"
 REPO = "propostas"
 
+# base das URLs das propostas.
+#   com dominio proprio ligado no repo:  "https://lancaseusite.com.br"
+#   sem dominio (github pages padrao):   f"https://{USUARIO_GH}.github.io/{REPO}"
+BASE = "https://lancaseusite.com.br"
+
 TPL = RAIZ / "_templates"
 
 # nicho -> (template, marca generica do template, mensagem padrao do WhatsApp)
@@ -193,7 +198,7 @@ def main():
             aval = (lead["Avaliacoes"] or "").strip()
 
             pasta = RAIZ / nicho / sl
-            url = f"https://{USUARIO_GH}.github.io/{REPO}/{nicho}/{sl}/"
+            url = f"{BASE}/{nicho}/{sl}/"
 
             # pagina feita a mao (arquivo .manual na pasta): nao sobrescreve, so registra no indice
             if (pasta / ".manual").exists():
