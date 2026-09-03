@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /
 Disallow: /odonto/
 Disallow: /vet/
 Disallow: /fisio/
@@ -6,4 +7,5 @@ Disallow: /pilates/
 Disallow: /auto/
 Disallow: /painel/
 Disallow: /servicos/
-Allow: /$
+
+Sitemap: https://lancaseusite.com.br/sitemap.xml
