@@ -4,4 +4,6 @@ Disallow: /vet/
 Disallow: /fisio/
 Disallow: /pilates/
 Disallow: /auto/
+Disallow: /painel/
+Disallow: /servicos/
 Allow: /$

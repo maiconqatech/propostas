@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Painel de propostas</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3Crect%20width='32'%20height='32'%20rx='8'%20fill='%230e9f6e'/%3E%3Ccircle%20cx='16'%20cy='16'%20r='6'%20fill='white'/%3E%3C/svg%3E">
+<style>
+  :root{--brand:#0e9f6e;--brand-dark:#0a7c56;--ink:#182a24;--muted:#5b6b64;--line:#e2ece7;--bg:#f4f8f6}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:"Segoe UI",system-ui,Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg);font-size:14px;line-height:1.5}
+  .wrap{max-width:1200px;margin:0 auto;padding:18px}
+  h1{font-size:1.25rem;margin-bottom:2px}
+  .hint{color:var(--muted);font-size:.85rem;margin-bottom:16px}
+  .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:14px}
+  select,input[type=search]{padding:8px 10px;border:1px solid var(--line);border-radius:9px;font:inherit;background:#fff}
+  input[type=search]{min-width:200px;flex:1}
+  button{padding:8px 14px;border:0;border-radius:9px;font:inherit;font-weight:600;cursor:pointer;background:var(--brand);color:#fff}
+  button.ghost{background:#fff;color:var(--brand-dark);border:1px solid var(--line)}
+  .stats{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+  .chip{background:#fff;border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:.82rem}
+  .chip b{color:var(--brand-dark)}
+  table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+  th,td{padding:9px 11px;text-align:left;border-bottom:1px solid var(--line);vertical-align:middle}
+  th{background:#eef6f2;font-size:.78rem;text-transform:uppercase;letter-spacing:.04em;color:#3c4a44;position:sticky;top:0}
+  tr:last-child td{border-bottom:0}
+  td .emp{font-weight:600}
+  td .sub{color:var(--muted);font-size:.8rem}
+  .act{display:flex;gap:6px;flex-wrap:wrap}
+  .act a,.act button{font-size:.8rem;padding:6px 10px;border-radius:8px;text-decoration:none;font-weight:600}
+  a.prev{background:#eef2f6;color:#33506e}
+  a.wa{background:#25d366;color:#fff}
+  button.cp{background:#fff;color:var(--muted);border:1px solid var(--line)}
+  select.st{padding:6px 8px;border-radius:8px;border:1px solid var(--line);font-weight:600}
+  select.st[data-v=enviado]{background:#e6f0fb;color:#2b5f9e}
+  select.st[data-v=respondeu]{background:#fdf0dc;color:#9a6a12}
+  select.st[data-v=fechou]{background:#e2f6ec;color:#137a4a}
+  select.st[data-v=descartar]{background:#eef0f1;color:#75808a}
+  .empty{padding:30px;text-align:center;color:var(--muted)}
+  @media(max-width:720px){th:nth-child(2),td:nth-child(2){display:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Painel de propostas</h1>
+  <p class="hint">O status fica salvo só neste navegador. Use "Baixar CSV" de vez em quando pra não perder. As páginas de prévia não são tocadas por aqui.</p>
+
+  <div class="bar">
+    <select id="fNicho"><option value="">Todos os nichos</option></select>
+    <select id="fCidade"><option value="">Todas as cidades</option></select>
+    <select id="fStatus">
+      <option value="">Qualquer status</option>
+      <option value="__none">Sem status</option>
+      <option value="enviado">Enviado</option>
+      <option value="respondeu">Respondeu</option>
+      <option value="fechou">Fechou</option>
+      <option value="descartar">Descartar</option>
+    </select>
+    <input type="search" id="fBusca" placeholder="Buscar empresa...">
+    <button class="ghost" id="btnCsv">Baixar CSV</button>
+  </div>
+
+  <div class="stats" id="stats"></div>
+
+  <table>
+    <thead><tr><th>Empresa</th><th>Cidade</th><th>Google</th><th>Status</th><th>Ações</th></tr></thead>
+    <tbody id="tbody"></tbody>
+  </table>
+  <div class="empty" id="empty" hidden>Nenhuma proposta com esses filtros.</div>
+</div>
+
+<script>
+const KEY = "painel_status_v1";
+const NICHO_LABEL = {odonto:"Odontologia",vet:"Veterinária",fisio:"Fisioterapia",auto:"Estética automotiva",pilates:"Pilates"};
+let DADOS = [];
+let STATUS = {};
+try { STATUS = JSON.parse(localStorage.getItem(KEY) || "{}"); } catch(e) { STATUS = {}; }
+
+function saveStatus(){ try { localStorage.setItem(KEY, JSON.stringify(STATUS)); } catch(e){} }
+
+function fill(sel, values){
+  values.sort((a,b)=>a.localeCompare(b,'pt'));
+  for (const v of values){ const o=document.createElement("option"); o.value=v; o.textContent=v; sel.appendChild(o); }
+}
+
+function render(){
+  const n=fNicho.value, c=fCidade.value, s=fStatus.value, q=fBusca.value.trim().toLowerCase();
+  const rows = DADOS.filter(d=>{
+    const st = STATUS[d.link] || "";
+    if (n && d.nicho!==n) return false;
+    if (c && d.cidade!==c) return false;
+    if (s==="__none" && st) return false;
+    if (s && s!=="__none" && st!==s) return false;
+    if (q && !d.empresa.toLowerCase().includes(q)) return false;
+    return true;
+  });
+  tbody.innerHTML = "";
+  empty.hidden = rows.length>0;
+  for (const d of rows){
+    const st = STATUS[d.link] || "";
+    const tr = document.createElement("tr");
+    tr.innerHTML = `
+      <td><div class="emp">${esc(d.empresa)}</div><div class="sub">${NICHO_LABEL[d.nicho]||d.nicho}</div></td>
+      <td>${esc(d.cidade)}</td>
+      <td>${d.nota && d.nota!=="0" ? esc(d.nota)+" ("+esc(d.avaliacoes||"0")+")" : "—"}</td>
+      <td></td>
+      <td><div class="act">
+        <a class="prev" href="${esc(d.link)}" target="_blank" rel="noopener">Prévia</a>
+        <a class="wa" href="${esc(d.abrir||('https://wa.me/'+d.whatsapp))}" target="_blank" rel="noopener">WhatsApp</a>
+        <button class="cp" data-cp="${esc(d.link)}">Copiar</button>
+      </div></td>`;
+    const sel = document.createElement("select");
+    sel.className = "st"; sel.dataset.v = st;
+    for (const [v,l] of [["","—"],["enviado","Enviado"],["respondeu","Respondeu"],["fechou","Fechou"],["descartar","Descartar"]]){
+      const o=document.createElement("option"); o.value=v; o.textContent=l; if(v===st)o.selected=true; sel.appendChild(o);
+    }
+    sel.addEventListener("change", ()=>{
+      if (sel.value) STATUS[d.link]=sel.value; else delete STATUS[d.link];
+      sel.dataset.v = sel.value; saveStatus(); renderStats();
+    });
+    tr.children[3].appendChild(sel);
+    tbody.appendChild(tr);
+  }
+}
+
+function renderStats(){
+  const by = {total:DADOS.length, enviado:0, respondeu:0, fechou:0, descartar:0, none:0};
+  const perN = {};
+  for (const d of DADOS){
+    const st = STATUS[d.link] || "none";
+    by[st]=(by[st]||0)+1;
+    perN[d.nicho] = perN[d.nicho] || {t:0,e:0,r:0,f:0};
+    perN[d.nicho].t++;
+    if(st==="enviado")perN[d.nicho].e++;
+    if(st==="respondeu")perN[d.nicho].r++;
+    if(st==="fechou")perN[d.nicho].f++;
+  }
+  const chips = [
+    `<span class="chip">Total <b>${by.total}</b></span>`,
+    `<span class="chip">Sem status <b>${by.none}</b></span>`,
+    `<span class="chip">Enviado <b>${by.enviado}</b></span>`,
+    `<span class="chip">Respondeu <b>${by.respondeu}</b></span>`,
+    `<span class="chip">Fechou <b>${by.fechou}</b></span>`,
+    `<span class="chip">Descartar <b>${by.descartar}</b></span>`,
+  ];
+  for (const k in perN){
+    const p = perN[k];
+    chips.push(`<span class="chip">${NICHO_LABEL[k]||k}: ${p.t} · env ${p.e} · resp ${p.r} · fech <b>${p.f}</b></span>`);
+  }
+  stats.innerHTML = chips.join("");
+}
+
+function esc(s){ return (s||"").replace(/[&<>"]/g, m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m])); }
+
+document.addEventListener("click", e=>{
+  const b = e.target.closest("[data-cp]");
+  if (b){ navigator.clipboard.writeText(b.dataset.cp); b.textContent="Copiado"; setTimeout(()=>b.textContent="Copiar",1200); }
+});
+
+btnCsv.addEventListener("click", ()=>{
+  const head = "empresa;cidade;nicho;nota;whatsapp;link;status";
+  const lines = DADOS.map(d=>[
+    d.empresa.replace(/;/g,","), d.cidade, d.nicho, d.nota||"", d.whatsapp, d.link, STATUS[d.link]||""
+  ].join(";"));
+  const blob = new Blob(["﻿"+head+"\n"+lines.join("\n")], {type:"text/csv;charset=utf-8"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "propostas-status.csv";
+  a.click();
+});
+
+[fNicho,fCidade,fStatus,fBusca].forEach(el=>el.addEventListener("input", render));
+
+fetch("./dados.json").then(r=>r.json()).then(d=>{
+  DADOS = d;
+  fill(fNicho, [...new Set(DADOS.map(x=>x.nicho))]);
+  // reescreve labels do nicho
+  [...fNicho.options].forEach(o=>{ if(o.value) o.textContent = NICHO_LABEL[o.value]||o.value; });
+  fill(fCidade, [...new Set(DADOS.map(x=>x.cidade))]);
+  renderStats();
+  render();
+}).catch(()=>{
+  document.getElementById("empty").hidden = false;
+  document.getElementById("empty").textContent = "Não consegui carregar dados.json. Rode: python mensagens.py";
+});
+</script>
+</body>
+</html>

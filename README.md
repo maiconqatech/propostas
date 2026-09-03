@@ -7,7 +7,11 @@ Cada página já vem com o nome, endereço, telefone e nota do Google do lead. �
 
 ```
 propostas/
+  index.html               homepage do serviço (lancaseusite.com.br)
   gerar.py                 gerador
+  mensagens.py             gera _MENSAGENS.md, _ENVIOS.csv e painel/dados.json
+  painel/index.html        painel de controle (status por lead, salvo no navegador)
+  servicos/index.html      cardápio de planos, pra mandar quando pedem preço
   leads/leads-sem-site.csv  planilha mestre (todos os leads da região, sem site)
   _templates/               os 5 templates (fonte da verdade)
     odonto.html  vet.html  fisio.html  pilates.html  auto.html
@@ -80,3 +84,27 @@ propostas/
 | Estúdio de pilates | `pilates/` | 10 |
 
 Fonte: `leads/leads-sem-site.csv` (2110 negócios da região sem site; o gerador filtra por categoria).
+
+## Páginas de uso interno
+
+- `lancaseusite.com.br/painel/` — controle de status por lead (salvo no navegador; use "Baixar CSV" de vez em quando)
+- `lancaseusite.com.br/servicos/` — cardápio de planos, pra mandar quando o prospect pergunta preço
+
+Ambas têm `noindex` e estão no `robots.txt`.
+
+## Cloudflare (opcional, grátis)
+
+Move o DNS pro Cloudflare pra ganhar analytics e e-mail no domínio, sem custo:
+
+1. Cria conta em cloudflare.com, **Add a site** -> `lancaseusite.com.br`, plano Free.
+2. O Cloudflare importa os registros atuais. Confira: 4 registros A pros IPs do GitHub
+   (185.199.108-111.153) e CNAME `www` -> `maiconqatech.github.io`. Deixe a nuvem **cinza**
+   (DNS only), nao laranja.
+3. O Cloudflare te da 2 nameservers. Na HostGator -> dominio -> **Nameservers**, troca
+   os da HostGator por esses dois.
+4. Propaga em minutos a algumas horas; o Cloudflare avisa quando ativa.
+5. Depois de ativo:
+   - **Analytics**: Analytics & Logs -> Web Analytics -> Enable (sem cookie banner).
+   - **E-mail**: Email -> Email Routing -> Enable. Cria `contato@lancaseusite.com.br`
+     encaminhando pro seu Gmail.
+6. No GitHub Pages nao muda nada.

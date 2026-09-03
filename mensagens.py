@@ -86,6 +86,8 @@ def main():
                 "empresa": empresa,
                 "cidade": cidade,
                 "whatsapp": wa,
+                "nota": nota,
+                "avaliacoes": aval,
                 "link": link,
                 "abrir": abrir,
                 "mensagem": msg.replace("\n", " / "),
@@ -98,12 +100,20 @@ def main():
     with open(RAIZ / "_ENVIOS.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(
             f,
-            fieldnames=["nicho", "empresa", "cidade", "whatsapp", "link", "abrir", "mensagem", "status"],
+            fieldnames=["nicho", "empresa", "cidade", "whatsapp", "nota", "avaliacoes", "link", "abrir", "mensagem", "status"],
             delimiter=";",
         )
         w.writeheader()
         w.writerows(mestre)
     print(f"\n  total: {len(mestre)}  ->  _ENVIOS.csv")
+
+    # dados do painel de controle
+    import json
+    (RAIZ / "painel").mkdir(exist_ok=True)
+    (RAIZ / "painel" / "dados.json").write_text(
+        json.dumps(mestre, ensure_ascii=False), encoding="utf-8"
+    )
+    print(f"  {len(mestre)} -> painel/dados.json")
 
 
 if __name__ == "__main__":
