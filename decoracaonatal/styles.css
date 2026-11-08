@@ -73,6 +73,19 @@ h3 { font-size: 1.125rem; font-weight: 700; }
   font-weight: 600;
 }
 .countdown[hidden], .countdown-plain[hidden] { display: none; }
+.promo-timer {
+  display: inline-flex;
+  gap: .35rem;
+  margin-top: 1rem;
+  padding: .35rem 1rem;
+  border: 1px solid rgb(242 182 50 / 50%);
+  border-radius: 999px;
+  color: var(--gold);
+  font-size: .875rem;
+  font-weight: 600;
+}
+.promo-timer[hidden] { display: none; }
+.promo-timer time { font-variant-numeric: tabular-nums; }
 
 /* Capa do ebook */
 .book {

@@ -36,4 +36,33 @@
   });
 })();
 
+// Contagem regressiva da promoção, iniciada quando a página é carregada.
+(function showPromoTimer() {
+  const timers = document.querySelectorAll("[data-promo-timer]");
+  if (!timers.length) return;
+
+  const endTime = Date.now() + 5 * 60 * 1000;
+  const update = () => {
+    const remaining = Math.max(0, endTime - Date.now());
+    const totalSeconds = Math.ceil(remaining / 1000);
+    const minutes = Math.floor(totalSeconds / 60);
+    const seconds = totalSeconds % 60;
+
+    timers.forEach((timer) => {
+      const time = timer.querySelector("[data-promo-time]");
+      if (remaining > 0) {
+        time.textContent = `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+      } else {
+        timer.textContent = "O prazo da promoção terminou.";
+      }
+      timer.hidden = false;
+    });
+
+    if (remaining === 0) clearInterval(interval);
+  };
+
+  const interval = setInterval(update, 1000);
+  update();
+})();
+
 document.getElementById("year").textContent = new Date().getFullYear();
