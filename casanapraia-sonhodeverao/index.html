@@ -154,7 +154,7 @@
     font-weight:600;
   }
   .fatos b{font-family:var(--titulo); font-weight:800; font-size:1.25rem; margin-right:3px;}
-  .fatos .sem-pet{grid-column:1 / -1; color:var(--sol); font-weight:700;}
+  .fatos .clima{grid-column:1 / -1; color:var(--sol); font-weight:700;}
 
   /* Perto de tudo */
   .perto{background:var(--sol); color:var(--noite);}
@@ -263,7 +263,8 @@
   .comodidades{background:var(--branco);}
   .comod-lista{display:grid; grid-template-columns:1fr 1fr; gap:14px 16px; margin-top:30px;}
   .comod-lista li{display:flex; align-items:flex-start; gap:9px; font-weight:600; font-size:1rem; line-height:1.3;}
-  .comod-lista .nao{color:var(--telha); font-weight:700;}
+  .regra{margin-top:28px; color:var(--tinta-suave);}
+  .regra strong{color:var(--tinta);}
 
   /* Avaliações e anfitrião */
   .confianca{background:var(--agua-clara);}
@@ -279,6 +280,21 @@
   .anfitriao p{color:var(--tinta-suave);}
   .selos{display:flex; flex-wrap:wrap; gap:8px; font-size:.9375rem; font-weight:600;}
   .selos li{background:var(--agua-clara); padding:4px 12px; border-radius:8px;}
+
+  /* Perguntas frequentes */
+  .faq{background:var(--branco);}
+  .faq-lista{margin-top:28px; max-width:780px;}
+  .faq details{border-top:2px solid var(--tinta);}
+  .faq details:last-child{border-bottom:2px solid var(--tinta);}
+  .faq summary{
+    display:flex; align-items:center; justify-content:space-between; gap:16px;
+    min-height:64px; padding:12px 0; cursor:pointer; list-style:none;
+    font-family:var(--titulo); font-weight:800; font-size:1.25rem; line-height:1.15; letter-spacing:-.01em;
+  }
+  .faq summary::-webkit-details-marker{display:none;}
+  .faq summary::after{content:"+"; flex-shrink:0; font-size:1.75rem; line-height:1; color:var(--piscina); transition:transform .15s ease;}
+  .faq details[open] summary::after{transform:rotate(45deg);}
+  .faq details p{padding-bottom:20px; color:var(--tinta-suave); max-width:62ch;}
 
   /* Chamada final */
   .final{background:var(--noite); color:#fff; padding:80px 20px;}
@@ -430,8 +446,7 @@
     <li><b>4</b> camas</li>
     <li><b>2</b> banheiros</li>
     <li><b>4,7</b> de nota</li>
-    <li class="sem-pet">🚫 Não aceitamos pets</li>
-  </ul>
+    <li class="clima"><span aria-hidden="true">🌀</span> Ventilador de teto em todos os cômodos</li>  </ul>
 </div>
 
 <section class="perto secao" id="localizacao">
@@ -537,8 +552,8 @@
       <li><span aria-hidden="true">🚿</span>Chuveiro externo</li>
       <li><span aria-hidden="true">📷</span>Câmeras de segurança externas</li>
       <li><span aria-hidden="true">🏠</span>Casa térrea (sem escadas)</li>
-      <li class="nao"><span aria-hidden="true">🚫</span>Não aceitamos pets</li>
     </ul>
+    <p class="regra"><strong>Regra da casa:</strong> hospedagem sem animais de estimação.</p>
   </div>
 </section>
 
@@ -566,6 +581,30 @@
         <li>Responde em até 1h</li>
         <li>100% de resposta</li>
       </ul>
+    </div>
+  </div>
+</section>
+
+<section class="faq secao" id="perguntas">
+  <div class="limite">
+    <h2>Perguntas frequentes</h2>
+    <div class="faq-lista">
+      <details name="faq">
+        <summary>Qual é o horário de check-in e check-out?</summary>
+        <p>A entrada é a partir das 14h e a saída é até as 13h. Se a casa estiver livre, dá para combinar outro horário pelo WhatsApp.</p>
+      </details>
+      <details name="faq">
+        <summary>Preciso levar roupa de cama e toalhas?</summary>
+        <p>Sim. A casa não fornece roupa de cama nem toalhas, então é preciso levar tudo.</p>
+      </details>
+      <details name="faq">
+        <summary>Quais são as regras de som e convivência no bairro?</summary>
+        <p>O bairro é tranquilo e o silêncio começa às 22h.</p>
+      </details>
+      <details name="faq">
+        <summary>Como funciona a reserva?</summary>
+        <p>Você garante a data com uma entrada de 20% do valor e paga o restante 1 dia antes de entrar na casa. Datas e valores são combinados pelo WhatsApp.</p>
+      </details>
     </div>
   </div>
 </section>
