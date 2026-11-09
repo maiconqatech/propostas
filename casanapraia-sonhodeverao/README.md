@@ -25,9 +25,9 @@ start index.html
 
 HTML estático, publica em qualquer hospedagem sem configuração:
 
-- **GitHub Pages**: deploy automático via GitHub Actions a cada push em `main`
+- **GitHub Pages**: servida em `lancaseusite.com.br` pelo repositório `propostas`, a cada push em `main`
 - **Vercel / Netlify**: importe o repositório, sem build command
 
 ## Publicado em
 
-https://maiconqatech.github.io/sonho-de-verao/
+https://lancaseusite.com.br/casanapraia-sonhodeverao/

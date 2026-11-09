@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maiconqatech.github.io/sonho-de-verao/sitemap.xml
+Sitemap: https://lancaseusite.com.br/casanapraia-sonhodeverao/sitemap.xml
