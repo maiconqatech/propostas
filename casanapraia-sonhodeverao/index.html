@@ -119,6 +119,9 @@
   }
   .btn-whats:hover{background:#4be084; transform:translateY(-2px);}
 
+  .cta-bloco{display:flex; flex-direction:column;}
+  .garantia, .final p.garantia{margin:10px 0 0; max-width:none; color:var(--sol); font-weight:700; text-align:center; text-wrap:balance;}
+
   /* Topo */
   .topo{background:var(--noite); color:#fff; position:relative; z-index:2;}
   .topo-linha{
@@ -356,8 +359,8 @@
     .comod-lista{grid-template-columns:repeat(3, 1fr);}
     .opinioes{grid-template-columns:1.5fr 1fr; align-items:start;}
     .anfitriao{padding:32px;}
-    .hero-acoes{flex-direction:row; align-items:center; gap:22px;}
-    .hero-fotos{align-self:auto;}
+    .hero-acoes{flex-direction:row; align-items:flex-start; gap:22px;}
+    .hero-fotos{align-self:flex-start; margin-top:9px;}
     .endereco{flex-direction:row; align-items:center; justify-content:space-between; gap:20px;}
   }
 
@@ -386,6 +389,7 @@
     #lb-prox{right:28px;}
     .tour-grade{grid-template-columns:1.1fr .9fr; gap:64px; align-items:center;}
     .tour .btn-whats{width:auto;}
+    .tour .garantia{text-align:left;}
     .tour-video{margin:0 0 0 auto;}
     .casa-grade{grid-template-columns:1.1fr .9fr; gap:64px; align-items:stretch;}
     .casa-foto img{max-height:none;}
@@ -430,10 +434,13 @@
     <h1>Casa com piscina para alugar em Peruíbe</h1>
     <p class="hero-sub">Recebe até 10 pessoas e tem área gourmet com churrasqueira. Fica a 1,5 km da praia, perto do Supermercado Extra, da padaria e da academia.</p>
     <div class="hero-acoes" id="hero-acoes">
+      <div class="cta-bloco">
       <a class="btn-whats" href="https://wa.me/5515997341422?text=Ol%C3%A1!%20Vi%20a%20casa%20Sonho%20de%20Ver%C3%A3o%20em%20Peru%C3%ADbe%20e%20quero%20saber%20mais%20sobre%20disponibilidade." target="_blank" rel="noopener">
         <svg class="icone-whats" aria-hidden="true"><use href="#whats"/></svg>
         Consultar datas no WhatsApp
       </a>
+      <p class="garantia">Sem caução. Só 20% de sinal para garantir a data.</p>
+      </div>
       <a class="hero-fotos" href="#galeria">Ver fotos da casa</a>
     </div>
   </div>
@@ -495,6 +502,7 @@
         <svg class="icone-whats" aria-hidden="true"><use href="#whats"/></svg>
         Consultar datas no WhatsApp
       </a>
+      <p class="garantia">Sem caução. Só 20% de sinal para garantir a data.</p>
     </div>
     <div class="tour-video">
       <video id="tour-video" controls playsinline preload="none" poster="images/video-capa.jpg" width="576" height="1024" aria-label="Tour em vídeo pela casa Sonho de Verão">
@@ -552,6 +560,7 @@
       <li><span aria-hidden="true">🚿</span>Chuveiro externo</li>
       <li><span aria-hidden="true">📷</span>Câmeras de segurança externas</li>
       <li><span aria-hidden="true">🏠</span>Casa térrea (sem escadas)</li>
+      <li><span aria-hidden="true">⚡</span>Voltagem da casa: 110V</li>
     </ul>
     <p class="regra"><strong>Regra da casa:</strong> hospedagem sem animais de estimação.</p>
   </div>
@@ -603,7 +612,7 @@
       </details>
       <details name="faq">
         <summary>Como funciona a reserva? Tem caução?</summary>
-        <p>Você garante a data com uma entrada de 20% do valor e paga o restante 1 dia antes de entrar na casa. Não cobramos caução. Datas e valores são combinados pelo WhatsApp.</p>
+        <p>Você garante a data com um sinal de 20% do valor e paga o restante 1 dia antes de entrar na casa. Não cobramos caução. Datas e valores são combinados pelo WhatsApp.</p>
       </details>
     </div>
   </div>
@@ -618,6 +627,7 @@
       <svg class="icone-whats" aria-hidden="true"><use href="#whats"/></svg>
       Chamar: (15) 99734-1422
     </a>
+    <p class="garantia">Sem caução. Só 20% de sinal para garantir a data.</p>
   </div>
 </section>
 
