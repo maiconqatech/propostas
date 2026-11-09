@@ -48,9 +48,11 @@ h3 { font-size: 1.125rem; font-weight: 700; }
   transition: transform var(--ease), filter var(--ease);
 }
 .buy span { transition: transform var(--ease); }
-.buy:hover { transform: translateY(-2px); filter: brightness(1.06); }
-.buy:hover span { transform: translateX(4px); }
-.buy:active { transform: translateY(0); }
+@media (hover: hover) {
+  .buy:hover { transform: translateY(-2px); filter: brightness(1.06); }
+  .buy:hover span { transform: translateX(4px); }
+}
+.buy:active { transform: translateY(0) scale(.98); }
 .buy:focus-visible { outline: 3px solid var(--paper); outline-offset: 3px; }
 
 /* Topo */
@@ -87,6 +89,34 @@ h3 { font-size: 1.125rem; font-weight: 700; }
 .promo-timer[hidden] { display: none; }
 .promo-timer time { font-variant-numeric: tabular-nums; }
 
+/* Oferta */
+.offer { margin-top: 1.75rem; }
+.offer-from { display: block; font-size: 1.25rem; font-weight: 600; }
+.offer-from s { opacity: .75; }
+.offer-price {
+  display: block;
+  margin-top: .25rem;
+  color: var(--gold);
+  font-family: var(--display);
+  font-size: clamp(3.5rem, 12vw, 5rem);
+  font-weight: 600;
+  line-height: 1;
+}
+
+/* Selo de garantia */
+.guarantee {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  width: fit-content;
+  margin-top: 1.25rem;
+  font-size: .9375rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+.guarantee svg { flex: none; width: 1.75rem; height: 1.75rem; fill: var(--gold); stroke: var(--pine-deep); stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
+.final .guarantee { margin-right: auto; margin-left: auto; }
+
 /* Capa do ebook */
 .book {
   display: block;
@@ -99,7 +129,9 @@ h3 { font-size: 1.125rem; font-weight: 700; }
   transform: rotate(2deg);
   transition: transform var(--ease);
 }
-.book:hover { transform: rotate(0); }
+@media (hover: hover) {
+  .book:hover { transform: rotate(0); }
+}
 
 /* Dores */
 .rules { border-top: 1px solid rgb(33 48 42 / 16%); }
@@ -163,6 +195,126 @@ footer { padding: .5rem 1rem 7rem; background: var(--pine-deep); color: rgb(248 
   .book { max-width: 22rem; }
   .sticky { display: none; }
   footer { padding-bottom: 2rem; }
+}
+
+/* Layout próprio para celular */
+@media (max-width: 767px) {
+  body { font-size: 1rem; }
+  h2 { font-size: clamp(1.75rem, 7.6vw, 2.15rem); }
+  .wrap { padding: 3.5rem 1.25rem; }
+  .wrap-narrow { padding: 4.5rem 1.25rem 4rem; }
+  .buy { -webkit-tap-highlight-color: transparent; }
+
+  /* Topo: título, capa e só depois o texto e o botão */
+  .hero {
+    background:
+      radial-gradient(70% 34% at 50% 52%, rgb(242 182 50 / 20%), transparent 70%),
+      linear-gradient(180deg, var(--pine-deep), var(--pine) 45%);
+  }
+  .hero::after {
+    content: "";
+    position: absolute;
+    right: -12%;
+    bottom: -1px;
+    left: -12%;
+    height: 2.75rem;
+    border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+    background: var(--cream);
+  }
+  .hero-grid { display: flex; flex-direction: column; align-items: center; gap: 0; padding: 4.5rem 1.25rem 5.75rem; text-align: center; }
+  .hero-copy { display: contents; }
+  .countdown { order: 1; margin-bottom: 1rem; }
+  .hero h1 { order: 2; font-size: clamp(2.05rem, 9.6vw, 2.75rem); }
+  .book {
+    order: 3;
+    width: min(58vw, 15rem);
+    margin: 1.75rem auto .5rem;
+    border-radius: 6px;
+    box-shadow:
+      0 24px 44px -12px rgb(0 0 0 / 70%),
+      0 0 64px 4px rgb(242 182 50 / 26%);
+  }
+  .lead { order: 4; font-size: 1.0625rem; }
+  .hero .promo-timer { order: 2; }
+  .hero .offer { order: 4; margin-top: 1.5rem; }
+  .hero .buy { order: 5; margin-top: 1.5rem; }
+  .guarantee { order: 6; }
+  .note { order: 6; }
+
+  /* Dores */
+  .pains { gap: 1.25rem; }
+  .rules, .rules li { border: 0; }
+  .rules li { position: relative; padding: .625rem 0 .625rem 2.5rem; font-size: 1.0625rem; }
+  .rules li::before {
+    content: "×";
+    position: absolute;
+    top: .625rem;
+    left: 0;
+    width: 1.75rem;
+    height: 1.75rem;
+    border-radius: 50%;
+    background: rgb(163 35 28 / 12%);
+    color: var(--berry);
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.6rem;
+    text-align: center;
+  }
+  .punch {
+    margin-top: 1.5rem;
+    padding: 1.5rem 1.25rem;
+    border-radius: 1.25rem;
+    background: var(--pine);
+    color: var(--cream);
+    font-size: 1.375rem;
+    text-align: center;
+    text-wrap: balance;
+  }
+
+  /* Benefícios em cartões */
+  .benefits { gap: .875rem; margin-top: 1.75rem; }
+  .benefits li {
+    gap: .875rem;
+    padding: 1.125rem;
+    border: 1px solid rgb(33 48 42 / 8%);
+    border-radius: 1.25rem;
+    background: #fff;
+    box-shadow: 0 12px 24px -18px rgb(18 53 42 / 45%);
+  }
+  .benefits p { font-size: .9688rem; line-height: 1.45; }
+  .buy.mid { margin-top: 1.75rem; }
+
+  /* Para quem é */
+  .berry .split { gap: 1.5rem; }
+  .checks li { padding-left: 2.5rem; font-size: 1.0625rem; }
+  .checks li + li { margin-top: 1.125rem; }
+  .checks li::before {
+    top: .05em;
+    width: 1.625rem;
+    height: 1.625rem;
+    border-radius: 50%;
+    background: var(--gold);
+    color: var(--berry);
+    font-size: .9375rem;
+    line-height: 1.625rem;
+    text-align: center;
+  }
+
+  /* Chamada final */
+  .final { background: radial-gradient(90% 55% at 50% 0%, rgb(242 182 50 / 14%), transparent 70%), var(--pine-deep); }
+  .final h2 { font-size: clamp(1.9rem, 8.4vw, 2.4rem); }
+  .final .lead { margin-top: 1rem; }
+
+  /* A barra fixa só aparece quando nenhum outro botão está na tela */
+  .sticky {
+    animation: none;
+    background: rgb(12 38 30 / 88%);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    transition: transform var(--ease), visibility var(--ease);
+  }
+  .sticky.is-hidden { visibility: hidden; transform: translateY(110%); }
+  footer { padding: .5rem 1.25rem max(1.5rem, env(safe-area-inset-bottom)); }
 }
 
 @media (prefers-reduced-motion: reduce) {

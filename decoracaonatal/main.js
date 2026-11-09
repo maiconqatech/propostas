@@ -65,4 +65,31 @@
   update();
 })();
 
+// Esconde a barra fixa de compra enquanto outro botão de compra estiver na tela.
+(function toggleStickyBar() {
+  const sticky = document.querySelector(".sticky");
+  const buttons = document.querySelectorAll("main .buy");
+  if (!sticky || !("IntersectionObserver" in window)) return;
+
+  const visible = new Set();
+  sticky.classList.add("is-hidden");
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) visible.add(entry.target);
+      else visible.delete(entry.target);
+    });
+    sticky.classList.toggle("is-hidden", visible.size > 0);
+  }, { rootMargin: "0px 0px -80px 0px" });
+
+  buttons.forEach((button) => observer.observe(button));
+})();
+
+// Envia cada clique de compra para a propriedade do Google Analytics do botão.
+document.querySelectorAll("[data-ga-id]").forEach((button) => {
+  button.addEventListener("click", () => {
+    gtag("event", button.dataset.gaEvent, { send_to: button.dataset.gaId, transport_type: "beacon" });
+  });
+});
+
 document.getElementById("year").textContent = new Date().getFullYear();
