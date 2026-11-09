@@ -436,8 +436,26 @@
     .topo-whats{padding:0 18px;}
   }
 </style>
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1598341321572595');
+fbq('track', 'PageView');
+</script>
+<!-- End Meta Pixel Code -->
 </head>
 <body>
+<noscript><img height="1" width="1" style="display:none" alt=""
+src="https://www.facebook.com/tr?id=1598341321572595&ev=PageView&noscript=1"
+/></noscript>
 
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
   <symbol id="whats" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12.004 2C6.486 2 2.01 6.477 2.01 11.996c0 1.99.518 3.876 1.5 5.55L2 22l4.582-1.478a9.94 9.94 0 0 0 5.422 1.55C17.523 22.072 22 17.596 22 12.077 22 6.559 17.523 2.083 12.004 2Zm0 18.06a8.01 8.01 0 0 1-4.335-1.276l-.31-.185-3.156.912.916-3.075-.203-.318A8.02 8.02 0 1 1 20.02 12.06a8.03 8.03 0 0 1-8.017 8.001Z"/></symbol>
@@ -715,6 +733,12 @@
 </dialog>
 
 <script>
+  // Conta cada clique em botão do WhatsApp como contato no Meta Pixel.
+  document.addEventListener('click', function(e){
+    var link = e.target.closest('a[href*="wa.me"]');
+    if(link && window.fbq) fbq('track', 'Contact');
+  });
+
   // Fotos em tela cheia. Sem JavaScript, os links continuam abrindo cada imagem.
   (function(){
     var dlg = document.getElementById('lb');
