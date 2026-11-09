@@ -190,6 +190,23 @@
     background:var(--noite); color:#fff; border-radius:7px; font-size:.875rem; font-weight:600;
   }
 
+  /* Tour em vídeo */
+  .tour{background:var(--noite); color:#fff;}
+  .tour-grade{display:grid; gap:28px;}
+  .tour .intro{color:#eaf3ff;}
+  .tour .btn-whats{width:100%; margin-top:24px;}
+  .tour-video{position:relative; width:100%; max-width:380px; margin:0 auto; aspect-ratio:9/16; border-radius:16px; overflow:hidden; background:#000;}
+  .tour-video video{display:block; width:100%; height:100%; object-fit:cover;}
+  .tour-play{
+    position:absolute; left:50%; top:50%; width:84px; height:84px; margin:-42px 0 0 -42px;
+    display:flex; align-items:center; justify-content:center;
+    border:0; border-radius:50%; background:var(--sol); color:var(--noite); cursor:pointer;
+    transition:transform .15s ease;
+  }
+  .tour-play:hover{transform:scale(1.08);}
+  .tour-play svg{width:36px; height:36px; fill:currentColor; margin-left:5px;}
+  .tour-play[hidden]{display:none;}
+
   /* A casa */
   .casa{background:var(--agua-clara);}
   .casa-grade{display:grid; gap:32px;}
@@ -306,6 +323,9 @@
     .galeria-grade{grid-template-columns:repeat(4, 1fr); grid-template-rows:repeat(2, 240px);}
     .galeria-grade a, .galeria-grade a:first-child, .galeria-grade a:last-child:nth-child(even){aspect-ratio:auto; grid-column:auto;}
     .galeria-grade a:first-child{grid-column:span 2; grid-row:span 2;}
+    .tour-grade{grid-template-columns:1.1fr .9fr; gap:64px; align-items:center;}
+    .tour .btn-whats{width:auto;}
+    .tour-video{margin:0 0 0 auto;}
     .casa-grade{grid-template-columns:1.1fr .9fr; gap:64px; align-items:stretch;}
     .casa-foto img{max-height:none;}
     .motivos{grid-template-columns:1fr 1fr; gap:22px 28px;}
@@ -402,6 +422,28 @@
       <a href="images/foto2.jpeg" target="_blank"><img src="images/foto2.jpeg" width="1200" height="900" alt="Sala com sofá de canto e mesa de jantar" loading="lazy" decoding="async"><span>Sala</span></a>
       <a href="images/foto4.jpeg" target="_blank"><img src="images/foto4.jpeg" width="1200" height="554" alt="Quarto com duas camas e beliche" loading="lazy" decoding="async"><span>Quarto com beliche</span></a>
       <a href="images/foto6.jpeg" target="_blank"><img src="images/foto6.jpeg" width="1200" height="554" alt="Segundo quarto da casa" loading="lazy" decoding="async"><span>Segundo quarto</span></a>
+    </div>
+  </div>
+</section>
+
+<section class="tour secao" id="tour">
+  <div class="limite tour-grade">
+    <div>
+      <h2>Faça um tour pela casa em menos de 1 minuto</h2>
+      <p class="intro">Veja a piscina, a área gourmet, a churrasqueira, as redes e os quartos antes de reservar.</p>
+      <a class="btn-whats" href="https://wa.me/5515997341422?text=Ol%C3%A1!%20Vi%20a%20casa%20Sonho%20de%20Ver%C3%A3o%20em%20Peru%C3%ADbe%20e%20quero%20saber%20mais%20sobre%20disponibilidade." target="_blank" rel="noopener">
+        <svg class="icone-whats" aria-hidden="true"><use href="#whats"/></svg>
+        Consultar datas no WhatsApp
+      </a>
+    </div>
+    <div class="tour-video">
+      <video id="tour-video" controls playsinline preload="none" poster="images/video-capa.jpg" width="576" height="1024" aria-label="Tour em vídeo pela casa Sonho de Verão">
+        <source src="videos/tour-casa.mp4" type="video/mp4">
+        Seu navegador não abre este vídeo. <a href="videos/tour-casa.mp4">Baixe o tour da casa</a>.
+      </video>
+      <button class="tour-play" id="tour-play" type="button" aria-label="Assistir ao tour da casa" hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3.5v17a1 1 0 0 0 1.5.86l14-8.5a1 1 0 0 0 0-1.72l-14-8.5A1 1 0 0 0 6 3.5Z"/></svg>
+      </button>
     </div>
   </div>
 </section>
@@ -510,6 +552,16 @@
 </a>
 
 <script>
+  // Botão grande de play sobre a capa do vídeo; sem JavaScript, ficam os controles nativos.
+  (function(){
+    var video = document.getElementById('tour-video');
+    var play = document.getElementById('tour-play');
+    play.hidden = false;
+    video.controls = false;
+    play.addEventListener('click', function(){ video.play(); });
+    video.addEventListener('play', function(){ play.hidden = true; video.controls = true; });
+  })();
+
   // Esconde a barra fixa enquanto o botão principal do topo ou o da chamada final estão visíveis.
   (function(){
     if(!('IntersectionObserver' in window)) return;
