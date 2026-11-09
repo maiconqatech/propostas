@@ -250,6 +250,39 @@
   .tour-play svg{width:36px; height:36px; fill:currentColor; margin-left:5px;}
   .tour-play[hidden]{display:none;}
 
+  /* Calendário de datas livres */
+  .datas{background:var(--branco);}
+  .legenda{display:flex; flex-wrap:wrap; gap:8px 20px; margin-top:18px; font-size:.9375rem; font-weight:600;}
+  .legenda li{display:flex; align-items:center; gap:7px;}
+  .legenda i{width:18px; height:18px; border-radius:5px; display:block;}
+  .legenda .l-livre{background:var(--agua-clara); border:1.5px solid var(--piscina);}
+  .legenda .l-ocupado{background:#dfe5ee;}
+  .legenda .l-escolha{background:var(--piscina);}
+  .cal{position:relative; margin-top:26px;}
+  .cal-nav{position:absolute; top:0; right:0; display:flex; gap:8px;}
+  .cal-nav button{
+    width:44px; height:44px; border:1.5px solid var(--tinta); border-radius:10px;
+    background:var(--branco); color:var(--tinta); font-size:1.25rem; line-height:1; cursor:pointer;
+  }
+  .cal-nav button:disabled{opacity:.3; cursor:default;}
+  .cal-meses{display:grid; gap:32px;}
+  .cal-mes{min-width:0;}
+  .cal-mes h3{font-size:1.25rem; line-height:44px; margin-bottom:8px;}
+  .cal-grade{display:grid; grid-template-columns:repeat(7, minmax(0, 1fr)); gap:3px;}
+  .cal-sem{text-align:center; font-size:.875rem; font-weight:700; color:var(--tinta-suave); padding-bottom:4px;}
+  .cal-dia{
+    height:44px; border:0; border-radius:8px; font:inherit; font-weight:700;
+    background:var(--agua-clara); color:var(--tinta); cursor:pointer;
+  }
+  .cal-dia.ocupado{background:#dfe5ee; color:#5d6c82; font-weight:500; text-decoration:line-through; cursor:not-allowed;}
+  .cal-dia.passado{background:none; color:#94a1b4; font-weight:500; cursor:default;}
+  .cal-dia.faixa{background:#b9d6ff;}
+  .cal-dia.escolhido{background:var(--piscina); color:#fff;}
+  .cal-vazio{height:44px;}
+  .cal-status{margin-top:18px; font-weight:600;}
+  .cal-acoes{display:flex; flex-direction:column; gap:10px; margin-top:12px;}
+  .cal-limpar{align-self:center; min-height:44px; padding:0 12px; border:0; background:none; color:var(--piscina); font:inherit; font-weight:600; text-decoration:underline; cursor:pointer;}
+
   /* A casa */
   .casa{background:var(--agua-clara);}
   .casa-grade{display:grid; gap:32px;}
@@ -390,6 +423,9 @@
     .tour-grade{grid-template-columns:1.1fr .9fr; gap:64px; align-items:center;}
     .tour .btn-whats{width:auto;}
     .tour .garantia{text-align:left;}
+    .cal-meses{grid-template-columns:1fr 1fr; gap:56px;}
+    .cal-acoes{flex-direction:row; align-items:center; gap:16px;}
+    .cal-limpar{align-self:auto;}
     .tour-video{margin:0 0 0 auto;}
     .casa-grade{grid-template-columns:1.1fr .9fr; gap:64px; align-items:stretch;}
     .casa-foto img{max-height:none;}
@@ -512,6 +548,33 @@
       <button class="tour-play" id="tour-play" type="button" aria-label="Assistir ao tour da casa" hidden>
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3.5v17a1 1 0 0 0 1.5.86l14-8.5a1 1 0 0 0 0-1.72l-14-8.5A1 1 0 0 0 6 3.5Z"/></svg>
       </button>
+    </div>
+  </div>
+</section>
+
+<section class="datas secao" id="datas">
+  <div class="limite">
+    <h2>Veja as datas livres</h2>
+    <p class="intro">Toque na data de entrada e depois na de saída. A confirmação da reserva é feita pelo WhatsApp.</p>
+    <ul class="legenda">
+      <li><i class="l-livre"></i>Livre</li>
+      <li><i class="l-ocupado"></i>Ocupado</li>
+      <li><i class="l-escolha"></i>Sua escolha</li>
+    </ul>
+    <div class="cal">
+      <div class="cal-nav">
+        <button id="cal-ant" type="button" aria-label="Mês anterior"><span aria-hidden="true">←</span></button>
+        <button id="cal-prox" type="button" aria-label="Próximo mês"><span aria-hidden="true">→</span></button>
+      </div>
+      <div class="cal-meses" id="cal-meses"></div>
+    </div>
+    <p class="cal-status" id="cal-status" aria-live="polite">Escolha a data de entrada.</p>
+    <div class="cal-acoes">
+      <a class="btn-whats" id="cal-whats" href="https://wa.me/5515997341422?text=Ol%C3%A1!%20Vi%20a%20casa%20Sonho%20de%20Ver%C3%A3o%20em%20Peru%C3%ADbe%20e%20quero%20saber%20mais%20sobre%20disponibilidade." target="_blank" rel="noopener">
+        <svg class="icone-whats" aria-hidden="true"><use href="#whats"/></svg>
+        <span id="cal-whats-texto">Consultar datas no WhatsApp</span>
+      </a>
+      <button class="cal-limpar" id="cal-limpar" type="button" hidden>Limpar datas</button>
     </div>
   </div>
 </section>
@@ -739,6 +802,115 @@
       document.documentElement.style.overflow = '';
       if(history.state && history.state.fotos) history.back();
     });
+  })();
+
+  // Calendário: para atualizar as reservas, edite só a lista abaixo (entrada, saída).
+  (function(){
+    var reservas = [
+      ['2026-11-18', '2026-11-22'],
+      ['2026-11-28', '2026-11-30'],
+      ['2026-12-04', '2026-12-06'],
+      ['2026-12-28', '2027-01-03'],
+      ['2027-01-04', '2027-01-11'],
+      ['2027-01-14', '2027-01-17'],
+      ['2027-01-23', '2027-01-25']
+    ];
+    var NOMES = ['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'];
+    var TOTAL_MESES = 12;
+    var meses = document.getElementById('cal-meses');
+    var status = document.getElementById('cal-status');
+    var whats = document.getElementById('cal-whats');
+    var whatsTexto = document.getElementById('cal-whats-texto');
+    var limpar = document.getElementById('cal-limpar');
+    var ant = document.getElementById('cal-ant');
+    var prox = document.getElementById('cal-prox');
+    var doisMeses = window.matchMedia('(min-width: 960px)');
+    var linkPadrao = whats.href;
+    var agora = new Date();
+    var pagina = 0, entrada = null, saida = null;
+
+    function iso(d){
+      return d.getFullYear() + '-' + ('0' + (d.getMonth() + 1)).slice(-2) + '-' + ('0' + d.getDate()).slice(-2);
+    }
+    function data(s){ var p = s.split('-'); return new Date(+p[0], p[1] - 1, +p[2]); }
+    function longa(s){ return s.split('-').reverse().join('/'); }
+    function curta(s){ return longa(s).slice(0, 5); }
+    function cadaDia(a, b, fn){
+      for(var d = data(a); iso(d) <= b; d.setDate(d.getDate() + 1)) fn(iso(d));
+    }
+
+    var hoje = iso(agora);
+    var ocupado = {};
+    reservas.forEach(function(r){ cadaDia(r[0], r[1], function(dia){ ocupado[dia] = true; }); });
+
+    function semOcupacao(a, b){
+      var livre = true;
+      cadaDia(a, b, function(dia){ if(ocupado[dia]) livre = false; });
+      return livre;
+    }
+    function celula(dia, numero, mes){
+      var passado = dia < hoje, cheio = !!ocupado[dia];
+      var classes = 'cal-dia' + (passado ? ' passado' : cheio ? ' ocupado' : '');
+      if(dia === entrada || dia === saida) classes += ' escolhido';
+      else if(entrada && saida && dia > entrada && dia < saida) classes += ' faixa';
+      var situacao = passado ? 'já passou' : cheio ? 'ocupado' : 'livre';
+      return '<button type="button" class="' + classes + '" data-dia="' + dia + '"' + (passado || cheio ? ' disabled' : '') +
+        ' aria-label="' + numero + ' de ' + NOMES[mes] + ', ' + situacao + '"' +
+        ' aria-pressed="' + (dia === entrada || dia === saida) + '">' + numero + '</button>';
+    }
+    function desenharMes(indice){
+      var primeiro = new Date(agora.getFullYear(), agora.getMonth() + indice, 1);
+      var ano = primeiro.getFullYear(), mes = primeiro.getMonth();
+      var ultimo = new Date(ano, mes + 1, 0).getDate();
+      var html = '<div class="cal-mes"><h3>' + NOMES[mes].charAt(0).toUpperCase() + NOMES[mes].slice(1) + ' ' + ano + '</h3><div class="cal-grade">';
+      ['D','S','T','Q','Q','S','S'].forEach(function(s){ html += '<div class="cal-sem" aria-hidden="true">' + s + '</div>'; });
+      var inicio = primeiro.getDay();
+      for(var v = 0; v < inicio; v++) html += '<div class="cal-vazio"></div>';
+      for(var n = 1; n <= ultimo; n++) html += celula(iso(new Date(ano, mes, n)), n, mes);
+      for(var r = inicio + ultimo; r < 42; r++) html += '<div class="cal-vazio"></div>';
+      return html + '</div></div>';
+    }
+    function atualizarEscolha(){
+      limpar.hidden = !entrada;
+      if(entrada && saida){
+        var noites = Math.round((data(saida) - data(entrada)) / 864e5);
+        status.textContent = 'Entrada em ' + longa(entrada) + ' e saída em ' + longa(saida) + ' (' + noites + (noites === 1 ? ' noite).' : ' noites).');
+        whatsTexto.textContent = 'Consultar ' + curta(entrada) + ' a ' + curta(saida) + ' no WhatsApp';
+        whats.href = 'https://wa.me/5515997341422?text=' + encodeURIComponent('Olá! Vi a casa Sonho de Verão em Peruíbe e quero saber se posso reservar com entrada em ' + longa(entrada) + ' e saída em ' + longa(saida) + '.');
+      } else {
+        status.textContent = entrada ? 'Entrada em ' + longa(entrada) + '. Agora escolha a data de saída.' : 'Escolha a data de entrada.';
+        whatsTexto.textContent = 'Consultar datas no WhatsApp';
+        whats.href = linkPadrao;
+      }
+    }
+    function desenhar(foco){
+      var qtd = doisMeses.matches ? 2 : 1, maximo = TOTAL_MESES - qtd;
+      pagina = Math.max(0, Math.min(maximo, pagina));
+      var html = '';
+      for(var i = 0; i < qtd; i++) html += desenharMes(pagina + i);
+      meses.innerHTML = html;
+      ant.disabled = pagina === 0;
+      prox.disabled = pagina === maximo;
+      atualizarEscolha();
+      if(foco){
+        var alvo = meses.querySelector('[data-dia="' + foco + '"]');
+        if(alvo) alvo.focus();
+      }
+    }
+
+    meses.addEventListener('click', function(e){
+      var botao = e.target.closest('[data-dia]');
+      if(!botao) return;
+      var dia = botao.dataset.dia;
+      if(entrada && !saida && dia > entrada && semOcupacao(entrada, dia)) saida = dia;
+      else { entrada = dia; saida = null; }
+      desenhar(dia);
+    });
+    limpar.addEventListener('click', function(){ entrada = saida = null; desenhar(); });
+    ant.addEventListener('click', function(){ pagina--; desenhar(); });
+    prox.addEventListener('click', function(){ pagina++; desenhar(); });
+    doisMeses.addEventListener('change', function(){ desenhar(); });
+    desenhar();
   })();
 
   // Botão grande de play sobre a capa do vídeo; sem JavaScript, ficam os controles nativos.
