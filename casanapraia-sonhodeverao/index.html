@@ -820,18 +820,23 @@ src="https://www.facebook.com/tr?id=1598341321572595&ev=PageView&noscript=1"
     });
   })();
 
-  // Calendário: para atualizar as reservas, edite só a lista abaixo (entrada, saída).
+  // Calendário: as datas vêm sozinhas do MeuAluguel (cada reserva lançada lá aparece aqui em até
+  // 5 minutos). Cada par é [entrada, saída]; o dia da saída fica livre para outro hóspede entrar.
   (function(){
-    var reservas = [
+    var API = 'https://meu-aluguel-three.vercel.app/api/public/disponibilidade/1f7419c2ba75412282aed7a2e931ee4f';
+    // Cópia das datas do sistema: usada só até a API responder ou se ela estiver fora do ar.
+    var reservasSalvas = [
       ['2026-11-18', '2026-11-22'],
       ['2026-11-28', '2026-11-30'],
       ['2026-12-04', '2026-12-06'],
-      ['2026-12-18', '2026-12-31'],
-      ['2027-01-01', '2027-01-03'],
+      ['2026-12-18', '2026-12-28'],
+      ['2026-12-28', '2027-01-03'],
       ['2027-01-04', '2027-01-11'],
       ['2027-01-14', '2027-01-17'],
       ['2027-01-23', '2027-01-25']
     ];
+    // Datas ocupadas fora do sistema (somadas sempre). Para liberar, apague a linha.
+    var extras = [];
     var NOMES = ['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'];
     var TOTAL_MESES = 12;
     var meses = document.getElementById('cal-meses');
@@ -852,17 +857,23 @@ src="https://www.facebook.com/tr?id=1598341321572595&ev=PageView&noscript=1"
     function data(s){ var p = s.split('-'); return new Date(+p[0], p[1] - 1, +p[2]); }
     function longa(s){ return s.split('-').reverse().join('/'); }
     function curta(s){ return longa(s).slice(0, 5); }
-    function cadaDia(a, b, fn){
-      for(var d = data(a); iso(d) <= b; d.setDate(d.getDate() + 1)) fn(iso(d));
+
+    // Noites de [a, b): a saída não conta, outro hóspede pode entrar nesse dia.
+    function cadaNoite(a, b, fn){
+      for(var d = data(a); iso(d) < b; d.setDate(d.getDate() + 1)) fn(iso(d));
     }
 
     var hoje = iso(agora);
     var ocupado = {};
-    reservas.forEach(function(r){ cadaDia(r[0], r[1], function(dia){ ocupado[dia] = true; }); });
+    function marcar(lista){
+      ocupado = {};
+      lista.concat(extras).forEach(function(r){ cadaNoite(r[0], r[1], function(dia){ ocupado[dia] = true; }); });
+    }
+    marcar(reservasSalvas);
 
     function semOcupacao(a, b){
       var livre = true;
-      cadaDia(a, b, function(dia){ if(ocupado[dia]) livre = false; });
+      cadaNoite(a, b, function(dia){ if(ocupado[dia]) livre = false; });
       return livre;
     }
     function celula(dia, numero, mes){
@@ -928,6 +939,16 @@ src="https://www.facebook.com/tr?id=1598341321572595&ev=PageView&noscript=1"
     prox.addEventListener('click', function(){ pagina++; desenhar(); });
     doisMeses.addEventListener('change', function(){ desenhar(); });
     desenhar();
+
+    // Atualiza com as datas do sistema; se a escolha atual ficou ocupada, ela é desfeita.
+    if(window.fetch){
+      fetch(API).then(function(r){ return r.ok ? r.json() : null; }).then(function(d){
+        if(!d || !d.ocupado) return;
+        marcar(d.ocupado.map(function(o){ return [o.entrada, o.saida]; }));
+        if(entrada && (ocupado[entrada] || (saida && !semOcupacao(entrada, saida)))) entrada = saida = null;
+        desenhar();
+      }).catch(function(){});
+    }
   })();
 
   // Botão grande de play sobre a capa do vídeo; sem JavaScript, ficam os controles nativos.
