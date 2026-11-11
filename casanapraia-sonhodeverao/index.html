@@ -821,7 +821,7 @@ src="https://www.facebook.com/tr?id=1598341321572595&ev=PageView&noscript=1"
   })();
 
   // Calendário: as datas vêm sozinhas do MeuAluguel (cada reserva lançada lá aparece aqui em até
-  // 5 minutos). Cada par é [entrada, saída]; o dia da saída fica livre para outro hóspede entrar.
+  // 5 minutos). Cada par é [entrada, saída]; o dia da saída também fica ocupado (dia de limpeza).
   (function(){
     var API = 'https://meu-aluguel-three.vercel.app/api/public/disponibilidade/1f7419c2ba75412282aed7a2e931ee4f';
     // Cópia das datas do sistema: usada só até a API responder ou se ela estiver fora do ar.
@@ -858,22 +858,22 @@ src="https://www.facebook.com/tr?id=1598341321572595&ev=PageView&noscript=1"
     function longa(s){ return s.split('-').reverse().join('/'); }
     function curta(s){ return longa(s).slice(0, 5); }
 
-    // Noites de [a, b): a saída não conta, outro hóspede pode entrar nesse dia.
-    function cadaNoite(a, b, fn){
-      for(var d = data(a); iso(d) < b; d.setDate(d.getDate() + 1)) fn(iso(d));
+    // Dias de [a, b], contando o dia da saída: ninguém entra no dia em que outro sai.
+    function cadaDia(a, b, fn){
+      for(var d = data(a); iso(d) <= b; d.setDate(d.getDate() + 1)) fn(iso(d));
     }
 
     var hoje = iso(agora);
     var ocupado = {};
     function marcar(lista){
       ocupado = {};
-      lista.concat(extras).forEach(function(r){ cadaNoite(r[0], r[1], function(dia){ ocupado[dia] = true; }); });
+      lista.concat(extras).forEach(function(r){ cadaDia(r[0], r[1], function(dia){ ocupado[dia] = true; }); });
     }
     marcar(reservasSalvas);
 
     function semOcupacao(a, b){
       var livre = true;
-      cadaNoite(a, b, function(dia){ if(ocupado[dia]) livre = false; });
+      cadaDia(a, b, function(dia){ if(ocupado[dia]) livre = false; });
       return livre;
     }
     function celula(dia, numero, mes){
